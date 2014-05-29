@@ -1,0 +1,18 @@
+# Software Documentation
+
+## General Tips
+  1. To install software, you must have an administrator account on your computer. And you must also be logged in as the administor when installing. In Windows, you may be required to install or run software in administrator mode. 
+  2. Much open-source software will be available through GitHub or SourceForge. SourceForge is a private company, and it may try to take advantage of newbie users. [SourceForge Warning](http://www.gluster.org/2013/08/how-far-the-once-mighty-sourceforge-has-fallen/ "SourceForge Warning") I will try to warn you of potential pitfalls, but I encourage you to warn one another if you encounter problems. GitHub is generally more widely used today.
+  3. Operating Systems:
+  * Apple Macintosh, you should be on Snow Leopard, Snow Lion, or Maverick. You may install UNIX-based software on Macintosh, which has been UNIX software for several years.
+  * MS Windows, you should be on Windows 7 or later. Windows XP or Vista are unlikely to be supported.
+  * UNIX implementations like Ubuntu, Red Hat for laptop or desktop system. Any UNIX implementation should work fine. But you're on your own, like always, and you're cool with it.
+  * Apple or Android Tablets, Google Chrome, etc. I am especially not responsible should you try to re-engineer your Chromebook or tablet to dual-boot with Linux kernel and support add-ons to emulate. Talk to UNIX people, have fun on hacker forums and reddit, but please don't ask me for assistance. I'm an English professor. 
+
+
+## Text Editors
+
+1. Vi Improved (Vim)
+  * Download: [Vim Installer](http://www.vim.org/ "Vim Home Page with Links to Installers"). Select appropriate installer for Windows or Mac.
+
+
