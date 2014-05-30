@@ -1,36 +1,63 @@
 # Software Documentation
 
 ## General Tips
-  1. To install software, you must have an administrator
- account on your computer. And you must also be logged in 
-as the administor when installing. In Windows, you may
- be required to install or run software in administrator mode. 
-  2. Much open-source software will be available through GitHub
- or SourceForge. SourceForge is a private company, and it may
- try to take advantage of newbie users.
+  1. In past 3 years, modern OS releases have added hurdles
+     if you seek to install software from non-approved vendors.
+     The warnings typically invoke viruses or security concerns.
+     Open-source software, generally maintained by academics,
+     has been around longer, relies on volunteer labor, and
+     is not going to start jumping through vendor hoops. Therefore,
+     when installing open source software, you may be warned
+     or forced to take extra steps. 
+  2. To install software, you must have an administrator
+   account on your computer. And you must also be logged in 
+   as the administor when installing. In Windows, especially, you may
+   be required to install or run software in administrator mode. 
+  3. Much open-source software will be available through GitHub
+   or SourceForge and sometimes on web sites that look dicey to
+   you because they still employ frames and fonts out of 1990s.
+   SourceForge is a private company, and it may try to take advantage of newbie users.
  [SourceForge Warning](http://www.gluster.org/2013/08/how-far-the-once-mighty-sourceforge-has-fallen/ "SourceForge Warning")
- I will try to warn you of potential pitfalls, but I 
- encourage you to warn one another if you encounter problems.
- GitHub is generally more widely used today.
-  3. Operating Systems:
+   I will try to warn you of potential pitfalls, but I 
+   encourage you to warn one another if you encounter problems.
+   One risk is that by end of course, 90s-style web sites with no dancing graphics
+   may seem kind of cool to you. 
+   GitHub is generally more widely used today.
+  4. Likewise, open source UNIX-based software may have less support for mouse,
+     may demand whole arsenal of arcane commands, may have
+     minimal availability of handholding tutorials,
+     and offer almost no immediate rewards during first hours of use,
+     first days of use, or even first weeks of use. That is, expect 20 hours of
+     struggle to reach minimal competence. Ask me about how long it
+     took to achieve basic competence with LaTeX, PanDoc, Vim Text Editor, GitHub,
+     etc. 
+  5. Operating Systems:
   * Apple Macintosh, you should be on Snow Leopard, Snow Lion,
- or Maverick. You may install UNIX-based software on Macintosh, which
- has been UNIX software for several years.
+    or Maverick. You may install UNIX-based software on Macintosh, which
+    has been a UNIX OS for several years.
   * MS Windows, you should be on Windows 7 or later. Windows XP or
- Vista are unlikely to be supported.
+    Vista are not supported.
   * UNIX implementations like Ubuntu, Red Hat for laptop or
- desktop system. Any UNIX implementation should work fine. But
- you're on your own, like always, and you're cool with it.
-  * Apple or Android Tablets, Google Chrome, etc. I
- am especially not responsible should you try to re-engineer
- your Chromebook or tablet to dual-boot with Linux kernel
- and support add-ons to emulate. Talk to UNIX people,
- have fun on hacker forums and reddit, but please don't ask me for assistance. I'm an English professor. 
-
+    desktop system. Any modern UNIX implementation should work fine. But
+    you're on your own, like always.
+  * Apple or Android Tablets, Google Chrome, etc. I have no
+    recommendations for OS-level hacking, emulation, dual boot modes, etc.
+    In the end, I am still an English professor.  
+  5. I will try to help, but I am not a substitute for trained
+     computer troubleshooters or technicians. For software,
+     contact [KSU HelpDesk](http://support.kent.edu "KSU Helpdesk"). For
+     virus and compenent repair, contact [KSU TechSpot](http://www2.kent.edu/is/support/thetechspot/index.cfm "The TechSpot"). 
 
 ## Text Editors
 
 1. Vi Improved (Vim)
-  * Download: [Vim Installer](http://www.vim.org/ "Vim Home Page with Links to Installers"). Select appropriate installer for Windows or Mac.
+  * Download: [Vim Installer](http://www.vim.org/ "Vim Home Page with Links to Installers"). Select appropriate executable installer for Windows or Mac (MacVim). 
+  * Follow instructions for installation.
+  * Complete the online tutorial (browser-based VIM emulation) at
+    [Open Vim](http://www.openvim.com/tutorial.html "Tutorial"). 
+  * Within functioning VIM, complete the vimtutor. For browser-based emulation
+    of text file, see [vimtutor](http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/vimtutor
+    "Vim Tutorial"). To "read" the tutorial is not enough. Complete
+    each exercise within VIM, about 45 minutes. 
 
 
