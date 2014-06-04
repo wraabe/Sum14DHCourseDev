@@ -87,9 +87,11 @@ Electronic literature, interesting from Mark Sample's
  - Also see List of DH resources, [http://amandafrench.net/2010/11/18/introduction-to-digital-humanities/](http://amandafrench.net/2010/11/18/introduction-to-digital-humanities/ "[http://amandafrench.net/2010/11/18/introduction-to-digital-humanities/")
  - And see Cohen, Daniel J. and Roy Rosenzweig, *Digital History: A Guide to Gathering Preserving, and Presenting the Past on the Web*  [http://chnm.gmu.edu/digitalhistory/](http://chnm.gmu.edu/digitalhistory/ "http://chnm.gmu.edu/digitalhistory/") See, especially, ``Becoming Digital" and ``Designing for the History Web" 
 
-
-
-
+## Birnbaum, David, Digital Humanities, University of Pittsburgh, Computational Methods in the Humanities
+ - Uses oXygen, SSH Shell (Windows), Fetch, and GitHub
+ - Provides his own ``even gentler" introduction to XML, in which he defines fundamtetal DH as 1) ``creation of electronic texts" for purposes that cannot be undertaken without computer assistance, 2) use of computational tools for original research results, 3) development of original programs if 2 do not meet needs.  And overall is ba brilliant introduction.
+ - Drupal
+ - A serious introduction to XML, HTML, CSS, XPATH, XSLT, REGEX, XQuery, JavaScript, 
 
 
 

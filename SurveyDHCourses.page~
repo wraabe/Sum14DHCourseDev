@@ -35,15 +35,13 @@ Humanities*; Manovich, *Language of New Media*
 "Software Takes Command"); Schreibman and Siemens, *A Companion to Digital Literary Study*
 [http://www.digitalhumanities.org/companionDLS/](http://www.digitalhumanities.org/companionDLS/ "Companion Digital Literary Study")
 
+9. Secondary are video, audio, images, games, maps, and modeling.
 
+10. Key concepts: data; opennness and copyright; network; and interaction
 
-CONTINUE WITH SLIDE 25
+11. Technologies: XML, TEI, Omeka, PHP, Zotero, Perl, SQL/mySQL
 
-
-
-
-
-
+12. Recommendations for syllabi: citation practices and archive of remixable.
 
 
 # Survey Digital Humanities Courses
@@ -67,6 +65,40 @@ Electronic literature, interesting from Mark Sample's
 ([http://poemsthatgo.com/gallery/fall2003/nine/nine.htm] "Nine")
 
 
+## Paul Fyfe, Fall 2011, Florida State, Intro to Digital Humanities, 
+
+ - A ``grad seminar": calls for ``fortitude'';
+ - Almost all online, almost all articles linked on syllabus 
+ - Hockey and Kirschenbaum on history; Unsworth and Flanders on unease; Ramsay on Building; McGann and Hayles on encoding; Renear and Cohen-Rosenzweig on markup; Nell Smith and Mueller on Scholarly Editing; Darnton, Cecire, Werner on edition/archive and hypertext; PMLA on Whitman Archive; Dublin Core and Omeka; Ramsay on ``Algorithmic criticism"; Rockwell and Witmore on Text Mining and Analysis; Nunberg and Michel-Shen-Aiden-Veres-Gray on digitized books; Cohen, Manovich, and Nowviskie on data; Bodenhamer, Corrigan, Harris, eds., on *Spatial Humanities* (e.g., GIS collection) and Croxall on timelines
+ - Very similar to what I might want to undertake, scaled down for undergraduates,  
+
+## Shannon Carter, TAMU, Summer 2013, Graduate 
+
+ - More of a critical reading class for DH in scholarship and teaching; a project ends it, but how to do (or what to do for) the project not very clear on syllabus
+ - Spiro, Getting Started, [http://journalofdigitalhumanities.org/1-1/getting-started-in-digital-humanities-by-lisa-spiro/ ()] *Journal of DH* 1:1 (2011)
+
+
+## Amanda French, GMU, HIST 390, GMU, Digital Past
+ - Excellent syllabus policies on plagiarism in DH work and citing non-text sources like images. 
+ - Introduces basic computing concepts: See Cohen and Rosenzweig, WordPress, 
+ - Intriguing articles: Errol Morris, on hacking and passwords, Google KML maps;
+   Tufte on Powerpoint and Norvig, Gettysburg Powerpoint,  
+ - Scratch is very intruiging as a DH project. See page 7. 
+ - Also see List of DH resources, [http://amandafrench.net/2010/11/18/introduction-to-digital-humanities/](http://amandafrench.net/2010/11/18/introduction-to-digital-humanities/ "[http://amandafrench.net/2010/11/18/introduction-to-digital-humanities/")
+ - And see Cohen, Daniel J. and Roy Rosenzweig, *Digital History: A Guide to Gathering Preserving, and Presenting the Past on the Web*  [http://chnm.gmu.edu/digitalhistory/](http://chnm.gmu.edu/digitalhistory/ "http://chnm.gmu.edu/digitalhistory/") See, especially, ``Becoming Digital" and ``Designing for the History Web" 
+
+## Birnbaum, David, Digital Humanities, University of Pittsburgh, Computational Methods in the Humanities
+ - Uses oXygen, SSH Shell (Windows), Fetch, and GitHub
+ - Provides his own ``even gentler" introduction to XML, in which he defines fundamtetal DH as 1) ``creation of electronic texts" for purposes that cannot be undertaken without computer assistance, 2) use of computational tools for original research results, 3) development of original programs if 2 do not meet needs.  And overall is ba brilliant introduction.
+ - Drupal
+ - A serious introduction to XML, HTML, CSS, XPATH, XSLT, REGEX, XQuery, JavaScript, 
+
+
+
+[]( " ")
+
+
+[]( " ")
 
 
 
