@@ -1,0 +1,166 @@
+\documentclass[]{article}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+    \usepackage{xltxtra,xunicode}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+\fi
+% use microtype if available
+\IfFileExists{microtype.sty}{\usepackage{microtype}}{}
+\ifxetex
+  \usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \usepackage[unicode=true]{hyperref}
+\fi
+\hypersetup{breaklinks=true,
+            bookmarks=true,
+            pdfauthor={},
+            pdftitle={},
+            colorlinks=true,
+            citecolor=blue,
+            urlcolor=blue,
+            linkcolor=magenta,
+            pdfborder={0 0 0}}
+\urlstyle{same}  % don't use monospace font for urls
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\setcounter{secnumdepth}{0}
+
+\author{}
+\date{}
+
+\begin{document}
+
+\section{Software Documentation}\label{software-documentation}
+
+\subsection{General Tips}\label{general-tips}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  In past 3 years, modern OS releases have added hurdles if you seek to
+  install software from non-approved vendors. The warnings typically
+  invoke viruses or security concerns. Open-source software, generally
+  maintained by academics, has been around longer, relies on volunteer
+  labor, and is not going to start jumping through vendor hoops because
+  the work is not for-profit. Therefore, when installing open source
+  software, you may receive ominous OS warnings. You should trust me and
+  override the OS settings.\\
+\item
+  To install software, you must have an administrator account on your
+  computer. And you must also be logged in as the administor when
+  installing. In Windows, especially, you may be required to install or
+  run software in administrator mode.
+\item
+  Much open-source software will be available through GitHub or
+  SourceForge and sometimes on web sites that look dicey to you because
+  they still employ frames and fonts out of 1990s. Despite advice that
+  you trust me, SourceForge is a private company that has difficulty
+  earning a profit. So it has been known to take advantage of newbie
+  users.
+  \href{http://www.gluster.org/2013/08/how-far-the-once-mighty-sourceforge-has-fallen/}{SourceForge
+  Warning} I will try to warn you of potential pitfalls, but I encourage
+  you to warn one another if you encounter problems. One risk is that by
+  end of course, 90s-style web sites with no dancing graphics may seem
+  kind of cool to you. GitHub is generally more widely used today.
+\item
+  Likewise, open source UNIX-based software may have less support for
+  mouse, may demand a whole arsenal of arcane commands, may have minimal
+  availability of handholding tutorials, and may offer almost no
+  immediate rewards during first hours of use, first days of use, or
+  even first weeks of use. That is, expect 20 hours of struggle to reach
+  minimal competence. Ask me about how long it took to achieve basic
+  competence with LaTeX, PanDoc, Vim Text Editor, GitHub, etc. That
+  answers: 4 mos., 4 weeks, 2 mos., 1 week, etc.
+\item
+  Operating Systems:
+\end{enumerate}
+
+\begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  Apple Macintosh, you should be on Snow Leopard, Snow Lion, or
+  Maverick. You may install UNIX-based software on Macintosh, which has
+  been a UNIX OS for several years.
+\item
+  MS Windows, you should be on Windows 7 or later. Windows XP or Vista
+  are not supported.
+\item
+  UNIX implementations like Ubuntu, Red Hat for laptop or desktop
+  system. Any modern UNIX implementation should work fine. But you're on
+  your own, like always.
+\item
+  Apple or Android Tablets, Google Chrome, etc. I have no
+  recommendations for OS-level hacking, emulation, dual boot modes, etc.
+  In the end, I am still an English professor.\\
+\end{itemize}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{4}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  I will try to help, but I am not a substitute for trained computer
+  troubleshooters or technicians. For software, contact
+  \href{http://support.kent.edu}{KSU HelpDesk}. For virus and compenent
+  repair, contact
+  \href{http://www2.kent.edu/is/support/thetechspot/index.cfm}{KSU
+  TechSpot}.
+\end{enumerate}
+
+\subsection{Text Editors}\label{text-editors}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  Vi Improved (Vim)
+\end{enumerate}
+
+\begin{itemize}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  Download: \href{http://www.vim.org/}{Vim Installer}. Select
+  appropriate executable installer for Windows or Mac (MacVim).
+\item
+  Follow instructions for installation.
+\item
+  Complete the basic online tutorial (browser-based VIM emulation) at
+  \href{http://www.openvim.com/tutorial.html}{Open Vim}.
+\item
+  Within actual VIM, complete the vimtutor. 1) Open VIM, 2) Click . 3)
+  Type ``vimtutor'' (exclude quote marks) and press . If that does not
+  work, type ``:help vimtutor'' and follow the instructions. Or, type
+  ``:echo
+  $VIMRUNTIME" to figure     out where vimtutor is located. Typically, it's located in "tutor" folder within     the $VIMRUNTIME
+  location. For browser-based emulation of text file, see
+  \href{http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/vimtutor}{vimtutor}.
+  To''read" the tutorial here is not enough. Complete each exercise
+  within VIM, about 45 minutes.
+\item
+  For higher proficiency, see
+  \href{http://www.danielmiessler.com/study/vim/}{Daniel Miessler, VIM
+  Tutorial and Primer}
+\item
+  Also see \href{http://tnerual.eriogerg.free.fr/vimqrc.pdf}{Laurent
+  Grégoire, VIM Quick Reference}
+\end{itemize}
+
+\end{document}

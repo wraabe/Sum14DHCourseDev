@@ -6,9 +6,11 @@
      The warnings typically invoke viruses or security concerns.
      Open-source software, generally maintained by academics,
      has been around longer, relies on volunteer labor, and
-     is not going to start jumping through vendor hoops. Therefore,
-     when installing open source software, you may be warned
-     or forced to take extra steps. 
+     is not going to start jumping through vendor hoops because
+     the work is not for-profit. Therefore,
+     when installing open source software, you may receive ominous
+     OS warnings. You should trust me and override
+     the OS settings.  
   2. To install software, you must have an administrator
    account on your computer. And you must also be logged in 
    as the administor when installing. In Windows, especially, you may
@@ -16,21 +18,21 @@
   3. Much open-source software will be available through GitHub
    or SourceForge and sometimes on web sites that look dicey to
    you because they still employ frames and fonts out of 1990s.
-   SourceForge is a private company, and it may try to take advantage of newbie users.
- [SourceForge Warning](http://www.gluster.org/2013/08/how-far-the-once-mighty-sourceforge-has-fallen/ "SourceForge Warning")
-   I will try to warn you of potential pitfalls, but I 
-   encourage you to warn one another if you encounter problems.
+   Despite advice that you trust me, SourceForge is a private company that
+   has difficulty earning a profit. So it has been known
+   to take advantage of newbie users.
+ [SourceForge Warning](http://www.gluster.org/2013/08/how-far-the-once-mighty-sourceforge-has-fallen/ "SourceForge Warning") I will try to warn you of potential pitfalls,
+   but I encourage you to warn one another if you encounter problems.
    One risk is that by end of course, 90s-style web sites with no dancing graphics
-   may seem kind of cool to you. 
-   GitHub is generally more widely used today.
+   may seem kind of cool to you.  GitHub is generally more widely used today.
   4. Likewise, open source UNIX-based software may have less support for mouse,
-     may demand whole arsenal of arcane commands, may have
+     may demand a whole arsenal of arcane commands, may have
      minimal availability of handholding tutorials,
-     and offer almost no immediate rewards during first hours of use,
+     and may offer almost no immediate rewards during first hours of use,
      first days of use, or even first weeks of use. That is, expect 20 hours of
      struggle to reach minimal competence. Ask me about how long it
      took to achieve basic competence with LaTeX, PanDoc, Vim Text Editor, GitHub,
-     etc. 
+     etc. That answers: 4 mos., 4 weeks, 2 mos., 1 week, etc.
   5. Operating Systems:
   * Apple Macintosh, you should be on Snow Leopard, Snow Lion,
     or Maverick. You may install UNIX-based software on Macintosh, which
@@ -53,11 +55,17 @@
 1. Vi Improved (Vim)
   * Download: [Vim Installer](http://www.vim.org/ "Vim Home Page with Links to Installers"). Select appropriate executable installer for Windows or Mac (MacVim). 
   * Follow instructions for installation.
-  * Complete the online tutorial (browser-based VIM emulation) at
+  * Complete the basic online tutorial (browser-based VIM emulation) at
     [Open Vim](http://www.openvim.com/tutorial.html "Tutorial"). 
-  * Within functioning VIM, complete the vimtutor. For browser-based emulation
+  * Within actual VIM, complete the vimtutor. 1) Open VIM, 2) Click <ESC>. 3) Type 
+    "vimtutor" (exclude quote marks) and press <Return>. If that does not work, type 
+    ":help vimtutor" and follow the instructions. Or, type ":echo $VIMRUNTIME" to figure
+    out where vimtutor is located. Typically, it's located in "tutor" folder within
+    the $VIMRUNTIME location. 
+    For browser-based emulation
     of text file, see [vimtutor](http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/vimtutor
-    "Vim Tutorial"). To "read" the tutorial is not enough. Complete
+    "Vim Tutorial"). To "read" the tutorial here is not enough. Complete
     each exercise within VIM, about 45 minutes. 
-
+ * For higher proficiency, see [Daniel Miessler, VIM Tutorial and Primer](http://www.danielmiessler.com/study/vim/ "Daniel Miessler, VIM Tutorial and Primer")
+ * Also see [Laurent Grégoire, VIM Quick Reference](http://tnerual.eriogerg.free.fr/vimqrc.pdf "Laurent Grégoire, VIM Quick Reference")
 
