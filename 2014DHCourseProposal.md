@@ -1,25 +1,26 @@
----
-authors:
-- |
-    Wesley Raabe, Ph.D.\
-    Assistant Professor, English
-date: 3 March 2014
-title: Summer 2014 Teaching Development Grant
-...
+% 2014 Digital Humanities Course Proposal
 
-A New Course in English: Digital Humanities, by Wesley Raabe {#a-new-course-in-english-digital-humanities-by-wesley-raabe .unnumbered}
-------------------------------------------------------------
+---
+title: Summer 2014 Digital Humanities Course Development Grant Proposal
+author:
+- name: Wesley Raabe
+  affiliation: Kent State University
+date: 3 March 2014
+bibliography: 2014DHCourseProposal.bib
+csl: chicago-note-bibliography.csl
+---
+
+# A New Course in English: Digital Humanities
 
 I apply for a Summer Teaching Development Grant to create a new course
 for the Department of English, an introduction to digital humanities.
-The formal number and name would be \`\`ENG 39395, ST: Intro to Digital
+The formal number and name would be "ENG 39395, ST: Intro to Digital
 Humanities." Because the course will be designated a special topic (ST),
 the pre-requisite would be either College Writing 2 (ENG 21011) or
 Honors Colloquium 2 (HONR 10297). The 15-week course would be open to
 most second-year students and up.
 
-Description of Course {#description-of-course .unnumbered}
----------------------
+# Description of Course 
 
 The course will provide undergraduates an introduction to software for
 text manipulation, to technical procedures for acquiring images and
@@ -44,7 +45,7 @@ text visualization software.
 A second benefit of the course is that it will serve as a proving ground
 for the revision of the graduate major, which will better qualify
 students for diverse career options. The Graduate Literature faculty in
-Fall 2013 met on proposals to offer MA \`\`tracks" or certificates. One
+Fall 2013 met on proposals to offer MA "tracks" or certificates. One
 proposed track would be in editing and publishing, disciplinary areas
 from which digital humanities originated in English departments. The
 skills of digital humanities are useful to a wider range of employers
@@ -60,10 +61,9 @@ Special Collections. I hope also to attract to the course several
 students from Computer Science or from the College of Digital Science
 who seek a humanities elective.
 
-Goals {#goals .unnumbered}
------
+#  Goals 
 
-The goals for students in \`\`ENG 39395, ST: Intro to Digital
+The goals for students in "ENG 39395, ST: Intro to Digital
 Humanities" are the following: 1) to acquire basic digital literacy
 skills (text and image acquisition, text encoding, image processing,
 text processing) that undergird web-based technology; 2) to become
@@ -107,8 +107,7 @@ for faculty classroom projects outside the Blackboard course management
 system. If scholarship and pedagogy are to be publicly accessible, they
 cannot be buried within a course management system.
 
-Impact {#impact .unnumbered}
-------
+#  Impact 
 
 The pilot version of the course will be designed for 24 students and
 will support 4 student projects, with 2 or 3 projects devoted to
@@ -124,131 +123,128 @@ a primary classroom assigned by the registrar and a faculty-staffed lab
 that will be housed in the IBE. I will staff the optional lab time
 myself because I receive a course release as the IBE director.
 
-Activities and Timeline {#activities-and-timeline .unnumbered}
------------------------
+#  Activities and Timeline
 
-Week 1
-:   Assess Digital Humanities undergraduate syllabi posted to Zotero
-    syllabus collection from Fall 2011 to the present (approx. 25) with
-    criteria identified by Lisa Spiro. From trends in DH instruction
-    that Spiro identified and newly emergent practices, locate model
-    exercises and instructional practices that have been tested in
-    classroom environments ([@Syllabi; @spiroknowing2011]).
+## Week 1
+ > Assess Digital Humanities undergraduate syllabi posted to Zotero
+ > syllabus collection from Fall 2011 to the present (approx. 25) with
+ > criteria identified by Lisa Spiro. From trends in DH instruction
+ > that Spiro identified and newly emergent practices, locate model
+ > exercises and instructional practices that have been tested in
+ > classroom environments [@syllabizotero; @spiroknowing2011].
 
-Week 2
-:   Create course web site by installing WordPress and Omeka instance on
-    personal web server. I have used WordPress previously, and I am
-    using Omeka during the Spring 2014 semester with a student research
-    assistant @RosenzweigCHNM. Post first draft syllabus with readings
-    and draft exercises.
+## Week 2
+ > Create course web site by installing WordPress and Omeka instance on
+ > personal web server. I have used WordPress previously, and I am
+ > using Omeka during the Spring 2014 semester with a student research
+ > assistant [@RosenzweigCHNM] Post first draft syllabus with readings
+ > and draft exercises.
 
-Week 3
-:   Prepare exercises for weeks 2–4 of course. I plan to introduce plain
-    text editors, the distinction between text as information and as
-    formal features of presentation, and compilers that transform
-    encoded textual data for different computing applications. The tool
-    for text creation is a free text editor, either TextWrangler
-    (Macintosh) or NoteTab++ (Windows). The transformation tools are
-    Pandoc and LaTeX. The exercises will include the following: 1) using
-    a text editor to prepare a document in MarkDown format, 2) using
-    Pandoc to transform the MarkDown-encoded text to RTF (for word
-    processors), to LaTeX, and to HTML, 3) using LaTeX document to
-    generate PDF, and 4) posting Pandoc-generated HTML documents to
-    course web site ([@MacFarlane2013; @TheLaTeX3Project2014]).
+## Week 3
+ > Prepare exercises for weeks 2–4 of course. I plan to introduce plain
+ > text editors, the distinction between text as information and as
+ > formal features of presentation, and compilers that transform
+ > encoded textual data for different computing applications. The tool
+ > for text creation is a free text editor, either TextWrangler
+ > (Macintosh) or NoteTab++ (Windows). The transformation tools are
+ > Pandoc and LaTeX. The exercises will include the following: 1) using
+ > a text editor to prepare a document in MarkDown format, 2) using
+ > Pandoc to transform the MarkDown-encoded text to RTF (for word
+ > processors), to LaTeX, and to HTML, 3) using LaTeX document to
+ > generate PDF, and 4) posting Pandoc-generated HTML documents to
+ > course web site [@MacFarlane2013; @TheLaTeX3Project2014].
 
-Week 4
-:   Prepare exercises for weeks 5–7 of the course. The activities will
-    include acquiring text via optical character recognition of scanned
-    printed pages, entering text at high rates of accuracy with
-    double-key keyboard transcription, and acquiring text through
-    open-access text repositories (<http://archive.org>,
-    <http://chroniclingamerica.org>, etc.). Software tools will include
-    optical character recognition software, plain text editors, and two
-    types of software for identifying differences between files—file
-    comparison software (WinMerge [Windows], KDiff3 [Mac]) and scholarly
-    collation software (JUXTA, web client).
+## Week 4
+ > Prepare exercises for weeks 5–7 of the course. The activities will
+ > include acquiring text via optical character recognition of scanned
+ > printed pages, entering text at high rates of accuracy with
+ > double-key keyboard transcription, and acquiring text through
+ > open-access text repositories (&lt;[http://archive.org](http://archive.org)&gt;,
+ > &lt;[http://chroniclingamerica.org](http://chroniclingamerica.org)&gt;, etc.). Software tools will include
+ > optical character recognition software, plain text editors, and two
+ > types of software for identifying differences between files—file
+ > comparison software (WinMerge [Windows], KDiff3 [Mac]) and scholarly
+ > collation software (JUXTA, web client).
 
-Week 5
-:   Visit Special Collections to assess suitability of following
-    collections for classroom digitization: Helen Adam correspondence
-    with James Broughton and Alfred Chester papers. These collections
-    were recommended as candidates by Special Collections Director Cara
-    Gilgenbach (Letter to Author, 19 Feb. 2014). Also I will visit IBE
-    to assess for digitization of the covers from the Joseph Conrad
-    Collection of editions, about 100 editions. And continue development
-    of week 5–7 exercises.
+## Week 5
+ > Visit Special Collections to assess suitability of following
+ > collections for classroom digitization: Helen Adam correspondence
+ > with James Broughton and Alfred Chester papers. These collections
+ > were recommended as candidates by Special Collections Director Cara
+ > Gilgenbach [@gilgenbach2014]. Also I will visit IBE
+ > to assess for digitization of the covers from the Joseph Conrad
+ > Collection of editions, about 100 editions. And continue development
+ > of week 5–7 exercises.
 
-Week 6
-:   Consult with Special Collections Librarian Cara Gilgenbach to
-    prepare draft procedures for student digitization of special
-    collections resources (standards, procedures, reserve hours,
-    in-class lab at IBE or Special Collections). Continue suitability
-    assessment with Richard Austin Freeman Correspondence and Thornton
-    Wilder papers. Also review Charles W. Chesnutt edition covers
-    (Special Collections).
+## Week 6
+ > Consult with Special Collections Librarian Cara Gilgenbach to
+ > prepare draft procedures for student digitization of special
+ > collections resources (standards, procedures, reserve hours,
+ > in-class lab at IBE or Special Collections). Continue suitability
+ > assessment with Richard Austin Freeman Correspondence and Thornton
+ > Wilder papers. Also review Charles W. Chesnutt edition covers
+ > (Special Collections).
 
-Week 7
-:   Prepare exercises for weeks 8–10 of the course during the academic
-    semester. The activities will include manipulating text with REGEX
-    commands, preparing concordances (*AntConc*
-    (<http://www.antlab.sci.waseda.ac.jp/software.html>,
-    multi-platform), and publishing word clouds (*Voyant Tools*
-    [<http://voyant-tools.org/>, Web]). Also, review scholarly web
-    project standards for editions of letters and for collections of
-    publisher bindings. Select or compose student-suitable guidelines
-    for transcription, annotation, text analysis, digital image
-    acquisition, and digital file management.
+## Week 7
+ > Prepare exercises for weeks 8–10 of the course during the academic
+ > semester. The activities will include manipulating text with REGEX
+ > commands, preparing concordances (*AntConc*
+ > (&lt;[http://www.antlab.sci.waseda.ac.jp/software.html](http://www.antlab.sci.waseda.ac.jp/software.html)&gt;,
+ > multi-platform), and publishing word clouds (*Voyant Tools*
+ > [&lt;[http://voyant-tools.org/](http://voyant-tools.org/)&gt;, Web]). Also, review scholarly web
+ > project standards for editions of letters and for collections of
+ > publisher bindings. Select or compose student-suitable guidelines
+ > for transcription, annotation, text analysis, digital image
+ > acquisition, and digital file management.
 
-Week 8
-:   Prepare draft guidelines for student project, and select readings on
-    project management, online accessibility, and web design. The
-    student project section of the course will occupy weeks 8–14 during
-    an academic semester (which in course will intersect with less
-    demanding activities on concordances and word cloud visualization).
+## Week 8
+ > Prepare draft guidelines for student project, and select readings on
+ > project management, online accessibility, and web design. The
+ > student project section of the course will occupy weeks 8–14 during
+ > an academic semester (which in course will intersect with less
+ > demanding activities on concordances and word cloud visualization).
 
-Week 9
-:   Post completed syllabus with linked readings and guidelines, and use
-    Twitter and email to contact DH colleagues to seek commentary and
-    recommendations. I will also contact DH colleagues at other campuses
-    to gauge interest in guest visits or collaboration. Prepare student
-    questionaires to evaluate effectiveness of 1) text-manipulation and
-    text acquisition training, 2) IBE and Special Collections resources
-    for software and image scanning, 3) procedures for acquisition of
-    digital images and texts, 4) assigned readings, and 5) project
-    management tools and procedures.
+## Week 9
+ > Post completed syllabus with linked readings and guidelines, and use
+ > Twitter and email to contact DH colleagues to seek commentary and
+ > recommendations. I will also contact DH colleagues at other campuses
+ > to gauge interest in guest visits or collaboration. Prepare student
+ > questionaires to evaluate effectiveness of 1) text-manipulation and
+ > text acquisition training, 2) IBE and Special Collections resources
+ > for software and image scanning, 3) procedures for acquisition of
+ > digital images and texts, 4) assigned readings, and 5) project
+ > management tools and procedures.
 
-Week 10
-:   Revise syllabus, revise assignments, and prepare promotional flyers
-    to be posted in the English Department, Honors College, Computer
-    Science department, and School of Digital Humanities.
+## Week 10
+ > Revise syllabus, revise assignments, and prepare promotional flyers
+ > to be posted in the English Department, Honors College, Computer
+ > Science department, and School of Digital Humanities.
 
-Communication Plan {#communication-plan .unnumbered}
-------------------
+# Communication Plan
 
 I intend to share the results of this project with professional
 colleagues in three ways. First I will share the course with DHRWG
 colleagues, and I will also present to the UTC Conference. Second, I
 will share updates on the course with approximately one hundred
-colleagues in digital humanities (blog at <http://wraabe.wordpress.com>
-and Twitter [@wraabe]). I dedicate myself to tweeting weekly on the
+colleagues in digital humanities (blog at &lt;[http://wraabe.wordpress.com](http://wraabe.wordpress.com)&gt;
+and Twitter \(\@wraabe\). I dedicate myself to tweeting weekly on the
 course development and to posting a minimum of two 1000-word in-progress
 assessments during the process of course development (week 3, week 8)
 and one 2500-word final assessment at the conclusion of ten weeks.
 Third, I will post at least one of these assessments on *Vitae*
-(<https://chroniclevitae.com/>) or *HASTAC* (<http://www.hastac.org/>).
+(&lt;[https://chroniclevitae.com/](https://chroniclevitae.com/)&gt; or *HASTAC* &lt;[http://www.hastac.org/](http://www.hastac.org/)&gt;).
 These assessment activities will serve as my draft proposal for UTC
 Conference, and the conference presentation will serve as a draft
 article on the experience of developing and teaching this course. I will
 also watch for conference presentation opportunities at any of the
-various THATCamp (<http://thatcamp.org>) or language and literature
+various THATCamp (&lt;[http://thatcamp.org](http://thatcamp.org)&gt;) or language and literature
 conferences. I recently submitted an article (Jan. 2014) on teaching
 with digital humanities tools in the undergraduate classroom to the
 journal of the College English Association, the *CEA Critic*, and I plan
 to re-visit those topics in an article for the open-access journal
 *Digital Humanities Quarterly* (*DHQ*).
 
-Evaluation Plan {#evaluation-plan .unnumbered}
----------------
+# Evaluation Plan 
 
 At the conclusion of course development, I will issue requests for
 comments to selected colleagues with experience in undergraduate digital
@@ -275,18 +271,17 @@ in a revised course to substitute a unit on XML and XSLT (technologies
 used in scholarly publishing) for the unit on REGEX, concordances, and
 visualization.
 
-Professional Background {#professional-background .unnumbered}
------------------------
+# Professional Background 
 
 I have training in scholarly editing and American literature, and I have
 published digital editions on *Uncle Tom’s Cabin & American Culture*
-(<http://utc.iath.virginia.edu/>) and the online journal *Scholarly
-Editing* (<http://www.scholarlyediting.org/>). I have forthcoming on the
-*Walt Whitman Archive* (<http://whitmanarchive.org> [March? 2014]) a
+(&lt;[http://utc.iath.virginia.edu/](http://utc.iath.virginia.edu/)&gt;) and the online journal *Scholarly
+Editing* (&lt;[http://www.scholarlyediting.org/](http://www.scholarlyediting.org/)&gt;). I have forthcoming on the
+*Walt Whitman Archive* (&lt;[http://whitmanarchive.org](http://whitmanarchive.org)&gt; [March? 2014]) a
 collection of letters to Walt Whitman from his mother Louisa Van Velsor
 Whitman. I have also served as a project manager on the *William Blake
-Archive* (<http://www.blakearchive.org/>) and *Civil War Washington*
-(<http://civilwardc.org/>). I am currently working with an undergraduate
+Archive* (&lt;[http://www.blakearchive.org/](http://www.blakearchive.org/)&gt;) and *Civil War Washington*
+(&lt;[http://civilwardc.org/](http://civilwardc.org/)&gt;). I am currently working with an undergraduate
 student on an independent study, which will include an Omeka Exhibit. I
 have the scholarly background in digital humanities and the technical
 skills to do these tasks, but I want to acquire the pedagogical
@@ -296,3 +291,5 @@ begun to atrophy from irregular use. The skills that are needed to train
 students in digital humanities have not been practiced, so the Summer
 Teaching Development Grant offers an opportunity to work systematically
 at preparing myself to train students and to support their project work.
+
+# Bibliography
