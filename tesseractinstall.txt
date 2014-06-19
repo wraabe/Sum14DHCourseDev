@@ -4,25 +4,42 @@ OCR on Macintosh with Tesseract Engine
 
 1.  From the Mac App Store, download and install Xcode 
     (https://itunes.apple.com/us/app/xcode/id497799835)
-    Takes a long time. If you don't have and Apple ID, you
-    must set up one to download the "free" application.
-    Click "Free" to start installation. Brew coffee, read
-    a novel, and check if "Installing" has completed.
+    This takes a long time. If you don't have an Apple ID, you
+    must set up an Apple ID to download the "free" application.
+    After ID set up, click "Free" to start installation. 
+    Brew pot of coffee, read a novel, and check if 
+    "Installing" has completed.
     
-2.  After XCode completes the App Store install, search for
-    XCode in Searchlight. When first launching, allow
+2.  After Xcode completes the App Store install, search for
+    Xcode in Searchlight (by default, it is place
+    in "Applications" directory). When first launching Xcode, allow
     installation of additional components. 
     
-3. Open XCode, and select Preferences. In Components,
-   select ad install Command Line Tools. 
+3. Open Xcode, and select Preferences from Xcode menu. Under Components
+   section of Downloads, select and install Command Line Tools. 
 
-3.  After XCode is installed, on the Macports page (https://www.macports.org), click "Installing Macports" and     select  the appropriate version for your operating system.
+4.  After Xcode is installed, on the Macports page (https://www.macports.org), 
+    click "Installing Macports" and select the appropriate version for your operating system.
 
+5.  Download and install the Macports package.
 
-2.  Download and install the package.
-
-3.  Launch the Terminal, and enter the following command:
+6.  Launch the Terminal, and enter the following command:
 
     sudo port install tesseract-eng
+    
+    Note: If you wish another language, repeat with another one. If tesseract fails
+    to install and the terminal issues a warning message, read it. Most likely, you need
+    to go back and install (or complete the install of) xCode or Macports. 
+    The command "sudo port install" will only install tesseract if the two 
+    other applications are previously installed. In computer
+    speak, Xcode and Macports are dependencies. 
 
-4.  
+
+
+Converting PDFs to JPEGs with ImageMagick (and other methods)
+
+http://en.kioskea.net/faq/8613-convert-pdf-to-images-files-jpeg-bmp-gif-etc
+
+Writing BASH to scan multiple JPEGs
+
+http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
