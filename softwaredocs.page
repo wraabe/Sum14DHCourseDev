@@ -1,71 +1,156 @@
-# Software Documentation
+# Software Advice
 
 ## General Tips
-  1. In past 3 years, modern OS releases have added hurdles
+  1. In past 3 years, modern operating system (OS) releases have added hurdles
      if you seek to install software from non-approved vendors.
      The warnings typically invoke viruses or security concerns.
-     Open-source software, generally maintained by academics,
+     Free and open-source software, generally maintained by academics,
+     often designed originally for servers and UNIX operating system,
      has been around longer, relies on volunteer labor, and
-     is not going to start jumping through vendor hoops because
-     the work is not for-profit. Therefore,
-     when installing open source software, you may receive ominous
-     OS warnings. You should trust me and override
-     the OS settings.  
+     is not going to start jumping through OS vendor hoops, because
+     the work on software is not for-profit and because many
+     people who do the work on software have other jobs. Therefore,
+     when installing open source software, your Windows or Macintosh
+     OS may issue ominous security warnings. You are an adult: if
+     you trust me, you should override the OS settings.  
   2. To install software, you must have an administrator
-   account on your computer. And you must also be logged in 
-   as the administor when installing. In Windows, especially, you may
-   be required to install or run software in administrator mode. 
+     account on your computer. And you must also be logged in 
+     as the administor when installing. In Windows, especially, you may
+     be required to install or run software in administrator mode. 
   3. Much open-source software will be available through GitHub
-   or SourceForge and sometimes on web sites that look dicey to
-   you because they still employ frames and fonts out of 1990s.
-   Despite advice that you trust me, SourceForge is a private company that
-   has difficulty earning a profit. So it has been known
-   to take advantage of newbie users.
- [SourceForge Warning](http://www.gluster.org/2013/08/how-far-the-once-mighty-sourceforge-has-fallen/ "SourceForge Warning") I will try to warn you of potential pitfalls,
-   but I encourage you to warn one another if you encounter problems.
-   One risk is that by end of course, 90s-style web sites with no dancing graphics
-   may seem kind of cool to you.  GitHub is generally more widely used today.
-  4. Likewise, open source UNIX-based software may have less support for mouse,
-     may demand a whole arsenal of arcane commands, may have
-     minimal availability of handholding tutorials,
+     or SourceForge and sometimes on web sites that look dicey to
+     you because they still employ frames and fonts out of 1990s. Despite my
+     advice that you trust me, SourceForge is a private company that
+     has been known to take advantage of newbie users.
+     See [SourceForge Warning](http://www.gluster.org/2013/08/how-far-the-once-mighty-sourceforge-has-fallen/ "SourceForge Warning").
+     I will try to warn you of potential pitfalls,
+     but I encourage you to warn one another if you encounter problems.
+     GitHub is generally more widely used today for distribution of
+     open source software.
+  4. Likewise, open source software originally designed for UNIX
+     may have less support for mouse, may demand a whole arsenal
+     of arcane commands, may have minimal availability of handholding tutorials,
      and may offer almost no immediate rewards during first hours of use,
      first days of use, or even first weeks of use. That is, expect 20 hours of
      struggle to reach minimal competence. Ask me about how long it
      took to achieve basic competence with LaTeX, PanDoc, Vim Text Editor, GitHub,
-     etc. That answers: 4 mos., 4 weeks, 2 mos., 1 week, etc.
+     etc. Thr answers: 4 mos., 4 weeks, 2 mos., 1 week, etc.
   5. Operating Systems:
-  * Apple Macintosh, you should be on Snow Leopard, Snow Lion,
-    or Maverick. You may install UNIX-based software on Macintosh, which
-    has been a UNIX OS for several years.
-  * MS Windows, you should be on Windows 7 or later. Windows XP or
-    Vista are not supported.
-  * UNIX implementations like Ubuntu, Red Hat for laptop or
-    desktop system. Any modern UNIX implementation should work fine. But
-    you're on your own, like always.
-  * Apple or Android Tablets, Google Chrome, etc. I have no
-    recommendations for OS-level hacking, emulation, dual boot modes, etc.
-    In the end, I am still an English professor.  
-  5. I will try to help, but I am not a substitute for trained
-     computer troubleshooters or technicians. For software,
+     *  Apple Macintosh, you should be on Snow Leopard, Snow Lion,
+     or Maverick. You may install and run UNIX-based software on Macintosh, which
+     has been a UNIX OS for several years. Often, such as for Vim, you may have 
+     a choice of a UNIX-style version (shipped with OS) and a ported
+     Macintosh version that you can download from a separate web site,
+     which will have better support for usual Macintosh interface and user behaviors. 
+     *  MS Windows, you should be on Windows 7 or later. Windows XP is
+     no longer supported.  Windows Vista is generally OK, but it
+     is fading in use. 
+     *  UNIX implementations like Ubuntu or Red Hat for laptop or
+     desktop system. Any modern UNIX implementation should work fine. 
+     But you are on your own, like always.
+     *  Apple or Android Tablets, Google Chrome, etc. These are not supported,
+     and I have no idea whether you can do the work using them. I have no
+     recommendations for OS-level hacking, emulation, dual boot modes, etc.
+      
+  5. I am not a substitute for trained computer troubleshooters or technicians. For software,
      contact [KSU HelpDesk](http://support.kent.edu "KSU Helpdesk"). For
-     virus and compenent repair, contact [KSU TechSpot](http://www2.kent.edu/is/support/thetechspot/index.cfm "The TechSpot"). 
+     virus and component repair, contact
+     [KSU TechSpot](http://www2.kent.edu/is/support/thetechspot/index.cfm "The TechSpot").
+     I am not a hacker: I am a fairly proficient technical user,
+     for an English professor.  
 
-## Text Editors
+## Managing Your Own Web Identity and Projects
 
-1. Vi Improved (Vim)
-  * Download: [Vim Installer](http://www.vim.org/ "Vim Home Page with Links to Installers"). Select appropriate executable installer for Windows or Mac (MacVim). 
-  * Follow instructions for installation.
+### Reclaim Hosting
+
+[Reclaim Hosting](http://portal.reclaimhosting.com/index.php "The TechSpot"). This
+service at \$12 per year in 2014 (probably to rise to \$20 or \$30 per year
+in 2015), allows you to have your own WordPress, Omeka and many other
+types of sites. For your group project, you will need to have one
+member of your group sign up and serve as the administrator for your web
+hosting service. 
+
+As a group, in exchange for on person paying for and serving as the administrator, 
+others  should agree to do something in return for hosting your project for one year,
+which amounts to the equivalent of a \$3 or \$5 of in-kind labor
+or good (perhaps a cappuccino?). 
+
+The administrator must install WordPress and Omeka or other services,
+but the site administrator can grant full control (administrator rights)
+to another user who manages WordPress or Omeka installation.  
+     
+
+### WordPress
+
+
+
+### Omeka
+
+
+## Plain Text Editors
+   
+It is very important to use a plain text editor instead of a word 
+processor when preparing text-based documents. Word processors 
+(Microsoft Word, Google Documents, OpenOffice Writer, and Apple Pages)
+create documents with elaborate coding to achieve WYSWYG layout,
+and such encoding is often discarded when translating into plain text
+documents.  Learning all the quirks of an individual word processor is a less valuable skill 
+than learning to encode plain text documents that can be
+easily ported from one operating system and one processing system to another.
+The latter is a goal of this course.  Another course
+goal is to reduce your dependence on a single application and
+alter your understanding of the relationship between text and format.
+Both these capabilities are valuable for professions in which you have to prepare documentation
+and analyze data---because software development professionals will recognize
+and trust you as a fellow professional. I do not care which of the following
+plain text editors you use, but Vi and emacs are entire worlds of their own, into which
+considerable immersion is necessary to achieve basic competence.  But they
+are very powerful and very widely used. You should review your
+chosen editor's support and implementation of regular expressions (REGEX).
+This tongue-in-cheek graphic illustrates comparative learning
+curves [Manuel's Web Pages: Text Editors](http://www.manuelmagic.me/geek/texteditors/ "http://www.manuelmagic.me/geek/texteditors/").
+
+
+### Vi Improved (Vim), for UNIX, Macintosh, and Windows
+  * Download: [Vim Installer](http://www.vim.org/ "Vim Home Page with Links to Installers"). 
+    Select the appropriate executable installer for Windows or Mac (MacVim), and
+    follow instructions for installation.
   * Complete the basic online tutorial (browser-based VIM emulation) at
     [Open Vim](http://www.openvim.com/tutorial.html "Tutorial"). 
   * Within actual VIM, complete the vimtutor. 1) Open VIM, 2) Click <ESC>. 3) Type 
     "vimtutor" (exclude quote marks) and press <Return>. If that does not work, type 
-    ":help vimtutor" and follow the instructions. Or, type ":echo $VIMRUNTIME" to figure
+    ":help vimtutor" and follow the instructions. Or, type ":echo \$VIMRUNTIME" to figure
     out where vimtutor is located. Typically, it's located in "tutor" folder within
-    the $VIMRUNTIME location. 
-    For browser-based emulation
-    of text file, see [vimtutor](http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/vimtutor
+    the $VIMRUNTIME location.  For browser-based emulation of text file, see
+    [vimtutor](http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/vimtutor
     "Vim Tutorial"). To "read" the tutorial here is not enough. Complete
     each exercise within VIM, about 45 minutes. 
- * For higher proficiency, see [Daniel Miessler, VIM Tutorial and Primer](http://www.danielmiessler.com/study/vim/ "Daniel Miessler, VIM Tutorial and Primer")
- * Also see [Laurent Grégoire, VIM Quick Reference](http://tnerual.eriogerg.free.fr/vimqrc.pdf "Laurent Grégoire, VIM Quick Reference")
+ *   For higher proficiency, see
+     [Daniel Miessler, VIM Tutorial and Primer](http://www.danielmiessler.com/study/vim/ "Daniel Miessler, VIM Tutorial and Primer") And see [Laurent Grégoire, VIM Quick Reference](http://tnerual.eriogerg.free.fr/vimqrc.pdf "Laurent Grégoire, VIM Quick Reference")
+
+### emacs for UNIX, Windows, and Macintosh
+  *  Download (Hard Way): [emacs Home Page]("http://www.gnu.org/software/emacs/emacs.html" http://www.gnu.org/software/emacs/emacs.html). Select the "Nearby GNU Mirror" in "Obtaining/Downloading GNU emacs." 
+  * Download (Macintosh, Easy Way): If you are on Macintosh,
+    emacs is already installed. But for the latest version, see
+   [http://emacsformacosx.com/](http://emacsformacosx.com/ "http://emacsformacosx.com/").
+   For a more Mac-like emacs, see [Aquamacs](http://aquamacs.org/about.shtml "http://aquamacs.org/about.shtml")
+  * Download (Windows, no Easy Way): If you are on Windows, select "windows" folder and then download "emacs-24.3-bin-i386.zip".
+    Instructions on successful Windows setup are available at [Claremont McKenna Faculty Page on
+    emacs Windows Setup]("http://www.claremontmckenna.edu/pages/faculty/alee/emacs/emacs.html" 
+    http://www.claremontmckenna.edu/pages/faculty/alee/emacs/emacs.html)
+  * For introductory tutorial, see [Jess Hamrick's Absolute Beginner's Guide](http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/ "http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/"). For a more amibitious overview, within emacs, type C-h t. 
+
+### Other Plain Text Editors
+   * BBEdit (paid) or free TextWrangler (Macintosh): [Bare Bones Text Wrangler Download](http://www.barebones.com/products/textwrangler/ "http://www.barebones.com/products/textwrangler/")
+   * Notepad ++ (Windows, free): [Notepad ++](http://notepad-plus-plus.org/ "http://notepad-plus-plus.org/")
+   * Sublime Text, test and then buy (Macintosh or Windows) [http://www.sublimetext.com/3](http://www.sublimetext.com/3 "http://www.sublimetext.com/3")
+
+## Working Together
+
+Working together is difficult, but you will be working in teams. And you need
+to develop routines to ensure that you can work together efficiently. The
+only required tool will be GitHub, which you will use to manage your
+source text documents, but you may also use other tools to
+organize your collaboration with other members of your team.
+
 
