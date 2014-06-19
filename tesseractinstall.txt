@@ -1,0 +1,28 @@
+
+
+OCR on Macintosh with Tesseract Engine
+
+1.  From the Mac App Store, download and install Xcode 
+    (https://itunes.apple.com/us/app/xcode/id497799835)
+    Takes a long time. If you don't have and Apple ID, you
+    must set up one to download the "free" application.
+    Click "Free" to start installation. Brew coffee, read
+    a novel, and check if "Installing" has completed.
+    
+2.  After XCode completes the App Store install, search for
+    XCode in Searchlight. When first launching, allow
+    installation of additional components. 
+    
+3. Open XCode, and select Preferences. In Components,
+   select ad install Command Line Tools. 
+
+3.  After XCode is installed, on the Macports page (https://www.macports.org), click "Installing Macports" and     select  the appropriate version for your operating system.
+
+
+2.  Download and install the package.
+
+3.  Launch the Terminal, and enter the following command:
+
+    sudo port install tesseract-eng
+
+4.  
