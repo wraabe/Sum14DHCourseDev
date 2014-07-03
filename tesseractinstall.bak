@@ -45,20 +45,9 @@ OCR on Macintosh with Tesseract Engine
 
 
 Converting PDFs to JPEGs with ImageMagick (and other methods)
-Install ImageMagick
-
-http://www.imagemagick.org/script/binary-releases.php#windows
 
 http://en.kioskea.net/faq/8613-convert-pdf-to-images-files-jpeg-bmp-gif-etc
-
-To do PDF, needs Ghostscript
-
-http://www.ghostscript.com/download/gsdnld.html
 
 Writing BASH to scan multiple JPEGs
 
 http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
-
-
-Automatic OCR Google Drive
-https://support.google.com/drive/answer/2424101?hl=en
