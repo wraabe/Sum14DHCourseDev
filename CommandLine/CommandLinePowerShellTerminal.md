@@ -4,26 +4,22 @@
 Before the graphical user interface (GUI), a
 command line is how users interacted with computers.
 To take up the command line is about like switching
-from an automatic transmission to a manual transmission
-with a stickshift. On the command line, you have 
-more power, but you must learn to use a command
+from a car with an automatic transmission to 
+one with manual transmission with a stick shift. 
+On the command line, you have  more power, 
+but you must learn to use a command
 line well to take on more responsibility. Instructions
 below assume that you are an Administrator on your
-operating system and/or that you have selected to
-run a routine in the Administrator mode.
+operating system and/or that you are working in
+an Administrator mode.
 
 Windows had two different command line interfaces,
 MS-DOS (command.exe or cmd.exe) and PowerShell
 (powershell.exe). MS-DOS ships with all versions of
 Windows, but PowerShell may need to be installed.
 
-Modern Macintosh computers (beginning with OS X) are 
-a UNIX-based operating system. When you launch the
-terminal, you have access to full range of UNIX commands.
-Much online advice for open-access software presumes
-that you know how to access and use the command line
-and that you know UNIX commands also work in on Macintosh
-computers.  
+On Macintosh computers, you will use a UNIX shell.
+The default Apple shell is called the Terminal.
 
 
 ## About Windows Command Line Tools
@@ -69,11 +65,43 @@ PowerShell is part of the "Windows Management Framework 3.0" (WMF).
     (right-click).
  -  Learn the PowerShell commands to manage files and folders,
     including folders with spaces in the names (Tip: Quote folder names). 
-    A good starting place is at
-    [http://technet.microsoft.com/en-us/scriptcenter/dd772285.aspx](http://technet.microsoft.com/en-us/scriptcenter/dd772285.aspx).
-    When practising with PowerShell, it is easiest at first to grasp
+    
+### Learning how to use PowerShell.   
+ -  A good starting place is at [http://technet.microsoft.com/en-us/scriptcenter/dd772285.aspx](http://technet.microsoft.com/en-us/scriptcenter/dd772285.aspx).
+ -   Review the tutorials on "Files and Folders," which
+    should be enough for this course. But if you want to
+    be advanced, see tutorials on "Help and Information" and on "Saving and Importing."
+ -  Tip: When practising with PowerShell, it is easiest at first to grasp
     what you are doing if you open Windows Explorer and PowerShell side by
     side and follow along in the graphical user interface.
     
 ##  About Macintosh Terminal 
   
+Modern Macintosh computers (beginning with OS X) are 
+a UNIX-based operating system. When you launch the
+Terminal, you have access to full range of UNIX commands.
+Much online advice for open-access software presumes
+that you know how to access and use the command line
+and that you know UNIX commands also work in on Macintosh
+computers.  
+
+### Running Macintosh Terminal
+ 1.  On the Spotlight (magnifying glass in upper right corner),
+     search for "Terminal." Click the top entry to launch it.
+ 2.  To launch the terminal from the Dock (like other applications),
+     return to Spotlight.  Click "Show All in Finder," 
+     Ctrl+click the top entry for "Terminal," select "Open Enclosing folder,"
+     and browse the /Applications/Utilities folder. 
+     After Terminal displays in list of utilities, you
+     can drag a copy of the terminal icon down to the "Dock."
+     From the Dock, click to launch the Terminal, which
+     is a plain white box. 
+3.   The default location for the file system to display
+     is your Home location.
+     
+### Learning how to use the Terminal
+  - A good place to start is the Apple Shell Scripting Primer at (https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/Introduction/Introduction.html#//apple\_ref/doc/uid/TP40004268)[https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/Introduction/Introduction.html#//apple\_ref/doc/uid/TP40004268].
+  -  In the Shell Scripting Primer, see "Appendix A."
+  -  Tip: When practising with the Terminal, it is easiest at first to grasp
+    what you are doing if you open the Finder and the Terminal side by
+    side and follow along in the graphical user interface.
