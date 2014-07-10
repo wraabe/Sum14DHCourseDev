@@ -85,10 +85,6 @@ It will serve as our go-to tool for converting documents.
  - On the Open File - Security Warning, click Run and, if necessary, 
    override with the Administrator password.
  - Accept all default installation settings.
- - Note: After you install Pandoc, nothing happens. There is
-   no "application" or "shortcut." Pandoc must be invoked from
-   the command line, preferably PowerShell.
-
 
 
 

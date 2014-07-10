@@ -71,8 +71,6 @@ PowerShell is part of the "Windows Management Framework 3.0" (WMF).
  -   Review the tutorials on "Files and Folders," which
     should be enough for this course. But if you want to
     be advanced, see tutorials on "Help and Information" and on "Saving and Importing."
- -  Note that the Windows folder "My Documents" may also be named plain "Documents"
-    on the Command line. 
  -  Tip: When practising with PowerShell, it is easiest at first to grasp
     what you are doing if you open Windows Explorer and PowerShell side by
     side and follow along in the graphical user interface.
