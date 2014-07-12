@@ -1,4 +1,4 @@
-# Software Advice
+# Intro to DH Software Advice (Install, Usage, General Tips)
 
 ## General Tips
   1. In past 3 years, modern operating system (OS) releases have added hurdles
@@ -9,20 +9,19 @@
      the work on software is not for-profit and because many
      people who do the work on software have other jobs.
  2.  Much important open-source software was designed originally for
-     servers and UNIX operating system Its maintenance generally relies
-     on volunteer labor or donations. When such software is "ported"
+     servers and UNIX operating system. The maintenance of the software
+     generally relies on volunteer labor or donations. When such software is "ported"
      over to Windows or Macintosh, the installation routines
-     may be bare-bones. Therefore, when installing open source
-     software, your Windows or Macintosh
-     OS may issue ominous security warnings. You are an adult: if
-     you have administrator privileges, you should override the OS settings.  
+     may be bare-bones. Therefore, your OS may issue ominous security warnings. 
+     during installation. Your OS may require administrator privileges,
+     to override the OS settings.  
   2. To install software, you must have an administrator
      account on your computer. And you must also be logged in 
      as the administor when installing. In Windows, especially, you may
      be required to install or run software in administrator mode. 
   3. Much open-source software will be available through GitHub
-     or SourceForge and sometimes on web sites that look dicey to
-     you because they still employ frames and fonts out of 1990s. Despite my
+     or SourceForge and sometimes on web sites that may look dicey
+     because they employ HTML frames and other design fads of the 1990s. Despite my
      advice that you trust me, SourceForge is a private company that
      has been known to take advantage of newbie users.
      See [SourceForge Warning](http://www.gluster.org/2013/08/how-far-the-once-mighty-sourceforge-has-fallen/ "SourceForge Warning").
@@ -30,14 +29,15 @@
      but I encourage you to warn one another if you encounter problems.
      GitHub is today used more widely than SourceForge for distribution of
      open source software.
-  4. Likewise, open source software originally designed for UNIX
+  4. Open source software originally designed for UNIX OS
      may have less support for mouse, may demand a whole arsenal
-     of arcane commands, may have minimal availability of handholding tutorials,
+     of arcane commands, may be supported by rather hard-nosed tutorials,
      and may offer almost no immediate rewards during first hours of use,
-     first days of use, or even first weeks of use. That is, expect many
-     hours of work to reach minimal competence. Ask me about how long it
-     took to achieve reasonable competence with LaTeX, PanDoc, Vim Text Editor, GitHub,
-     etc. Thr answers: 4 mos., 4 weeks, 2 mos., 1 week, etc. For most routines,
+     first days of use, or even first weeks of use. That is, several
+     hours of work are needed to achieve minimal competence. If you've never
+     dealt with command line software before, this will take a while.
+     It takes effort to achieve reasonable competence with LaTeX, PanDoc, Vim Text Editor, GitHub,
+     etc. How long did it take me? 4 mos., 3 weeks, 2 mos., 1 week, etc. For most routines,
      I will provide basic step-by-step instructions. You will need to follow them
      exactly and/or to adapt for your particular setup. I cannot predict 
      everything, so contact me rather than struggling fruitlessly for several
@@ -57,34 +57,81 @@
      But you are on your own, like always.
      *  Apple or Android Tablets, Google Chrome, etc. These are not supported,
      and I have no idea whether you can do the work using them. I have no
-     recommendations for OS-level hacking, emulation, dual boot modes, etc.
-      
-  6. I am not a substitute for trained computer troubleshooters or technicians.
-     For software,
-     contact [KSU HelpDesk](http://support.kent.edu "KSU Helpdesk"). For
+     recommendations for OS-level hacking, emulation, dual boot modes, etc.  
+  6. I am not a trained computer troubleshooters or technicians.
+     For software, contact [http://support.kent.edu](http://support.kent.edu "KSU Helpdesk"). For
      virus and component repair, contact
-     [KSU TechSpot](http://www2.kent.edu/is/support/thetechspot/index.cfm "The TechSpot").
-     I am not a hacker: I know how to perform rudimentary scripting tasks and
-     am a reasonably proficient technical user,
-     for an English professor.  
+     [http://www2.kent.edu/is/support/thetechspot/index.cfm](http://www2.kent.edu/is/support/thetechspot/index.cfm "The TechSpot").
+     Your professor is a reasonably proficent technical user who is able
+     to complete rudimentary scripting tasks. I do OK, for an English professor.  
 
 ## Managing Your Own Web Identity and Projects
 
 
-## Pandoc
+## About Pandoc
 
 Pandoc is described as a "Universal Document Converter." You
-can use it to convert documents from one to another format.
-For installation instructions, see John McFarlane's page at
+can use it to convert from about 15 source formats to
+about 25 destination formats, though many source formats
+are flavors of markdown and many destination formats rely
+on interaction with LaTex. For installation instructions,
+see John McFarlane's page at
 (http://johnmacfarlane.net/pandoc/installing.html)[http://johnmacfarlane.net/pandoc/installing.html].
-It will serve as our go-to tool for converting documents.
+MacFarlane's web site has a brief introduction to command line
+(Pandoc Tutorial). The intriguing promise of Pandoc is that
+work produced in an easily preserved format like plain text
+(with simple plain text markup) can be transformed to
+other formats.
 
 ### Install Pandoc on Windows
- - If you are on Windows, download and install
-   pandoc-1.12.4.X.X-windows.msi (accept latest stable version numbers that substitute for X)
+ - Download and install
+   pandoc-1.12.4.X.X-windows.msi (accept latest stable version
+   numbers that substitute for X's in file name)
  - On the Open File - Security Warning, click Run and, if necessary, 
    override with the Administrator password.
  - Accept all default installation settings.
+ - Note: After you install Pandoc, nothing happens. There is
+   no "application" or "shortcut." Pandoc must be invoked from
+   the command line, preferably PowerShell.
+ - For LaTeX and PDF output, also see "Install LaTeX."
+
+
+### Install Pandoc on Macintosh
+ - Download and install
+   pandoc-1.12.4.X.X-osx.zip (accept latest stable version
+   numbers that substitute for X's in file name)
+ - During installation, accept license agreement and default installation settings,
+   and enter your Administrator password when prompted.
+ - Note: After you install Pandoc, nothing happens. There is
+   no GUI application shortcut to add to the Dock. Pandoc
+   must be invoked from
+   the command line, the "Terminal." 
+ - For LaTeX and PDF output, also see "LaTeX."
+
+## About LaTeX
+
+LaTeX is the most widely used implementation of the TeX
+typesetting system. TeX was created by a famed Stanford computer
+scientist, Donald Knuth. After he was annoyed by poor
+publisher typesetting of his book, he created the
+typesetting program TeX, which has become the dominant
+typesetting system for math and science papers. For several decades, 
+Knuth famously offered cash rewards to anyone who identified an
+error in his books (see the Wikipedia entry). 
+
+The "La" in LaTex refers to Leslie Lamport, who created a
+typesetting environment (soups to nuts) approach for 
+typesetting with TeX. Lamports add-on macros organize documents
+according to structure (document parts like title, subtitle,
+author, section) rather than typographic markup (as TeX does).
+
+The vocabulary to describe LaTeX programs is a bit arcane because
+it is over 30 years old. It is available "distributions" (full-fledged TeX and
+LaTeX installation routines suitable for UNIX mainframes and
+for personal computers), and distributions consist of a series
+of "packages" to support various activities. The term "distribution"
+is reasonably similar to today's "application," and the term
+"package" is reasonably similar to an "add-on." 
 
 
 
