@@ -132,27 +132,63 @@ LaTeX installation routines suitable for UNIX mainframes and
 for personal computers), and distributions consist of a series
 of "packages" to support various activities. The term "distribution"
 is reasonably similar to today's "application," and the term
-"package" is reasonably similar to an "add-on." 
+"package" is reasonably similar to an "add-on." LaTeX and its packages
+are an entire ecosystem of computer applications.
+
+The GUI, an interface, is separate. The actual programs TeX and
+LaTeX compile properly formatted documents. The GUI can help you
+avoid silly mistakes like mismatched tags or improper spelling
+by highlighting TeX codes. But the syntax and error checking in
+the compiler is far more robust. And you will need to "fix" your document
+if it fails to compile because of an error in syntax. 
 
 
-### Install LaTeX on Windows
+### Install MikTeX (installable LaTeX package) on Windows:
 
-1. Go to the MikTeX downloads site [http://miktex.org/download](http://miktex.org/download ).
-   The current version is 2.9.XXXX (accept latest stable version
-   numbers that substitute for X's in file name)
-2. Select the option best suited for your operating system and
-   connection:
-   - If you have 32-bit Windows and a fast (on campus) connection,
-     select "Basic MikTeX Installer (32-bit)."
-   - (Other Downloads) If you have 64-bit Windows and a fast
+1.  Go to the MikTeX downloads site [http://miktex.org/download](http://miktex.org/download ).
+    The current version is 2.9.XXXX (accept latest stable version
+    numbers that substitute for X's in file name).
+2.  Download the installer that matches your your operating system and
+    is suitable for connection speed:
+    - If you have 32-bit Windows and a fast (on campus) connection,
+     select "Basic MikTeX Installer (32-bit)." Take a break while
+     it is downloaded.
+    - (Other Downloads) If you have 64-bit Windows and a fast
      (on campus) connection, select "Basic MikTeX Installer (64-bit)."
-3. If you are in a desperate hurry or have limited space on hard
-   drive and must download from off campus, select the appropriate
-   Net Installer.
-4. 
+    - If you are in a desperate hurry or have limited space on hard
+     drive and must download from off campus, select the appropriate
+     Net Installer. If you use one of the streamlined installers,
+     additional "packages" will be installed at run-time as needed.
+
+### Install MacTeX (installable LaTeX package) on Macintos OSX:
+
+1.  Go to the MacTeX downloads site [https://www.tug.org/mactex/](https://www.tug.org/mactex/ ).
+    The current version is 2014 (accept latest stable version
+    numbers that substitute for X's in file name). 
+2.  Download the installer that matches your your operating system and
+    is suitable for connection speed:
+    - If you have a fast (on campus) connection and 
+      ample hard drive space, select "MacTeX.pkg" Take a break while
+      it is downloaded.
+    - If you have slow connection or limited hard drive space,
+      select BasicTeX (click "Smaller Packages"). Then select
+      a GUI. I recommend TeXworks.  
+
+### LaTeX and GUI Interfaces
+
+There are many adequate GUI interfaces for LaTeX. The purpose of a GUI is to automate procedures that are sometimes non-intuitive in LaTeX.
+You may install multiple GUIs and try them out. I recommend 
+any of the following, whichever best suits your preference.
+ - TeXShop for Mac [http://pages.uoregon.edu/koch/texshop/index.html](http://pages.uoregon.edu/koch/texshop/index.html ) 
+ - TeXWorks for Mac or Windows [http://www.tug.org/texworks/](http://www.tug.org/texworks/ ). This would be
+   recommended. It is recommended for Mac. The Windows version as late as
+   2013 had an annoying tendency to crash, causing you to lose work.
+ - LaTeXiT for Mac (http://pierre.chachatelier.fr/latexit/latexit-downloads.php?lang=en)[http://pierre.chachatelier.fr/latexit/latexit-downloads.php?lang=en] 
 
 
-
+**Caution:** Without a full LaTeX system installed 
+(the actual program), a GUI interface is not a LaTeX system.
+It is a plain text editor with macro calls that don't work. 
 
 
 ### Reclaim Hosting

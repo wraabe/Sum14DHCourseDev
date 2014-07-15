@@ -18,15 +18,15 @@ following parts:
      The response will consist of a 2- to 3-page (500--700 words)
      blog post, with a thesis that engages one or more of the
      following general topics:
-     -  digital humanities as a threat to literary studies [see @kirsch2014; also @marche2014].
+     -  digital humanities as a threat to literary studies [@kirsch2014; @marche2014].
      -  digital humanities as a set of institutional sites
-        of study and professional organizations [see @kirschenbaum2010]
+        of study and professional organizations [@kirschenbaum2010]
      -  digital humanities as building things, such as computer applications,
-        models, and online projects [see @ramsay2011]
-     -  digital humanities as sharing, developing a community [see @sample2011] 
+        models, and online projects [@ramsay2011]
+     -  digital humanities as sharing, developing a community [@sample2011] 
      -  digital humanities as productive unease, grappling with tension
         between ideas of technological progress and the recognition that humanities
-	    research materials resist modeling and processing [see @flanders2009]
+	research materials resist modeling and processing [@flanders2009]
 2.  Each blog post must have at least one formal citation of another piece
     of writing, either from list above or from another blog post or article.
 3.  By Monday of week 3, each student's original blog post, which
@@ -54,10 +54,9 @@ difficulties that you encounter. Whenever possible, please
 work together (in reserved library room, at same computer, with online
 collaboration tool) to achieve solutions to problems. 
 
-5.  During week 3, the both editorial groups (one for each team)
+5.  During week 3, the both editorial working groups (one for each team)
     shall create a  GitHub fork for its 12 team member's original blog posts.
-    They shall, based on commentary
-    received on the blog, recommend corrections and revisions
+    They shall, based on commentary received on the blog, recommend corrections and revisions
     to posts. Furthermore, the editorial group by end of week
     shall organize the student contributions
     (section headings and introductions, shared bibliography), and
@@ -65,28 +64,57 @@ collaboration tool) to achieve solutions to problems.
     publication. When the other teams do their work during week 4,
     the editorial group shall remain responsive and accommodate revisions
     to GitHub repository documents to better serve needs of print, blog, or ebook team.
-6.  During week 4, both print working group shall use pandoc
+6.  During week 4, each print working group (one for each team) shall use Pandoc
     to convert blog posts from its team members to a printed
     LaTeX document (report or article in PDF format)
     that gathers all student contributions (including those by editorial team)
     and has a shared bibliography for all citations. The final product
     should be based on the most current and updated GitHub fork.
-7.  During week 4, both public blog working group shall
+7.  During week 4, both public blog working groups shall
     develop an independent public blog of all group posts with keywords
     and citations. The final product
     should be based on the most current and updated GitHub fork.
-8.  During week 4, both ebook groups shall use
+8.  During week 4, both ebook working groups shall use
     Calibre to generate an ebook in ePub format and publish the book
     on Google Books. The final product
     should be based on the most current and updated GitHub fork.
 
 At every stage, students are encouraged to raise the bar above minimal assignment requirements. Ask yourself, for example,  would post or printed document benefit from a table of contents or index? Should blog posts have keywords? Should contributor notes be published also? 
 
-Final notes: I encourage an iterative process. Test things to see if they work. 
+** General Notes:** I encourage an iterative process. Test things to see if they work. 
 Try to do everything, but developed reasoned processes to scale back ambitions
 if it becomes overwhelming. The final step of the process will be a personal
 reflection on collaboration in the assignment (500 words), which will be posted
 on the course blog.
+
+## Group requirements
+
+### Editorial Working Group
+
+Your group is responsible for consistency of citation and formatting.
+Revise and mark up individual posts for revision. Devise a system
+in which you maintain control over the source Markdown documents in GitHub. 
+Review and return posts with editorial markup by Tuesday. I recommend
+converting PanDoc to RTF and using Word or Google Docs to add
+marginal commentary. After writers make their edits, it is your
+final review that provides consistency of formatting style and
+editorial style. 
+
+Using a shared Zotero library, create a shared citation folder
+with one citation entry for each file. If multiple students cite
+the same file differently, it is your job to ensure that all are
+cited consistently and that none are duplicated. When the Zotero
+library has been properly edited and consistent, other working
+groups will need to install the bib file. Place it in the
+GitHub repository with revised markdown documents. 
+
+### Print Working Group
+
+### Public Blog Working Group
+
+
+
+     
 
 
 
