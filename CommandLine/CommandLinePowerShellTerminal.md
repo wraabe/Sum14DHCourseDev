@@ -1,25 +1,10 @@
 
 ## Introduction to Command Line Interfaces
 
-Before the graphical user interface (GUI), a
-command line is how users interacted with computers.
-To take up the command line is about like switching
-from a car with an automatic transmission to 
-one with manual transmission with a stick shift. 
-On the command line, you have  more power, 
-but you must learn to use a command
-line well to take on more responsibility. Instructions
-below assume that you are an Administrator on your
-operating system and/or that you are working in
-an Administrator mode.
+Before the graphical user interface (GUI), a command line is how users interacted with computers. To take up the command line is about like switching from a car with an automatic transmission to  one with manual transmission with a stick shift.  On the command line, you have  more power,  but you must learn to use a command line well to take on more responsibility. Instructions below assume that you are an Administrator on your operating system and/or that you are working in an Administrator mode.
 
-Windows had two different command line interfaces,
-MS-DOS (command.exe or cmd.exe) and PowerShell
-(powershell.exe). MS-DOS ships with all versions of
-Windows, but PowerShell may need to be installed.
-
-On Macintosh computers, you will use a UNIX shell.
-The default Apple shell is called the Terminal.
+Windows had two different command line interfaces, MS-DOS (command.exe or cmd.exe) and PowerShell
+(powershell.exe). MS-DOS ships with all versions of Windows, but PowerShell may need to be installed. On Macintosh computers, you will use a UNIX shell. The default Apple shell is called the Terminal.
 
 
 ## About Windows Command Line Tools
@@ -102,7 +87,7 @@ computers.
      is your Home location.
      
 ### Learning how to use the Terminal
-  - A good place to start is the Apple Shell Scripting Primer at (https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/Introduction/Introduction.html#//apple\_ref/doc/uid/TP40004268)[https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/Introduction/Introduction.html#//apple\_ref/doc/uid/TP40004268].
+  - A good place to start is the Apple Shell Scripting Primer at [https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/Introduction/Introduction.html#//apple\_ref/doc/uid/TP40004268](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/Introduction/Introduction.html#//apple\_ref/doc/uid/TP40004268 ).
   -  In the Shell Scripting Primer, see "Appendix A."
   -  Tip: When practising with the Terminal, it is easiest at first to grasp
     what you are doing if you open the Finder and the Terminal side by

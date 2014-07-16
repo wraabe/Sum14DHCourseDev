@@ -76,7 +76,7 @@ about 25 destination formats, though many source formats
 are flavors of markdown and many destination formats rely
 on interaction with LaTex. For installation instructions,
 see John McFarlane's page at
-(http://johnmacfarlane.net/pandoc/installing.html)[http://johnmacfarlane.net/pandoc/installing.html].
+(http://johnmacfarlane.net/pandoc/installing.html](http://johnmacfarlane.net/pandoc/installing.html].
 MacFarlane's web site has a brief introduction to command line
 (Pandoc Tutorial). The intriguing promise of Pandoc is that
 work produced in an easily preserved format like plain text
@@ -183,7 +183,7 @@ any of the following, whichever best suits your preference.
  - TeXWorks for Mac or Windows [http://www.tug.org/texworks/](http://www.tug.org/texworks/ ). This would be
    recommended. It is recommended for Mac. The Windows version as late as
    2013 had an annoying tendency to crash, causing you to lose work.
- - LaTeXiT for Mac (http://pierre.chachatelier.fr/latexit/latexit-downloads.php?lang=en)[http://pierre.chachatelier.fr/latexit/latexit-downloads.php?lang=en] 
+ - LaTeXiT for Mac [http://pierre.chachatelier.fr/latexit/latexit-downloads.php?lang=en](http://pierre.chachatelier.fr/latexit/latexit-downloads.php?lang=en ) 
 
 
 **Caution:** Without a full LaTeX system installed 

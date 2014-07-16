@@ -9,152 +9,77 @@ csl: mla.csl
 
 # Digital Humanities: What is it?
 
-Our first course project is a collaboratively authored document
-entitled, "A Student Project: What is Digital Humanities?" Each
-student's individual contribution to this assignment will consist of the
-following parts: 
-1.   Each student will offer a formal response to one or more
-     of the readings during the first two weeks of the course.
-     The response will consist of a 2- to 3-page (500--700 words)
-     blog post, with a thesis that engages one or more of the
-     following general topics:
+Our first course project is a collaboratively authored document entitled, "A Student Project: What is Digital Humanities?" Each student's individual contribution to this assignment will consist of the following parts: 
+
+1.	Each student will offer a formal response to one or more of the readings during the first two weeks of the course. The response will consist of a 2- to 3-page (500--700 words) blog post, with a thesis that engages one or more of the following general topics:
      -  digital humanities as a threat to literary studies [@kirsch2014; @marche2014].
-     -  digital humanities as a set of institutional sites
-        of study and professional organizations [@kirschenbaum2010]
-     -  digital humanities as building things, such as computer applications,
-        models, and online projects [@ramsay2011]
+     -  digital humanities as a set of institutional sites of study and professional organizations [@kirschenbaum2010]
+     -  digital humanities as building things, such as computer applications, models, and online projects [@ramsay2011]
      -  digital humanities as sharing, developing a community [@sample2011] 
-     -  digital humanities as productive unease, grappling with tension
-        between ideas of technological progress and the recognition that humanities
-	research materials resist modeling and processing [@flanders2009]
-2.  Each blog post must have at least one formal citation of another piece
-    of writing, either from list above or from another blog post or article.
-3.  By Monday of week 3, each student's original blog post, which
-    shall be written using Markdown language, will be posted 
-    on the class's Markdown-enabled blog AND shared on the class's 
-    GitHub repository.
-4.  By Wednesday of week 3, each student shall respond, at 
-    least twice, to two other students' blog posts. Each 
-    response must refer to a specific passage or idea
-    in the student's post and compare or contrast with another idea from
-    another student's post or from the assigned reading (i.e., quote
-    from and cite source). The response posts should be posted on
-    the Markdown-enabled blog.
+     -  digital humanities as productive unease, grappling with tension between ideas of technological progress and the recognition that humanities research materials resist modeling and processing [@flanders2009]
+2.  Each blog post must have at least one formal citation of another piece of writing, either from list above or from another blog post or article.
+3.  By Monday of week 3, each student's original blog post, which shall be written using Markdown language, will be posted  on the class's Markdown-enabled blog AND shared on the class's  GitHub repository.
+4.  By Wednesday of week 3, each student shall respond, at  least twice, to two other students' blog posts. Each  response must refer to a specific passage or idea in the student's post and compare or contrast with another idea from another student's post or from the assigned reading (i.e., quote from and cite source). The response posts should be posted on the Markdown-enabled blog.
 
-After initial posts are complete, the class shall be split into two 12-person
-teams, and each team shall be split into 4 3-person groups. 
-Each team shall have the following four groups:
-1) editorial working group, 2) print working group, 3) public blog working group,
-and 4) ebook working group. For all of  the remainder of the work,
-you are encouraged to collaborate with other
-members of your team (inside your group and outside), and you
-are encouraged to collaborate with the
-corresponding group on the other team to manage or troubleshoot any 
-difficulties that you encounter. Whenever possible, please
-work together (in reserved library room, at same computer, with online
-collaboration tool) to achieve solutions to problems. 
+After initial posts are complete, the class shall be split into two 12-person teams, and each team shall be split into 4 3-person groups.  Each team shall have the following four groups: 1) editorial working group, 2) print working group, 3) public blog working group, and 4) ebook working group. For all of  the remainder of the work, you are encouraged to collaborate with other members of your team (inside your group and outside), and you are encouraged to collaborate with the corresponding group on the other team to manage or troubleshoot any  difficulties that you encounter. Whenever possible, please work together (in reserved library room, at same computer, with online collaboration tool) to achieve solutions to problems. 
 
-5.  During week 3, the both editorial working groups (one for each team)
-    shall create a  GitHub fork for its 12 team member's original blog posts.
-    They shall, based on commentary received on the blog, recommend corrections and revisions
-    to posts. Furthermore, the editorial group by end of week
-    shall organize the student contributions
-    (section headings and introductions, shared bibliography), and
-    shall provided editorial approve of the final project for 
-    publication. When the other teams do their work during week 4,
-    the editorial group shall remain responsive and accommodate revisions
-    to GitHub repository documents to better serve needs of print, blog, or ebook team.
-6.  During week 4, each print working group (one for each team) shall use Pandoc
-    to convert blog posts from its team members to a printed
-    LaTeX document (report or article in PDF format)
-    that gathers all student contributions (including those by editorial team)
-    and has a shared bibliography for all citations. The final product
-    should be based on the most current and updated GitHub fork.
-7.  During week 4, both public blog working groups shall
-    develop an independent public blog of all group posts with keywords
-    and citations. The final product
-    should be based on the most current and updated GitHub fork.
-8.  During week 4, both ebook working groups shall use
-    Calibre to generate an ebook in ePub format and publish the book
-    on Google Books. The final product
-    should be based on the most current and updated GitHub fork.
+5.  During week 3, the both editorial working groups (one for each team) shall create a  GitHub fork for its 12 team member's original blog posts. They shall, based on commentary received on the blog, recommend corrections and revisions to posts. Furthermore, the editorial group by end of week shall organize the student contributions (section headings and introductions, shared bibliography), and shall provided editorial approve of the final project for  publication. When the other teams do their work during week 4, the editorial group shall remain responsive and accommodate revisions to GitHub repository documents to better serve needs of print, blog, or ebook team.
+6.  During week 4, each print working group (one for each team) shall use Pandoc to convert blog posts from its team members to a printed LaTeX document (report or article in PDF format) that gathers all student contributions (including those by editorial team) and has a shared bibliography for all citations. The final product should be based on the most current and updated GitHub fork.
+7.  During week 4, both public blog working groups shall develop an independent public blog of all group posts with keywords and citations. The final product should be based on the most current and updated GitHub fork.
+8.  During week 4, both ebook working groups shall use Calibre to generate an ebook in ePub format and publish the book on Google Books. The final product should be based on the most current and updated GitHub fork.
 
-At every stage, students are encouraged to raise the bar above minimal assignment requirements. Ask yourself, for example,  would post or printed document benefit from a table of contents or index? Should blog posts have keywords? Should contributor notes be published also? 
+At every stage, students are encouraged to raise the bar above minimal assignment requirements.  Ask yourself, for example, would post or printed document benefit from a table of contents or index? Should blog posts have keywords? Should contributor notes be published also? To earn full credit for excellence, you need to raise the bar.
 
-** General Notes:** I encourage an iterative process. Test things to see if they work. 
-Try to do everything, but developed reasoned processes to scale back ambitions
-if it becomes overwhelming. The final step of the process will be a personal
-reflection on collaboration in the assignment (500 words), which will be posted
-on the course blog.
+*General Notes:* I encourage an iterative process. Test procedures to see if they work.  Try to do everything, but develop reasoned processes to scale back ambitions if it becomes overwhelming. The final step of  the process will be a personal reflection on collaboration in the assignment (500 words), which will be posted on the course blog.
 
 ## Group requirements
 
 ### Editorial Working Group
 
-Your group is responsible for consistency of citation and formatting.
-Revise and mark up individual posts for revision. Devise a system
-in which you maintain control over the source Markdown documents in GitHub. 
-Review and return posts with editorial markup by Tuesday. I recommend
-converting Pandoc to RTF and using Word or Google Docs to add
-marginal commentary. After writers make their edits (either
-on GitHub source or Word or Google Docs---you decide), it is your
-final review that provides consistency of formatting style and
-editorial style. 
+Your group is responsible for consistency of citation and formatting. Revise and mark up individual posts for revision. Maintain control over the source Markdown documents in GitHub.  Review and return posts with editorial markup by Tuesday. I recommend converting Pandoc to RTF and using Word or Google Docs to  return posts with marginal commentary to students. After writers make their edits (either on GitHub source or Word or Google Docs that you send---you decide which procedure works best), it is your final review that provides consistency of formatting style and editorial style. 
 
-Using a shared Zotero library, create a shared citation folder
-with one citation entry for each file. A sample Zotero library
-group folder for the "What Is DH?"
-assignment has been placed at the following location: 
-(https://www.zotero.org/groups/274025)[https://www.zotero.org/groups/274025 ]. 
-Currently, the group is private. Send an email
-to the instructor to request membership in the group.
+Using a shared Zotero library, create a shared citation folder with one citation entry for each file. A sample Zotero library group folder for the "What Is DH?" assignment has been placed at the following location:  [https://www.zotero.org/groups/274025](https://www.zotero.org/groups/274025 ).  If not accessible, send me a reminder. I will open group membership in Zotero library to all students.
 
-The job of the editorial working group is to ensure that all are cited consistently
-and that no citations are duplicated. When the Zotero
-library is consistent, other working groups will need to export
-from it a .bib file to create a bibliography. 
-Place the bibliography (.bib) in the GitHub repository with
-revised markdown documents. 
+The job of the editorial working group is to ensure that all are cited consistently and that no citations are duplicated. When the Zotero library is consistent, other working groups will need to export from it a .bib file to create a bibliography.  Place the bibliography (.bib) in the GitHub repository with revised markdown documents. 
 
 ### Print Working Group
 
-The print working group shall use all approved editorial posts
-to create a print document. The method for creating the document shall
-be as follows:
-1.  Install the appropriate Pandoc and LaTeX for your operating
-    system. 
-2.  Using GitHub, dwnload the final updates of blog posts and bibliography
-    when the editorial working group's work is complete.
-3.  Review the following routines for managing elaborate
-    Pandoc documents (multiple files) with citations.
-    -  Multi-files in markdown. (https://github.com/akmassey/markdown-multiple-files-example)[https://github.com/akmassey/markdown-multiple-files-example ]
-	- Remember to specify the name of the .bib file in the YAML metadata block.
-	(http://johnmacfarlane.net/pandoc/demo/example19/YAML-metadata-block.html)[http://johnmacfarlane.net/pandoc/demo/example19/YAML-metadata-block.html ]
-	- Review Pandoc citations explanation (you will be using BibLaTeX), (http://johnmacfarlane.net/pandoc/demo/example19/Citations.html)[http://johnmacfarlane.net/pandoc/demo/example19/Citations.html]
-	- Download the appropriate Citation Style Language in GitHub and copy
-	to your Pandoc file directory. (https://github.com/citation-style-language/styles)[https://github.com/citation-style-language/styles].
-	The Chicago style names begin with "chicago-". The Modern Language
-	Association style names begin with "modern-language-". 
-	Place them in main document file folder for convenience.
-	- Download the default.latex template, and place it
-	in the main document file folder for convenience.
-	[https://github.com/jgm/pandoc-templates/blob/master/default.latex](https://github.com/jgm/pandoc-templates/blob/master/default.latex).
-After the setup is complete, see the Pandoc documentation
-for instructions on generate LaTeX document from Markdown
-with bibliography. 
+The print working group shall use all approved editorial posts to create a print document. The method for creating the document shall be as follows:
 
-You may use the default LaTeX format, or you may wish to 
-change the settings on the default template. 
+1.  Install Pandoc and LaTeX for your operating system. 
+2.  After the editorial working group's work is complete,  use GitHub to download the final updates of blog posts and bibliography (but do test with sample date beforehand).
+3.  Review the following routines for managing elaborate Pandoc documents (multiple files with citations).
 
-Depending on its settings, Pandoc may embed the bibliographical
-information in the document as text. Or you can use LaTeX
-to generate the bibliography with BibLaTeX.  To generate a
-bibliography from within LaTeX, you must
-run LaTeX, then BibTeX, and then LaTeX twice again.
+    -  Managing Multiple files in markdown. [https://github.com/akmassey/markdown-multiple-files-example](https://github.com/akmassey/markdown-multiple-files-example )  
+    - Adding name of the .bib file to YAML metadata block. [http://johnmacfarlane.net/pandoc/demo/example19/YAML-metadata-block.html](http://johnmacfarlane.net/pandoc/demo/example19/YAML-metadata-block.html )
+    - Using citations in Pandoc (you will be using BibLaTeX [http://johnmacfarlane.net/pandoc/demo/example19/Citations.html](http://johnmacfarlane.net/pandoc/demo/example19/Citations.html )
+    - Setting up appropriate Citation Style Language in GitHub, which you add to Pandoc file directory. [https://github.com/citation-style-language/styles](https://github.com/citation-style-language/styles ). The Chicago style names begin with "chicago-". The Modern Language Association style names begin with "modern-language-".  Place them in main document file folder for convenience.
+    - Download the default.latex template, and place it in the main document file folder for convenience.  [https://github.com/jgm/pandoc-templates/blob/master/default.latex](https://github.com/jgm/pandoc-templates/blob/master/default.latex ).
 
+After the setup is complete, see the Pandoc documentation for instructions on generating LaTeX document from Markdown with bibliography.  You may use the default LaTeX format for PanDoc, or you may wish to change the settings on the default template. 
 
+Depending on conversion settings, Pandoc may embed the bibliographical information in the document as text. Or you can use LaTeX to generate the bibliography with BibLaTeX.  To generate a bibliography from within LaTeX, you must run LaTeX, then run BibTeX, and then run LaTeX twice again.
 
 ### Public Blog Working Group
+
+For the public blog working group, you must set up a public server, install WordPress, and install a Markdown plugin. 
+
+*Note:* One person in your group, the Administrator, will need to  sign up for and pay for a Reclaim Hosting account. The price is \$25 for one year of hosting. For final project, I will ask one member from each group to sign up for an account. At that time, you will be asked to settle up financially with person who has registered for the Reclaim Hosting account, and we will discuss policies for preserving your own content later in the course.
+  
+1.  (Administrator Only): Purchase a domain from [www.reclaimhosting.com](www.reclaimhosting.com ], a \$25 annual subscription. 
+2.  (Administrator Only): Install WordPress on your domain,        [http://portal.reclaimhosting.com/knowledgebase.php?action=displayarticle&id=2](http://portal.reclaimhosting.com/knowledgebase.php?action=displayarticle&id=2 ).
+3.  (Administrator): In consultation with fellow members of your working group, create a URL and title for blog that echoes the assignment question.
+4.  (Administrator): Invite other students to your blog as administrators. On Users menu, click "Add Users," and invite other members of the Public Blog Working Group via their official Kent State address. For Role, select "Administrator." 
+
+The person who set up the Reclaim Hosting account with steps above is the Administrator of the domain. Those who are invited in Step 4 are set up as administrators of the WordPress account. Subsequent steps may be performed by anyone in work group who has an Administrator account in WordPress, so all subsequent steps should be performed collaboratively. 
+
+1.  When logged into WordPress as an Administrator, select Plugins menu and search for "JetPack." Install it.   
+2.  After Jetpack appears in your list of plugins, click Activate.
+3.  On the Jetpack menu item, click "Get Started" and "Authorize Jetpack." 
+4.  Create a test post with markdown language (you may need to log out and log back into the blog). For details on the flavor of Markdown that is supported, see [http://jetpack.me/support/markdown/](http://jetpack.me/support/markdown/ ).
+   
+
+
 
 
 

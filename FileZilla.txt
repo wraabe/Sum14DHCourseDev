@@ -1,0 +1,5 @@
+3.  (Administrator Only):  Install FileZilla (on (http://www.kent.edu](http://www.kent.edu], search
+    for "FileZilla"). The first result is from the 
+    (http://support.kent.edu](http://support.kent.edu] software menu. 
+    Select appropriate client for your operating system, Windows
+    or PC. 

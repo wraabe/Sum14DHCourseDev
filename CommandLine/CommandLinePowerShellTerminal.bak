@@ -71,6 +71,8 @@ PowerShell is part of the "Windows Management Framework 3.0" (WMF).
  -   Review the tutorials on "Files and Folders," which
     should be enough for this course. But if you want to
     be advanced, see tutorials on "Help and Information" and on "Saving and Importing."
+ -  Note that the Windows folder "My Documents" may also be named plain "Documents"
+    on the Command line. 
  -  Tip: When practising with PowerShell, it is easiest at first to grasp
     what you are doing if you open Windows Explorer and PowerShell side by
     side and follow along in the graphical user interface.
@@ -100,7 +102,7 @@ computers.
      is your Home location.
      
 ### Learning how to use the Terminal
-  - A good place to start is the Apple Shell Scripting Primer at (https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/Introduction/Introduction.html#//apple\_ref/doc/uid/TP40004268)[https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/Introduction/Introduction.html#//apple\_ref/doc/uid/TP40004268].
+  - A good place to start is the Apple Shell Scripting Primer at [https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/Introduction/Introduction.html#//apple\_ref/doc/uid/TP40004268](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/Introduction/Introduction.html#//apple\_ref/doc/uid/TP40004268 ).
   -  In the Shell Scripting Primer, see "Appendix A."
   -  Tip: When practising with the Terminal, it is easiest at first to grasp
     what you are doing if you open the Finder and the Terminal side by

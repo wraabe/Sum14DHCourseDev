@@ -176,24 +176,19 @@ if it fails to compile because of an error in syntax.
 
 ### LaTeX and GUI Interfaces
 
-There are many adequate GUI interfaces for LaTeX, but each
-has quirks. The purpose of a GUI is to automate procedures that
-are sometimes non-intuitive in LaTeX. You may install multiple
-and try them out. I recommend any of the following, whichever best
-suits.
+There are many adequate GUI interfaces for LaTeX. The purpose of a GUI is to automate procedures that are sometimes non-intuitive in LaTeX.
+You may install multiple GUIs and try them out. I recommend 
+any of the following, whichever best suits your preference.
  - TeXShop for Mac [http://pages.uoregon.edu/koch/texshop/index.html](http://pages.uoregon.edu/koch/texshop/index.html ) 
  - TeXWorks for Mac or Windows [http://www.tug.org/texworks/](http://www.tug.org/texworks/ ). This would be
    recommended. It is recommended for Mac. The Windows version as late as
    2013 had an annoying tendency to crash, causing you to lose work.
- - LaTeXiT for Mac (http://pierre.chachatelier.fr/latexit/latexit-downloads.php?lang=en)[http://pierre.chachatelier.fr/latexit/latexit-downloads.php?lang=en] A somewhat quirky but very stable.
+ - LaTeXiT for Mac (http://pierre.chachatelier.fr/latexit/latexit-downloads.php?lang=en)[http://pierre.chachatelier.fr/latexit/latexit-downloads.php?lang=en] 
 
 
-**Caution:** Without a full LaTeX system
-installed (the actual program), a GUI interface is
-not a LaTeX system. It is a plain text editor with a
-bunch of macro calls that don't work. 
-
-
+**Caution:** Without a full LaTeX system installed 
+(the actual program), a GUI interface is not a LaTeX system.
+It is a plain text editor with macro calls that don't work. 
 
 
 ### Reclaim Hosting
