@@ -95,20 +95,64 @@ Your group is responsible for consistency of citation and formatting.
 Revise and mark up individual posts for revision. Devise a system
 in which you maintain control over the source Markdown documents in GitHub. 
 Review and return posts with editorial markup by Tuesday. I recommend
-converting PanDoc to RTF and using Word or Google Docs to add
-marginal commentary. After writers make their edits, it is your
+converting Pandoc to RTF and using Word or Google Docs to add
+marginal commentary. After writers make their edits (either
+on GitHub source or Word or Google Docs---you decide), it is your
 final review that provides consistency of formatting style and
 editorial style. 
 
 Using a shared Zotero library, create a shared citation folder
-with one citation entry for each file. If multiple students cite
-the same file differently, it is your job to ensure that all are
-cited consistently and that none are duplicated. When the Zotero
-library has been properly edited and consistent, other working
-groups will need to install the bib file. Place it in the
-GitHub repository with revised markdown documents. 
+with one citation entry for each file. A sample Zotero library
+group folder for the "What Is DH?"
+assignment has been placed at the following location: 
+(https://www.zotero.org/groups/274025)[https://www.zotero.org/groups/274025 ]. 
+Currently, the group is private. Send an email
+to the instructor to request membership in the group.
+
+The job of the editorial working group is to ensure that all are cited consistently
+and that no citations are duplicated. When the Zotero
+library is consistent, other working groups will need to export
+from it a .bib file to create a bibliography. 
+Place the bibliography (.bib) in the GitHub repository with
+revised markdown documents. 
 
 ### Print Working Group
+
+The print working group shall use all approved editorial posts
+to create a print document. The method for creating the document shall
+be as follows:
+1.  Install the appropriate Pandoc and LaTeX for your operating
+    system. 
+2.  Using GitHub, dwnload the final updates of blog posts and bibliography
+    when the editorial working group's work is complete.
+3.  Review the following routines for managing elaborate
+    Pandoc documents (multiple files) with citations.
+    -  Multi-files in markdown. (https://github.com/akmassey/markdown-multiple-files-example)[https://github.com/akmassey/markdown-multiple-files-example ]
+	- Remember to specify the name of the .bib file in the YAML metadata block.
+	(http://johnmacfarlane.net/pandoc/demo/example19/YAML-metadata-block.html)[http://johnmacfarlane.net/pandoc/demo/example19/YAML-metadata-block.html ]
+	- Review Pandoc citations explanation (you will be using BibLaTeX), (http://johnmacfarlane.net/pandoc/demo/example19/Citations.html)[http://johnmacfarlane.net/pandoc/demo/example19/Citations.html]
+	- Download the appropriate Citation Style Language in GitHub and copy
+	to your Pandoc file directory. (https://github.com/citation-style-language/styles)[https://github.com/citation-style-language/styles].
+	The Chicago style names begin with "chicago-". The Modern Language
+	Association style names begin with "modern-language-". 
+	Place them in main document file folder for convenience.
+	- Download the default.latex template, and place it
+	in the main document file folder for convenience.
+	[https://github.com/jgm/pandoc-templates/blob/master/default.latex](https://github.com/jgm/pandoc-templates/blob/master/default.latex).
+After the setup is complete, see the Pandoc documentation
+for instructions on generate LaTeX document from Markdown
+with bibliography. 
+
+You may use the default LaTeX format, or you may wish to 
+change the settings on the default template. 
+
+Depending on its settings, Pandoc may embed the bibliographical
+information in the document as text. Or you can use LaTeX
+to generate the bibliography with BibLaTeX.  To generate a
+bibliography from within LaTeX, you must
+run LaTeX, then BibTeX, and then LaTeX twice again.
+
+
 
 ### Public Blog Working Group
 
