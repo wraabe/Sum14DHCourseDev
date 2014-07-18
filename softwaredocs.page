@@ -218,25 +218,9 @@ to another user who manages WordPress or Omeka installation.
 
 ## Plain Text Editors
    
-Use a plain text editor instead of a word 
-processor when preparing text-based documents. Word processors 
-(Microsoft Word, Google Documents, OpenOffice Writer, and Apple Pages)
-create documents with elaborate coding to achieve WYSWYG layout,
-and such encoding is often discarded when translating into plain text
-documents.  Learning all the quirks of an individual word processor is a less valuable skill 
-than learning to encode plain text documents that can be
-easily ported from one operating system and one processing system to another.
-The latter is a goal of this course.  Another course
-goal is to reduce your dependence on a single application and
-alter your understanding of the relationship between text and format.
-Both these capabilities are valuable for professions in which you have to prepare documentation
-and analyze data. I do not care which of the following
-plain text editors you use, but Vi and emacs are entire worlds of their own, into which
-considerable immersion is necessary to achieve basic competence.  But they
-are very powerful and very widely used. You should review your
-chosen editor's support and implementation of regular expressions (REGEX).
-This tongue-in-cheek graphic illustrates comparative learning
-curves [Manuel's Web Pages: Text Editors](http://www.manuelmagic.me/geek/texteditors/ "http://www.manuelmagic.me/geek/texteditors/").
+Use a plain text editor instead of a word  processor when preparing text-based documents. Word processors  (Microsoft Word, Google Documents, OpenOffice Writer, and Apple Pages) create documents with elaborate coding to achieve WYSIWYG layout, and such encoding is often discarded when translating into plain text
+documents.  Learning all the quirks of an individual word processor is a less valuable skill  than learning to encode plain text documents that can be
+easily ported from one operating system and one processing system to another. The latter is a goal of this course.  Another course goal is to reduce your dependence on a single application and alter your understanding of the relationship between text and format. Both these capabilities are valuable for professions in which you have to prepare documentation and analyze data. I do not care which of the following plain text editors you use, but Vi and emacs are entire worlds of their own, into which considerable immersion is necessary to achieve basic competence. If you are considering working in the computer or software industry, they are very good choices. You should review your chosen editor's support and implementation of regular expressions (REGEX). This tongue-in-cheek graphic illustrates comparative learning curves [http://www.manuelmagic.me/geek/texteditors/](http://www.manuelmagic.me/geek/texteditors/).
 
 
 ### Vi Improved (Vim), for UNIX, Macintosh, and Windows
@@ -258,27 +242,16 @@ curves [Manuel's Web Pages: Text Editors](http://www.manuelmagic.me/geek/textedi
 
 ### emacs for UNIX, Windows, and Macintosh
   *  Download (Hard Way): [emacs Home Page]("http://www.gnu.org/software/emacs/emacs.html" http://www.gnu.org/software/emacs/emacs.html). Select the "Nearby GNU Mirror" in "Obtaining/Downloading GNU emacs." 
-  * Download (Macintosh, Easy Way): If you are on Macintosh,
-    emacs is already installed. But for the latest version, see
+  * Download (Macintosh, Easy Way): If you are on Macintosh, emacs is already installed. But for the latest version, see
    [http://emacsformacosx.com/](http://emacsformacosx.com/ "http://emacsformacosx.com/").
    For a more Mac-like emacs, see [Aquamacs](http://aquamacs.org/about.shtml "http://aquamacs.org/about.shtml")
-  * Download (Windows, no Easy Way): If you are on Windows, select "windows" folder and then download "emacs-24.3-bin-i386.zip".
-    Instructions on successful Windows setup are available at [Claremont McKenna Faculty Page on
-    emacs Windows Setup]("http://www.claremontmckenna.edu/pages/faculty/alee/emacs/emacs.html" 
-    http://www.claremontmckenna.edu/pages/faculty/alee/emacs/emacs.html)
-  * For introductory tutorial, see [Jess Hamrick's Absolute Beginner's Guide](http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/ "http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/"). For a more amibitious overview, within emacs, type C-h t. 
+  * Download (Windows, no Easy Way): If you are on Windows, select "windows" folder and then download "emacs-24.3-bin-i386.zip". Instructions on successful Windows setup are available at Claremont McKenna Faculty Page on emacs Windows Setup [http://www.claremontmckenna.edu/pages/faculty/alee/emacs/emacs.html](http://www.claremontmckenna.edu/pages/faculty/alee/emacs/emacs.html )
+  * For introductory tutorial, see Jess Hamrick's Absolute Beginner's Guide [http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/](http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/ ). For a more ambitious overview, within emacs, type C-h t. 
 
 ### Other Plain Text Editors
-   * BBEdit (paid) or free TextWrangler (Macintosh): [Bare Bones Text Wrangler Download](http://www.barebones.com/products/textwrangler/ "http://www.barebones.com/products/textwrangler/")
-   * Notepad ++ (Windows, free): [Notepad ++](http://notepad-plus-plus.org/ "http://notepad-plus-plus.org/")
-   * Sublime Text, test and then buy (Macintosh or Windows) [http://www.sublimetext.com/3](http://www.sublimetext.com/3 "http://www.sublimetext.com/3")
+   * BBEdit (paid) or free TextWrangler (Macintosh), from Bare Bones software [http://www.barebones.com/products/textwrangler/](http://www.barebones.com/products/textwrangler/ )
+   * Notepad ++ (Windows, free): Notepad ++ [http://notepad-plus-plus.org/](http://notepad-plus-plus.org/ )
+   * Sublime Text, test and then buy (Macintosh or Windows) [http://www.sublimetext.com/3](http://www.sublimetext.com/3 )
 
-## Working Together
-
-Working together is difficult, but you will be working in teams. And you need
-to develop routines to ensure that you can work together efficiently. The
-only required tool will be GitHub, which you will use to manage your
-source text documents, but you may also use other tools to
-organize your collaboration with other members of your team.
 
 

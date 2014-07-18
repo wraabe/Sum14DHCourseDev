@@ -20,7 +20,7 @@ may also work on MS-DOS, but some will require PowerShell.
 
 ### Checking if PowerShell is installed
  - On the Start menu search box, type "PowerShell."
- - If not application is availalbe, see "Installing Windows PowerShell"
+ - If not application is available, see "Installing Windows PowerShell"
    below.
  - You may have two PowerShell options: "Windows Powershell"
    and "Windows PowerShell (x86)." If you have both, use the

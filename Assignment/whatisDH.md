@@ -116,17 +116,16 @@ As you will read on [http://chronicle.com/blogs/profhacker/make-your-own-e-books
 
 Below are the basic steps that Mullen recommends, revised to emphasize our class documents.
 
-1.  Download the updated GitHub versions of the blog posts.
+1.  Download the updated GitHub versions of our class blog posts.
 2.  Review the following routines for managing elaborate Pandoc documents (multiple files with citations): managing Multiple files in markdown. [https://github.com/akmassey/markdown-multiple-files-example](https://github.com/akmassey/markdown-multiple-files-example ).
 3.  Create a title page named `title.txt` and a copyright page named `metadata.xml`.
 4.  Review the Pandoc options to handle bibliography entries and citation style.
    -  Review the `pandoc-cite-proc` extension documentation to generate bibliography entries through Pandoc [http://johnmacfarlane.net/pandoc/demo/example19/Citations.html](http://johnmacfarlane.net/pandoc/demo/example19/Citations.html).
-   -  Managing Multiple files in markdown. [https://github.com/akmassey/markdown-multiple-files-example](https://github.com/akmassey/markdown-multiple-files-example )  
-    - Adding name of the .bib file to YAML metadata block. [http://johnmacfarlane.net/pandoc/demo/example19/YAML-metadata-block.html](http://johnmacfarlane.net/pandoc/demo/example19/YAML-metadata-block.html )
-    - Setting up appropriate Citation Style Language in GitHub, which you add to Pandoc file directory. [https://github.com/citation-style-language/styles](https://github.com/citation-style-language/styles ). The Chicago style names begin with "chicago-". The Modern Language Association style names begin with "modern-language-".  Place them in main document file folder for convenience.
-5.  Using Pandoc, stitch all the document parts together, including citation entries with the `pandoc-cite-proc`  
+    - Review adding name of the .bib file to YAML metadata block. [http://johnmacfarlane.net/pandoc/demo/example19/YAML-metadata-block.html](http://johnmacfarlane.net/pandoc/demo/example19/YAML-metadata-block.html )
+    - Review setting up appropriate Citation Style Language in GitHub: place `.csl` file in Pandoc file directory. [https://github.com/citation-style-language/styles](https://github.com/citation-style-language/styles ). The Chicago style names begin with "chicago-". The Modern Language Association style names begin with "modern-language-".  
+5.  Using Pandoc, stitch all the document parts together, including citation entries with the `pandoc-cite-proc`. 
 6.  Inspect the book in Calibre.
-7.  Publish the ebook on a free service, such as Google Books.
+7.  Publish the ebook on a free service, such as Google Books. See (https://www.lib.umn.edu/faq/22714)[https://www.lib.umn.edu/faq/22714]
 
 A helpful tutorial on ebook options with Pandoc and Calibre is available at [http://puppetlabs.com/blog/automated-ebook-generation-convert-markdown-epub-mobi-pandoc-kindlegen](http://puppetlabs.com/blog/automated-ebook-generation-convert-markdown-epub-mobi-pandoc-kindlegen ). However, you should carefully consult the Pandoc documentation as well, which lists all options. See the basic tutorial at (http://johnmacfarlane.net/pandoc/epub.html)[http://johnmacfarlane.net/pandoc/epub.html] and the advanced list of options in the user's guide (http://johnmacfarlane.net/pandoc/README.html)[http://johnmacfarlane.net/pandoc/README.html].
 
@@ -136,14 +135,12 @@ Below are some design recommendations to consider:
   -  Should your book have a cover page and a TOC?
   -  Is the default style acceptable, or should you consider a .css file to make the format more pleasing?
   
-A series of more technical methods for creating ebooks is available from IBM on its developer network at (http://www.ibm.com/developerworks/xml/tutorials/x-epubtut/index.html?ca=drs-)[http://www.ibm.com/developerworks/xml/tutorials/x-epubtut/index.html?ca=drs-]. Though I recommend that you use Pandoc, IBM documentation may help you to understand options. 
-
-   
-     
+A series of more technical methods for creating ebooks is available from IBM on its developer network at (http://www.ibm.com/developerworks/xml/tutorials/x-epubtut/index.html?ca=drs-)[http://www.ibm.com/developerworks/xml/tutorials/x-epubtut/index.html?ca=drs-]. Though I recommend that you use Pandoc, the IBM documentation may help you to understand options. 
 
 
 
-# References
+
+# Bibliography
 
 	
 	
