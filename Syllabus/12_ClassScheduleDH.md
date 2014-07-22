@@ -3,8 +3,8 @@
 
 ## Week 1: You do what?
 
-Readings on what digital humanities, by scholars and by outside critics: barbarians at the gates narrative and the destruction of the human.
- 
+[//]: <> (Readings on what digital humanities, by scholars and by outside critics: barbarians at the gates narrative and the destruction of the human.)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Readings:                Marche, Stephen, "Literature is not Data: Against Digital Humanities" 
                          [http://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities](http://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities )
@@ -12,9 +12,6 @@ Readings:                Marche, Stephen, "Literature is not Data: Against Digit
                          Kirsch, Adam, "Technology Is Taking Over English Departments: The false promise of the digital humanities"
 						 [http://www.newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch](http://www.newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch)
  
-                         Sullivan, Ian, "Innovation in practice," Software Freedom Law Center"
-                         [https://www.softwarefreedom.org/blog/2014/apr/11/innovation-in-practice/](https://www.softwarefreedom.org/blog/2014/apr/11/innovation-in-practice/)
- 						
 Assignment:              ``What is Digital Humanities: A Student Debate": Build a Blog, Print Document, and eBook
 
 Activities:              OS Administrator and File Extensions
@@ -24,9 +21,9 @@ Activities:              OS Administrator and File Extensions
                          Introduce Plain Text Editors
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Week 2: Who are you?
+## Week 2: What does a digital humanist do?
 
-Readings on what digital humanities, by scholars and by outside critics,
+[//]: <> (Discussions about what digital humanists do by digital humanists.)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Readings:                Matthew Kirschenbam, "What is Digital Humanities and What's It Doing in English Departments?"
@@ -49,14 +46,21 @@ Assignment:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Week 3: What is text, really?
+## Week 3: Form and content: What's the Difference?
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Readings:                
+                         "Single-Source Publishing, according to Wikipedia
+                         [http://en.wikipedia.org/wiki/Single_source_publishing](http://en.wikipedia.org/wiki/Single_source_publishing)
                          
-                         
-                         
-                         
+                         "Document Management System," according to Wikipedia
+                         [http://en.wikipedia.org/wiki/Document_management_system](http://en.wikipedia.org/wiki/Document_management_system)
+                                                                           
+                         Sullivan, Ian, "Innovation in practice," Software Freedom Law Center"
+                         [https://www.softwarefreedom.org/blog/2014/apr/11/innovation-in-practice/](https://www.softwarefreedom.org/blog/2014/apr/11/innovation-in-practice/)
+ 						             
 Assignment:              Activity 1: Install GitHub and DropBox and submit Markdown-format Blog Post
 
 						 Activity 2: Zotero and *.bib (BibLaTeX) files
@@ -64,10 +68,11 @@ Assignment:              Activity 1: Install GitHub and DropBox and submit Markd
 						 Activity 3: Install (as necessary) LaTeX or Calibre, or set up Reclaim Hosting site with WordPress
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Week 4: Who am I?
+## Week 4:  Publishing Our Single-Source Discussion of "What is DH"?
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                          
-Readings:               X
+Readings:                
                          
                          
                          
@@ -86,14 +91,14 @@ Assignment:               Post MarkDown source and LaTeX source to GitHub, and p
 ## Week 5: Getting to the Text
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                          
-Readings:               X
+Readings:               
                          
                          
                          
                          
                          
                          
-Assignment:             X Visit library special collections
+Assignment:               Visit library special collections
 
                           Set up Reclaim Hosting and Install Omeka and WordPress
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -102,7 +107,7 @@ Assignment:             X Visit library special collections
 ## Week 6: Back to the archive again
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                          
-Readings:               X
+Readings:                
                          
                           Daniel J. Cohen and Roy Rosenszwig, "How to Make Text Digital: Scanning, OCR, and Typing," *Digital History,*
                           [http://chnm.gmu.edu/digitalhistory/digitizing/4.php](http://chnm.gmu.edu/digitalhistory/digitizing/4.php )
@@ -110,7 +115,7 @@ Readings:               X
                           Daniel J. Cohen and Roy Rosenszwig, "Digital Images" *Digital History,*
                           [http://chnm.gmu.edu/digitalhistory/digitizing/5.php](http://chnm.gmu.edu/digitalhistory/digitizing/5.php )
                          
-Assignment:             X Transcribe Text
+Assignment:               Transcribe Text
                           Install Tesseract and OCR print text 
                           
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -123,7 +128,7 @@ Assignment:             X Transcribe Text
 ## Week 7: Pictures are worth a 1000 words
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                          
-Readings:               X
+Readings:                
                         
                            Klenczon \& Rygiel, "Librarian Cornered by Images, or How to Index Visual Resources" *Cataloging \& Classification Quarterly*  
                           52:1 (2014): 1-21.
@@ -131,7 +136,7 @@ Readings:               X
                          
                          
                          
-Assignment:             X Compare Transcribed and OCR Text in JUXTA 
+Assignment:               Compare Transcribed and OCR Text in JUXTA 
                           Orally proofread transcribed text against original document
                           Introduce REGEX
                           Read Introduction to XML
@@ -141,7 +146,7 @@ Assignment:             X Compare Transcribed and OCR Text in JUXTA
 ## Week 8: Text pictures are words
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                          
-Readings:               X
+Readings:                
                          
                          
                           Kline, Mary-Jo and Susan Holbrook Perdue, *A Guide to Documentary Editing* 
@@ -151,7 +156,7 @@ Readings:               X
                          
                          
                          
-Assignment:             X Introduce XML, TEILite, XSLT, and Saxon
+Assignment:               Introduce XML, TEILite, XSLT, and Saxon
                           Install Drupal and TEIChI
                           Install Omeka and 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -161,33 +166,32 @@ Assignment:             X Introduce XML, TEILite, XSLT, and Saxon
 ## Week 9: What is text, really?
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                          
-Readings:               X
+Readings:                
                          
                           Daniel J. Cohen and 
                           (http://chnm.gmu.edu/digitalhistory/digitizing/3.php)[http://chnm.gmu.edu/digitalhistory/digitizing/3.php]
                          
                          
                          
-Assignment:             X Propose Project Plan
+Assignment:               Propose Project Plan
 
                           Install Drupal and TEIChI *or* Install Omeka and Scripto *or* Install Version Machine
                          
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Week 9 Goals
 
 
 ## Week 10: All hang together, or all hang separately
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                          
-Readings:               X
+Readings:                
                          
                          
                          
                          
                          
                          
-Assignment:             X
+Assignment:               
                          
                          
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -195,14 +199,14 @@ Assignment:             X
 ## Week 11: Gathering our wares
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                          
-Readings:               X
+Readings:                
                          
                          
                          
                          
                          
                          
-Assignment:             X
+Assignment:               
                          
                          
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -211,14 +215,14 @@ Assignment:             X
 ## Week 12: If we build it, will they come?
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                          
-Readings:               X
+Readings:                
                          
                          
                          
                          
                          
                          
-Assignment:             X
+Assignment:               
                          
                          
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -227,14 +231,14 @@ Assignment:             X
 ## Week 13: Who is our audience?
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                          
-Readings:               X
+Readings:                
                          
                          
                          
                          
                          
                          
-Assignment:             X
+Assignment:               
                          
                          
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -244,14 +248,14 @@ Assignment:             X
 ## Week 14: Is this legal?
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                          
-Readings:               X
+Readings:                
                          
                          
                          
                          
                          
                          
-Assignment:             X
+Assignment:               
                          
                          
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -261,14 +265,14 @@ Assignment:             X
 ## Week 15: Sharing our wares
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                          
-Readings:               X
+Readings:                
                          
                          
                          
                          
                          
                          
-Assignment:             X
+Assignment:               
                          
                          
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
