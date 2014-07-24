@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.5.31)  18 JUL 2014 11:02
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.5.31)  23 JUL 2014 14:23
 entering extended mode
 **C:/Users/wraabe/Documents/GitHub/Sum14DHCourseDev/Syllabus/syll_DH.tex
 (C:/Users/wraabe/Documents/GitHub/Sum14DHCourseDev/Syllabus/syll_DH.tex
@@ -371,44 +371,6 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-("C:\Program Files\MikTex2-9\tex\latex\tools\longtable.sty"
-Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip46
-\LTright=\skip47
-\LTpre=\skip48
-\LTpost=\skip49
-\LTchunksize=\count99
-\LTcapwidth=\dimen112
-\LT@head=\box28
-\LT@firsthead=\box29
-\LT@foot=\box30
-\LT@lastfoot=\box31
-\LT@cols=\count100
-\LT@rows=\count101
-\c@LT@tables=\count102
-\c@LT@chunks=\count103
-\LT@p@ftn=\toks22
-)
-("C:\Program Files\MikTex2-9\tex\latex\booktabs\booktabs.sty"
-Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen113
-\lightrulewidth=\dimen114
-\cmidrulewidth=\dimen115
-\belowrulesep=\dimen116
-\belowbottomsep=\dimen117
-\aboverulesep=\dimen118
-\abovetopsep=\dimen119
-\cmidrulesep=\dimen120
-\cmidrulekern=\dimen121
-\defaultaddspace=\dimen122
-\@cmidla=\count104
-\@cmidlb=\count105
-\@aboverulesep=\dimen123
-\@belowrulesep=\dimen124
-\@thisruleclass=\count106
-\@lastruleclass=\count107
-\@thisrulewidth=\dimen125
-)
 ("C:\Program Files\MikTex2-9\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
@@ -458,7 +420,7 @@ Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
 ("C:\Program Files\MikTex2-9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
-\KV@toks@=\toks23
+\KV@toks@=\toks22
 )
 ("C:\Program Files\MikTex2-9\tex\latex\oberdiek\auxhook.sty"
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
@@ -466,16 +428,16 @@ Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 ("C:\Program Files\MikTex2-9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen126
-\Hy@linkcounter=\count108
-\Hy@pagecounter=\count109
+\@linkdim=\dimen112
+\Hy@linkcounter=\count99
+\Hy@pagecounter=\count100
 
 ("C:\Program Files\MikTex2-9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count110
+\Hy@SavedSpaceFactor=\count101
 
 ("C:\Program Files\MikTex2-9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -494,17 +456,17 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count111
+\c@Hy@tempcnt=\count102
 
 ("C:\Program Files\MikTex2-9\tex\latex\ltxmisc\url.sty"
 \Urlmuskip=\muskip11
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen127
-\Fld@menulength=\count112
-\Field@Width=\dimen128
-\Fld@charsize=\dimen129
+\XeTeXLinkMargin=\dimen113
+\Fld@menulength=\count103
+\Field@Width=\dimen114
+\Fld@charsize=\dimen115
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -514,55 +476,55 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count113
-\c@Item=\count114
-\c@Hfootnote=\count115
+\Hy@abspage=\count104
+\c@Item=\count105
+\c@Hfootnote=\count106
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 ("C:\Program Files\MikTex2-9\tex\latex\hyperref\hpdftex.def"
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-\Fld@listcount=\count116
-\c@bookmark@seq@number=\count117
+\Fld@listcount=\count107
+\c@bookmark@seq@number=\count108
 
 ("C:\Program Files\MikTex2-9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip50
+\Hy@SectionHShift=\skip46
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 39.
+Package hyperref Info: Option `breaklinks' set `true' on input line 38.
 
 
 Package hyperref Warning: Option `bookmarks' has already been used,
-(hyperref)                setting the option has no effect on input line 39.
+(hyperref)                setting the option has no effect on input line 38.
 
-Package hyperref Info: Option `colorlinks' set `true' on input line 39.
+Package hyperref Info: Option `colorlinks' set `true' on input line 38.
 (C:\Users\wraabe\Documents\GitHub\Sum14DHCourseDev\Syllabus\syll_DH.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 47.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 46.
 
 ("C:\Program Files\MikTex2-9\tex\latex\lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-\AtBeginShipoutBox=\box32
+\AtBeginShipoutBox=\box28
 
 ("C:\Program Files\MikTex2-9\tex\latex\graphics\color.sty"
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
@@ -574,9 +536,9 @@ Package color Info: Driver file: pdftex.def on input line 130.
 
 ("C:\Program Files\MikTex2-9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-\Gread@gobject=\count118
+\Gread@gobject=\count109
 ))
-Package hyperref Info: Link coloring ON on input line 47.
+Package hyperref Info: Link coloring ON on input line 46.
 
 ("C:\Program Files\MikTex2-9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -584,191 +546,133 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 ("C:\Program Files\MikTex2-9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count119
+\c@section@level=\count110
 )
-LaTeX Info: Redefining \ref on input line 47.
-LaTeX Info: Redefining \pageref on input line 47.
-LaTeX Info: Redefining \nameref on input line 47.
+LaTeX Info: Redefining \ref on input line 46.
+LaTeX Info: Redefining \pageref on input line 46.
+LaTeX Info: Redefining \nameref on input line 46.
 
 (C:\Users\wraabe\Documents\GitHub\Sum14DHCourseDev\Syllabus\syll_DH.out)
 (C:\Users\wraabe\Documents\GitHub\Sum14DHCourseDev\Syllabus\syll_DH.out)
 \@outlinefile=\write3
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 60.
 
-Underfull \vbox (badness 10000) detected at line 72
- []
-
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 79.
 ("C:\Program Files\MikTex2-9\tex\latex\lm\omslmr.fd"
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 79.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 60.
 
 
 ("C:\Program Files\MikTex2-9\tex\latex\lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 79.
- [1
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 60.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 62.
 
-{C:/Users/wraabe/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \vbox (badness 10000) detected at line 150
- []
-
-[2]
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 195.
-
- ("C:\Program Files\MikTex2-9\tex\latex\lm\ot1lmr.fd"
+("C:\Program Files\MikTex2-9\tex\latex\lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 195.
-
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 62.
 
 ("C:\Program Files\MikTex2-9\tex\latex\lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 195
-.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 62.
+
 
 ("C:\Program Files\MikTex2-9\tex\latex\lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 195.
+(Font)              <10> on input line 62.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 195.
+(Font)              <7> on input line 62.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 195.
-LaTeX Font Info:    Try loading font information for U+msa on input line 195.
+(Font)              <5> on input line 62.
+LaTeX Font Info:    Try loading font information for U+msa on input line 62.
 
 ("C:\Program Files\MikTex2-9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 195.
+LaTeX Font Info:    Try loading font information for U+msb on input line 62.
 
 ("C:\Program Files\MikTex2-9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [3] [4] [5] [6]
-[7] [8] [9] [10] [11] [12] [13] [14]
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 727.
-
-
-("C:\Program Files\MikTex2-9\tex\latex\lm\t1lmtt.fd"
-File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Overfull \hbox (11.13817pt too wide) in paragraph at lines 731--747
-$\T1/lmr/m/n/10 com / 2011 / 05 / 25 / the-[]digital-[]humanities-[]is-[]not-[]
-about-[]building-[]its-[]about-[]sharing/$[][]
+Overfull \hbox (40.11186pt too wide) in paragraph at lines 60--64
+[][]$\T1/lmr/m/n/10 http : / / lareviewofbooks . org / essay / literature-[]is-
+[]not-[]data-[]against-[]digital-[]humanities$[][] 
  []
 
-[15]
-Overfull \hbox (98.38773pt too wide) in alignment at lines 835--863
- [] [] 
- []
+[1
 
-
-Underfull \vbox (badness 10000) detected at line 863
- []
-
-[16] [17]
-Overfull \hbox (153.48595pt too wide) in alignment at lines 923--949
- [] [] 
+{C:/Users/wraabe/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 5105) in paragraph at lines 139--142
+[]\T1/lmr/m/n/10 ``Document Man-age-ment Sys-tem,'' ac-cord-ing to Wikipedia []
+[]$http :$
  []
 
 
-Underfull \vbox (badness 10000) detected at line 949
+Overfull \hbox (15.97136pt too wide) in paragraph at lines 142--144
+[][]$\T1/lmr/m/n/10 https : / / www . softwarefreedom . org / blog / 2014 / apr
+ / 11 / innovation-[]in-[]practice/$[][] 
  []
 
-[18]
-Underfull \vbox (badness 10000) detected at line 1033
- []
-
-[19]
-Overfull \hbox (231.61699pt too wide) in alignment at lines 1094--1121
- [] [] 
- []
-
-
-Underfull \vbox (badness 10000) detected at line 1121
- []
-
-[20]
-Underfull \vbox (badness 10000) detected at line 1200
- []
-
-[21]
-Overfull \hbox (266.02164pt too wide) in alignment at lines 1261--1293
- [] [] 
+[2]
+Overfull \hbox (384.44792pt too wide) in paragraph at lines 202--204
+[]\T1/lmr/m/n/10 Alcott, \T1/lmr/m/it/10 Hos-pi-tal Sketches \T1/lmr/m/n/10 (Bo
+ston, Red-path, 1863), (https://archive.org/details/hospitalsketches00alcorich)
+[https://archive.org/details/hospitalsketches00alcorich] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1293
- []
-
-[22]
-Overfull \hbox (210.33176pt too wide) in alignment at lines 1354--1381
- [] [] 
+Overfull \hbox (17.83217pt too wide) in paragraph at lines 256--259
+$\T1/lmr/m/n/10 williamjturkel . net / 2013 / 07 / 06 / doing-[]ocr-[]using-[]c
+ommand-[]line-[]tools-[]in-[]linux/$[][] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1381
+Underfull \hbox (badness 10000) in paragraph at lines 268--270
+
  []
 
-[23] [24]
-Underfull \vbox (badness 10000) detected at line 1467
+[3]
+Overfull \hbox (235.68782pt too wide) in paragraph at lines 310--313
+\T1/lmr/m/it/10 Be-com-ing Dig-i-tal \T1/lmr/m/n/10 (http://chnm.gmu.edu/digita
+lhistory/digitizing/3.php)[http://chnm.gmu.edu/digitalhistory/digitizing/3.php]
+ 
  []
 
-[25]
-Underfull \vbox (badness 10000) detected at line 1554
- []
-
-[26]
-Underfull \vbox (badness 10000) detected at line 1640
- []
-
-[27]
-Underfull \vbox (badness 10000) detected at line 1726
- []
-
-[28]
-Underfull \vbox (badness 10000) detected at line 1811
- []
-
-[29] [30]
-Underfull \vbox (badness 10000) detected at line 1896
- []
-
-[31]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1954.
- [32]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1954.
+[4] [5] [6]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 473.
+ [7]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 473.
 
 (C:\Users\wraabe\Documents\GitHub\Sum14DHCourseDev\Syllabus\syll_DH.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1954.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1954.
-
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 473.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 473.
 Package rerunfilecheck Info: File `syll_DH.out' has not changed.
-(rerunfilecheck)             Checksum: 87B361709E3A99287442B225B9365D97;7886.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1954.
+(rerunfilecheck)             Checksum: 7D28DCAFAA880EC830754EBF510325C5;6994.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 473.
  ) 
 Here is how much of TeX's memory you used:
- 9692 strings out of 493921
- 131355 string characters out of 3147680
- 198793 words of memory out of 3000000
- 12593 multiletter control sequences out of 15000+200000
- 39219 words of font info for 39 fonts, out of 3000000 for 9000
+ 9247 strings out of 493921
+ 126951 string characters out of 3147680
+ 189532 words of memory out of 3000000
+ 12406 multiletter control sequences out of 15000+200000
+ 38900 words of font info for 38 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 29i,7n,31p,434b,491s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,5n,28p,526b,393s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MikTex2-9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/Mi
 kTex2-9/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Program Files/MikTex2-9/fonts/type
 1/public/lm/lmbx10.pfb><C:/Program Files/MikTex2-9/fonts/type1/public/lm/lmbx12
 .pfb><C:/Program Files/MikTex2-9/fonts/type1/public/lm/lmr10.pfb><C:/Program Fi
 les/MikTex2-9/fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MikTex2-9/font
-s/type1/public/lm/lmsy10.pfb><C:/Program Files/MikTex2-9/fonts/type1/public/lm/
-lmtt10.pfb>
-Output written on syll_DH.pdf (32 pages, 279644 bytes).
+s/type1/public/lm/lmsy10.pfb>
+Output written on syll_DH.pdf (7 pages, 148255 bytes).
 PDF statistics:
- 684 PDF objects out of 1000 (max. 8388607)
- 300 named destinations out of 1000 (max. 500000)
- 385 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 275 PDF objects out of 1000 (max. 8388607)
+ 54 named destinations out of 1000 (max. 500000)
+ 369 words of extra memory for PDF output out of 10000 (max. 10000000)
 
