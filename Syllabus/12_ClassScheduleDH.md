@@ -97,79 +97,68 @@ Discussions about what digital humanists do by digital humanists.
   -  Compare Transcribed and OCR Text in JUXTA  
   -  Orally proofread transcribed text against original document 
 
-
 ## Week 8: Text and Encoding
 
 ### Readings:
 
+  -   Ramsay, Stephen, "Using Regular Expressions," *Electronic Text Center: University of Virginia* (Blackboard)
   -   DeRose, S. J., Durand, D. G., Mylonas, E., and Renear A. H. (1990), "What is Text, Really?"  * \* Journal of Computing in Higher Education* 1.2: 3-26.
   -   Renear, Alan. "Text Encoding." *A Companion to the Digital Humanities* 
   -   Birnbaum, David J. "What is XML and why should humanists care? An even gentler introduction to XML" *Digital Humanities*
       [http://dh.obdurodon.org/what-is-xml.xhtml](http://dh.obdurodon.org/what-is-xml.xhtml)
-  -  
 
 ### Assignment: 
 
-  -  Introduce XML, TEILite, XSLT, and Saxon
+  -  Introduce text encoding
   -  Introduce REGEX
-  -  Read Introduction to XML  
 
 ## Week 9: What is text, really?
 
 ### Readings:
 
-  -  
-  -  
-  -  
+  -  Minnesota Digital Library, "Quick Reference Guide: Digital Imaging Best Practices"[http://www.mndigital.org/digitizing/standards/guide.php](http://www.mndigital.org/digitizing/standards/guide.php)
+  -  University Library, University of Illinois, Urbana-Champagne "3.0 Best Practices for Creating Digital Images" (http://www.library.illinois.edu/dcc/bestpractices/chapter_03_creatingdigitalimages.html#textdoc)[http://www.library.illinois.edu/dcc/bestpractices/chapter_03_creatingdigitalimages.html#textdoc]
   -  Daniel J. Cohen and Roy Rosenzweig, "To Mark Up, Or Not To Mark Up" *Becoming Digital* (http://chnm.gmu.edu/digitalhistory/digitizing/3.php)[http://chnm.gmu.edu/digitalhistory/digitizing/3.php]
+  -  "Gentle Introduction to XML" (http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html)[http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html]
 
 ### Assignment:
 
   -  Propose Project Plan
-  -  Install Drupal and TEIChI *or* Install Omeka and TEILite
-  -  
+
  
-
-## Week 10: All hang together, or all hang separately
-
-  -  
-  -  
-  -  
+## Week 10: 
 
 ### Readings:
  
-  -  
-  -  
-  -  
+  -  Pitti, Daniel V. "Designing Sustainable Projects and Publications," *Companion to Digital Humanities* [http://nora.lis.uiuc.edu:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml](http://nora.lis.uiuc.edu:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml)
+  -  "Conversion of Primary Sources,"  *Companion to Digital Humanities* [http://nora.lis.uiuc.edu:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml](http://nora.lis.uiuc.edu:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml)
+  -  Johnson, Peter K. "Installing and Using Saxon for your XSLT Development" [http://www.youtube.com/watch?v=FsDq2-VV0Uo](http://www.youtube.com/watch?v=FsDq2-VV0Uo)
   
 ### Assignment:
   
-  -  
-  -  
-  -  
+  -  Introduce Oxygen
+  -  Installing Saxon and Running from Command Line [http://www.saxonica.com/documentation/using-xsl/commandline.html](http://www.saxonica.com/documentation/using-xsl/commandline.html)
+  -  Introduce Scanner
 
 ## Week 11: Gathering our wares
 
-  -  
-  -  
-  -  
 
 ### Readings:
- 
-  -  
-  -  
-  -  
-  
+  -  Pape, Sebastian, Christof Schöch, and Lutz Wegner, "TEICHI and the Tools Paradox" [http://jtei.revues.org/432](http://jtei.revues.org/432)
+  -  "Documentation" and "Downloads," TEICHI (http://www.teichi.org/)[http://www.teichi.org/]
+  -  "Documentation: What Is" [http://omeka.org/](http://omeka.org/ )
+
+
 ### Assignment:
   
-  -  
-  -  
-  -  
-
+  -  Install Drupal on Reclaim Host, and install TEICHI on Drupal
+  -  Install Omeka on Reclaim Host, and install TEILite on Omeka
+  -  Introduce Saxon and XSLT
+  
 ## Week 12: If we build it, will they come?
 
-  -  
-  -  
+  -  Introduce XML and TEILite
+  -  Introduce Saxon and XSLT
   -  
 
 ### Readings:
