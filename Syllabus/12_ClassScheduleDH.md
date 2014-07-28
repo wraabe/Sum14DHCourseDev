@@ -148,36 +148,32 @@ Discussions about what digital humanists do by digital humanists.
   -  "Documentation" and "Downloads," TEICHI (http://www.teichi.org/)[http://www.teichi.org/]
   -  "Documentation: What Is" [http://omeka.org/](http://omeka.org/ )
 
-
 ### Assignment:
   
-  -  Install Drupal on Reclaim Host, and install TEICHI on Drupal
-  -  Install Omeka on Reclaim Host, and install TEILite on Omeka
+  -  Install Drupal on Reclaim Hosting, and install TEICHI on Drupal
+  -  Install Omeka on Reclaim Hosting, and install TEILite on Omeka
   -  Introduce Saxon and XSLT
   
 ## Week 12: If we build it, will they come?
 
-  -  Introduce XML and TEILite
-  -  Introduce Saxon and XSLT
-  -  
 
 ### Readings:
- 
-  -  
-  -  
-  -  
+  -  "Introduction" *TEI by Example* [http://teibyexample.org/examples/TBED00v00.htm](http://teibyexample.org/examples/TBED00v00.htm)
+  -  "Common Structure and Elements" *TEI by Example* [http://teibyexample.org/modules/TBED01v00.htm](http://teibyexample.org/modules/TBED01v00.htm)
+
+
   
 ### Assignment:
   
-  -  
-  -  
-  -  
+  -  Introduce XML and TEILite
+  -  Introduce Saxon and XSLT
+
 
 ## Week 13: Who is our audience?
 
-  -  
-  -  
-  -  
+  -  "TEI Header" *TEI by Example* [http://teibyexample.org/examples/TBED02v00.htm](http://teibyexample.org/examples/TBED02v00.htm)
+  -  "Prose" *TEI by Example* [http://teibyexample.org/examples/TBED03v00.htm](http://teibyexample.org/examples/TBED03v00.htm)
+
 
 ### Readings:
  
@@ -193,9 +189,8 @@ Discussions about what digital humanists do by digital humanists.
 
 ## Week 14: Is this legal?
 
-  -  
-  -  
-  -  
+  -  TEILite [http://www.tei-c.org/Guidelines/Customization/Lite/](http://www.tei-c.org/Guidelines/Customization/Lite/)
+  -  "Primary Sources" *TEI by Example* [http://teibyexample.org/examples/TBED06v00.htm](http://teibyexample.org/examples/TBED06v00.htm)
 
 ### Readings:
  
