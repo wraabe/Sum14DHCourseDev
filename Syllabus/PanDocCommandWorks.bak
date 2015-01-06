@@ -1,1 +1,1 @@
-pandoc -s 01_headertable.md 02_ObjectivesMaterials.md 03_Grades_LitSurvey.md 04_Accessibility.md 05_BlogAssmtQuiz.md 06_Abscence_Class.md 07_Papers.md 08_PresentationsExams.md 09_CheatingPlagiarism.md 10_Copyright.md 11_SyllCredits.md -o syll_litsurvey.tex
+pandoc -s 01_headertable.md 02_ObjectivesMaterials.md 03_Grades_LitSurvey.md 04_Accessibility.md 05_BlogAssmtQuiz.md 06_Abscence_Class.md 07_Papers.md 08_DHProjects.md 09_CheatingPlagiarism.md 10_Copyright.md 11_SyllCredits.md 12_ClassScheduleDH.md -o syll_DH.tex
