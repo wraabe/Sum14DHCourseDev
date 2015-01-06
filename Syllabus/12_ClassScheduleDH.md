@@ -31,6 +31,7 @@ Discussions about what digital humanists do by digital humanists.
   -  Mark Sample, "The digital humanities is not about building, it's about sharing" [http://bit.ly/1kLZ8XW](http://bit.ly/1kLZ8XW )
 
 ### Assignment:
+
   -  Activity 1: Install Pandoc. 
   -  Activity 2: Convert Sample Markdown File w/ bib to Word RTF and HTML
   -  Activity 3: Write blog post with bibliographical reference on what DH is
@@ -44,6 +45,7 @@ Discussions about what digital humanists do by digital humanists.
   -  Sullivan, Ian, "Innovation in practice," Software Freedom Law Center [https://www.softwarefreedom.org/blog/2014/apr/11/innovation-in-practice/](https://www.softwarefreedom.org/blog/2014/apr/11/innovation-in-practice/)
  						             
 ### Assignment:
+
   -  Activity 1: Install GitHub and DropBox and submit Markdown-format Blog Post
   -  Activity 2: Install Zotero, and export BibLaTeX (*.bib) files
   -  Activity 3: Install (as necessary) LaTeX or Calibre, or set up Reclaim Hosting site with WordPress
@@ -58,31 +60,39 @@ Discussions about what digital humanists do by digital humanists.
   -  Assignment 1 eBook Working Group: Submit link to eBook on Team GitHub Repository
   -  All Students: Post Assignment 1 Reflection to class blog, 500 words
 
-## Week 5: Getting to the Text
+## Week 5: Acquiring and Visualizing Texts
 
 ### Readings:
-  -  Alcott, *Hospital Sketches* *Boston Commonwealth,* 22 May 1863 
+
+  -  Berman, Ruth. " ' Spirituous Consolation': Alcott's Jokes on Drinking and Religion." *Children's Literature in Education*
+     39:3 (2008): 169-185. [http://search.ebscohost.com/login.aspx?direct=true&db=aph&AN=32679769&site=eds-live](http://search.ebscohost.com/login.aspx?direct=true&db=aph&AN=32679769&site=eds-live)
+  -  Alcott, *Hospital Sketches* *Boston Commonwealth,* 22 May 1863, Blackboard 
   -  Alcott, *Hospital Sketches* *Boston Commonwealth,* 29 May 1863 
   -  Alcott, *Hospital Sketches* *Boston Commonwealth,* 12 June 1863 
   -  Alcott, *Hospital Sketches* *Boston Commonwealth,* 26 June 1863 
-  -  Alcott, *Hospital Sketches* (Boston, Redpath, 1863),
-                     	 (https://archive.org/details/hospitalsketches00alcorich)[https://archive.org/details/hospitalsketches00alcorich]
+  -  Daniel J. Cohen and Roy Rosenszwig, "How to Make Text Digital: Scanning, OCR, and Typing," *Digital History,* [http://chnm.gmu.edu/digitalhistory/digitizing/4.php](http://chnm.gmu.edu/digitalhistory/digitizing/4.php )
                          
 ### Assignment: 
-  -  Visit library special collections 
-  -  Assign Groups: Set up Reclaim Hosting and Install Omeka, WordPress and Drupal 
+
+  -  Acquire text from Internet Archive or Project Gutenberg or University of Pennsylvania
+  -  Install Tesseract and OCR selection from *Boston Commonwealth* version of *Hospital Sketches*
   -  Create Twitter account (class or personal) and designate hash tag
 
 ## Week 6: Back to the archive again
 
 ### Readings: 
-  -  Driscoll, M. J., "Levels of Transcription," *Electronic Textual Editing* 254--261.
-  -  Kline, Mary-Jo and Susan Holbrook Perdue, "[Section] A: Establishing the Editorial Texts" [http://gde.upress.virginia.edu/06-gde.html](http://gde.upress.virginia.edu/06-gde.html)
-  -  Daniel J. Cohen and Roy Rosenszwig, "How to Make Text Digital: Scanning, OCR, and Typing," *Digital History,* [http://chnm.gmu.edu/digitalhistory/digitizing/4.php](http://chnm.gmu.edu/digitalhistory/digitizing/4.php )
-                         
+
+ -  Alcott, *Hospital Sketches* (Boston: Redpath, 1863), (https://archive.org/details/hospitalsketches00alcorich)[https://archive.org/details/hospitalsketches00alcorich]
+ -  Alcott, *Hospital Sketches and Camp and Fireside Stories* (Boston: Roberts Brothers, 1868), (https://archive.org/details/hospitalsketche00alco)[https://archive.org/details/hospitalsketche00alco]
+ -  Driscoll, M. J., "Levels of Transcription," *Electronic Textual Editing* 254--261.
+ -  Kline, Mary-Jo and Susan Holbrook Perdue, "[Section] A: Establishing the Editorial Texts" [http://gde.upress.virginia.edu/06-gde.html](http://gde.upress.virginia.edu/06-gde.html)
+ 
+
 ### Assignment:
+
   -  Transcribe *Hospital Sketches* (Group Project)
-  -  Install Tesseract for OCR test  
+  -  Visit library special collections 
+  -  Assign Groups: Set up Reclaim Hosting and Install Omeka, WordPress and Drupal 
 
 ## Week 7: 
 

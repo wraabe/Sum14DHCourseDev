@@ -1,0 +1,86 @@
+﻿# Cleaning up OCR with Regular Expressions
+
+There are two very good guides to regular expressions that have been prepared by academics. They are not full documentation sets, but they do a nice job of explaining the purpose and providing examples of regular expressions. 
+
+  -  Ramsay, Stephen, "What are Regular Expressions?" *Electronic Text Center* See Blackboard Resources.
+  -  O'Hara, Laura Turner, "Cleaning OCR'd text with Regular Expressions," *Programming Historian* 22 May 2013.  [http://programminghistorian.org/lessons/cleaning-ocrd-text-with-regular-expressions](http://programminghistorian.org/lessons/cleaning-ocrd-text-with-regular-expressions)
+
+
+So, now that you have read those, let's go to the examples of the OCR versions of Alcott's *Hospital Sketches* derived from the *Internet Archive.* Our purpose will be to repair obvious errors, apply consistency to punctuation, and remove line-end hyphenation.
+
+## Repairing Obvious Errors 
+
+Notice, in both the 1863 Redpath and the 1868 Roberts Brothers text that the opening quotation marks appear in a variety of forms. Some consist of a double-quote followed by a space, some of an asterisk followed by a single quotation mark and a space, and some of two asterisks followed by a space.
+
+Open the Replace dialog in your editor. Enter the following series of characters in the "Find" box: `^("|\*'|\*\*)\ `. In the Search Mode, select the option for "Regular Expressions" or "RegEx". 
+
+In the example above, the carat instructs the RegEx engine to only match that which follows if it is the first character in a line. The pair of parentheses instructs the RegEx engine to match anything between the opening and closing parentheses as the first match, and the backslash follows by the space instructs the RegEx engine to match what is between parentheses if it is followed by a space. 
+
+The parentheses designate a match that is stored. Everything between the parentheses is the first match, which we can, if we need to, use in our replacement.  The backslash is an escape, which instructs RegEx engine to treat following character as literal character, and the pipe signals "or". Therefore, this expression will match "[space] or  *'[space] or \*\*[space] if the first character appears at start of line and the matched characters are followed by a space.
+
+What you intend to do is replace any of those three examples with a double quote ("). Enter a double-quote in the "Replace" box.  
+
+If your dialog has the option, press "Find Next" multiple times to see if you are consistently matching the opening quote marks in the OCR texts.  If you are reasonably sure it is matching consistently, hit Replace All. 
+
+After you have completed one iteration of replace all, save the document again, this time as "ver2.txt." 
+
+## Apply Consistent Spacing to Punctuation
+
+Notice that tall punctuation marks---semicolon, colon, question mark, exclamation point---are often preceded by a space. In fact, in mid-19th century printing, a thin space before such marks is reasonably common. However, OCR often regularizes space, so we may want to modernize punctuation spacing in our text.
+
+Enter the following in the "Find:" box: 
+`\ (\:|\!|\;|\?)`
+
+When you search, your RegEx engine will find [space]? or [space]! or [space]; or [space]:. 
+
+Enter the following in the "Replace:" box:
+
+`\1`
+
+For some ReGex engines, it is $1, not \1, that replaces contents of the parentheses. This find-replace sequence will remove space before a punctuation mark. As you will see below, If you have multiple sets of parentheses in "Find:" you could replace each match with \1, \2, etc. 
+
+## Remove line-end hyphenation
+
+It is very seldom that you will want to preserve line-end hyphenation. If we wish to compare OCR of two different typesettings, we will probably want to remove these as a distraction. Therefore, we need to select the letters that precede the end-of-line hyphen, they hyphen and line break, and the letters and (if applicable) punctuation that follows on the next line. Then we need to assemble the word, minus the hyphen, on the line above.
+
+This is difficult to do exactly right without testing, so I advise saving file as ver3 before using the replace-all command. You may also want to consider testing your regular expression before applying it at [http://regexpal.com/](http://regexpal.com/).
+
+Let's start with a space followed by up to 8 alphabetic characters and a hpyhen, followed by a line break, and up to 6 alphabetic characters followed by a space. By using a space character both before and after, we can avoid leaving stray punctuation marks (quotation, comma, period, etc.) on a line by itself.
+
+The escape to match a line break differs from Windows to Unix and Macintosh. In Macintosh, enter backslash followed by an "n" for a new line. In Windows, enter backslash "r" and backslash "n". The r stands for carriage return, the n for newline. To understand why Windows and Macintosh act differently, see [http://en.wikipedia.org/wiki/Newline](http://en.wikipedia.org/wiki/Newline). Some Windows implementations of formerly UNIX-only editors use the Windows convention for line breaks. The Windows implementation of Vim, for example, is like that.    
+
+If you are using Windows, enter the following in the "Find:" box:
+ 
+`([a-zA-Z]{1,8})\-\ \r\n([a-z]{1,8})\ `
+
+Note the invisible [space] after the hphen (this text has extra space after hyphen) and the backslash before the invisible space at the end of the expression.
+
+Enter the following in the "Replace:" box:
+
+`$1$2\r\n`
+
+If you are using Macintosh or Unix, enter the following in the "Find:" box:
+ 
+`([a-zA-Z]{1,8})\-\ \n([a-z]{1,8})\ `
+
+Enter the following in the "Replace:" box:
+
+`$1$2\n`
+
+If you go through these individually ("Find Next:" and "Replace"), you will notice that this catches most end-of-line hyphens and fixes the word. However, it will leave a punctuation mark (period, comma, etc.) at the start of a line. If you want to catch a punctuation mark at the end of a word, you can alter the FIND expression as follows (Windows example only):
+
+`([a-zA-Z]{1,8})\-\ \r\n([a-z]{1,8}[[:punct:]])\ `
+
+Again, not all RegEx engines support character classes like [:punct:]. Another way to do it is to enter all types of punctuation markings you might want: [?!.,;:"]. To catch examples that have both, letters followed by space or letters followed by punctuation mark and space, use the pipe for "or." 
+
+`([a-zA-Z]{1,8})\-\ \r\n([a-z]{1,8}[[:punct:]]|[a-z]{1,8})\ `
+
+When I tested with downloaded copy, there were a bit over 360 examples of line-end hyphens. Save corrected file as ver3. 
+
+## More
+
+Other things that you might want to consider altering in the file are two spaces between paragraphs and the page header. Though we eventually want to do that---and you need to figure out these commands yourself---you should first test the differences between the files using one or more tools to compare files.  One run-through is not likely to produce satisfactory results. The more effective method is to correct and then compare and review. During compare and review with text-comparison tools, you will likely find that other corrections suggest themselves to you. As many as can be done with replace-all, do it. But if file is corrupted or you devise better methods, don't hesitate to go back to the initial file (or interim file, ver2, ver3, ver4, etc.) and repeat all previous corrections. 
+
+
+
+
