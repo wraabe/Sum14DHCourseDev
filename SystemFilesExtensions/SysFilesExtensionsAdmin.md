@@ -16,7 +16,6 @@ other processes that require Administrator rights.
 
 ## Administrator Account Passwords
 
-
 To have an Administrator account on your computer, an account that has Administrator privileges must set up a new Admnistrator account or grant your current account Administrator privileges.
 
 An administrator account should have a difficult password to crack. If you will use Administrator account only rarely, write it down on a slip of paper that you keep some place that is not be easily identifiable as the administrator account on your computer.

@@ -3,13 +3,17 @@
 
 ## Week 1: Digital humanities in popular culture
 
+### In-Class Activities (Jan. 12)
+
+  -  Syllabus Overview and Class Introduction
+
 ### Readings (Jan. 14):
 
   -  Marche, Stephen, “Literature is not Data: Against Digital Humanities.” *Los Angeles Review of Books* &lt;[http://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities](http://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities )&gt;
   -  Kirsch, Adam, “Technology Is Taking Over English Departments.” *The New Republic* &lt;[http://www.newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch](http://www.newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch )&gt;
   -  Susan Hockey, “The History of Humanities Computing.” *A Companion to Digital Humanities.* 3--19. 
   
-### In-Class Activities 
+### In-Class Activities (Jan. 14)
      
   -  OS Administration and File Extensions
   -  Introduce Command Line and Plain Text Editors
@@ -20,7 +24,7 @@
 ### Readings (Jan. 21):
 
   -   Kirschenbaum, Matthew. “What is Digital Humanities and What's It Doing in English Departments?” &lt;[http://mkirschenbaum.files.wordpress.com/2011/01/kirschenbaum_ade150.pdf](http://mkirschenbaum.files.wordpress.com/2011/01/kirschenbaum_ade150.pdf )&gt;.
-  -  Flanders, Julia. “The productive unease of 21st-century digital scholarship” &lt;[http://www.digitalhumanities.org/dhq/vol/3/3/000055/000055.html](http://www.digitalhumanities.org/dhq/vol/3/3/000055/000055.html )&gt;.
+  -  Flanders, Julia. “The productive unease of 21st-century digital scholarship.” &lt;[http://www.digitalhumanities.org/dhq/vol/3/3/000055/000055.html](http://www.digitalhumanities.org/dhq/vol/3/3/000055/000055.html )&gt;.
   -  Ramsay, Stephen. “On Building.” *Stephen Ramsay.* &lt;[http://stephenramsay.us/text/2011/01/11/on-building/](http://stephenramsay.us/text/2011/01/11/on-building/) 
   -  Sample, Mark. “The digital humanities is not about building, it's about sharing.” &lt;[http://bit.ly/1kLZ8XW](http://bit.ly/1kLZ8XW )&gt;.
 
@@ -30,8 +34,6 @@
   -  Write blog post with bibliographical reference on what DH is
 
 ## Week 3: Form and content: Publishing Class Single-Source Discussion of “What is DH"?
-
-[//]: <> (How does one distinguish between form (the technological underpinnings or matters of presentation) and content (the stuff for interpretation)? If we suppose we can distinguish between form and content, is that a useful step, or are we likely to deceive ourselves by taking such distinctions for granted? Could the distinction between form and content be both useful for some purposes and deceptive for others? We will explore this question by preparing a document in Markdown format, which will then be converted to forms suitable for alternate means of publication: print document, blog, and ebook)
 
 ### Readings (Jan. 26):
 
@@ -59,14 +61,12 @@
 
 ## Week 4: Acquiring Texts
 
-[//]: <> (When working with humanities material, we often need to acquire text. While many documents are available online, in some cases, the text that we need to acquire are not. For our final project, with archival letters, we are the ones who plan to make them available to others. Therefore, we want to be familiar with automated techniques to acquire text. We shall also gain a greater familiarity with some qualities of archival materials, which are often viewed as “faulty” or “inadequate” for machine processing. We continue our concern with whether there is a useful distinction between the form of archival documents and their linguistic content.)
-
 ### Readings (Feb. 2):
 
 -  Berman, Ruth. “'Spirituous Consolation': Alcott's Jokes on Drinking and Religion.” *Children's Literature in Education* 39:3 (2008): 169--185. &lt;[http://search.ebscohost.com/login.aspx?direct=true&db=aph&AN=32679769&site=eds-live](http://search.ebscohost.com/login.aspx?direct=true&db=aph&AN=32679769&site=eds-live )&gt;
 -  Cohen, Daniel J. and Roy Rosenszwig, “How to Make Text Digital: Scanning, OCR, and Typing.” *Digital History* &lt;[http://chnm.gmu.edu/digitalhistory/digitizing/4.php](http://chnm.gmu.edu/digitalhistory/digitizing/4.php )&gt;.
 
- ### In-Class Activity (Feb. 2):
+### In-Class Activity (Feb. 2):
  
   -  Introduce guidelines for acquiring primary sources.
   -  Create Twitter account (class or personal) and designate hash tag
@@ -77,9 +77,9 @@
   -  Alcott, *Hospital Sketches* (Boston: Redpath, 1863), [https://archive.org/details/hospitalsketches00alcorich](https://archive.org/details/hospitalsketches00alcorich )&gt;.
   -  Alcott, *Hospital Sketches and Camp and Fireside Stories* (Boston: Roberts Brothers, 1868). &lt;[https://archive.org/details/hospitalsketche00alco](https://archive.org/details/hospitalsketche00alco )&gt; 
   -  Alcott, Louisa May. *Hospital Sketches* In *Boston Commonwealth* 22 May 1863, 29 May 1863, 12 June 1863, and 26 June 1863. (scans posted to Blackboard, a “browsing” would be more a more accurate description than a “reading” for this activity). 
-    -  Turkel, William J. “Doing OCR Using Command Line in UNIX.” *William J. Turkel.* &lt; [http://williamjturkel.net/2013/07/06/doing-ocr-using-command-line-tools-in-linux/](http://williamjturkel.net/2013/07/06/doing-ocr-using-command-line-tools-in-linux/)&gt;. 
+  -  Turkel, William J. “Doing OCR Using Command Line in UNIX.” *William J. Turkel.* &lt; [http://williamjturkel.net/2013/07/06/doing-ocr-using-command-line-tools-in-linux/](http://williamjturkel.net/2013/07/06/doing-ocr-using-command-line-tools-in-linux/)&gt;. 
 
- ### In-Class Activity (Feb. 4):
+### In-Class Activity (Feb. 4):
  
   -  Introduce open-source OCR tool Tesseract, and plan OCR of corresponding sections of *Hospital Sketches* in  *Hospital Sketches* in *Boston Commonwealth*.
   -  Plan type transcription of corresponding section of *Hospital Sketches* in *Boston Commonwealth*.
@@ -98,7 +98,7 @@
  - KSU Finding Aid for Alfred Chester Papers, &lt;[http://www.library.kent.edu/alfred-chester-papers](http://www.library.kent.edu/alfred-chester-papers )&gt;
  - KSU Finding Aid for Thornton Wilder Papers, &lt;[http://speccoll.library.kent.edu/theater/wilder.html](http://speccoll.library.kent.edu/theater/wilder.html )&gt;.
 
- ### In-Class Activity (Feb. 9):
+### In-Class Activity (Feb. 9):
  
   -  Visit library special collections to review Alfred Chester and Thornton Wilder Papers and to consider means to acquire images and transcribed texts. 
   
@@ -213,7 +213,7 @@
   -  Johnson, Peter K. “Installing and Using Saxon for your XSLT Development” [http://www.youtube.com/watch?v=FsDq2-VV0Uo](http://www.youtube.com/watch?v=FsDq2-VV0Uo)
   -  Installing Saxon and Running from Command Line [http://www.saxonica.com/documentation/using-xsl/commandline.html](http://www.saxonica.com/documentation/using-xsl/commandline.html)
   
-  ### Readings (Apr. 1):
+### Readings (Apr. 1):
   
   -  “Introduction” *TEI by Example* [http://teibyexample.org/examples/TBED00v00.htm](http://teibyexample.org/examples/TBED00v00.htm)
   -  “Common Structure and Elements” *TEI by Example* [http://teibyexample.org/modules/TBED01v00.htm](http://teibyexample.org/modules/TBED01v00.htm)

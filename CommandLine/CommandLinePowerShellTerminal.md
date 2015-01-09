@@ -1,14 +1,14 @@
 
 ## Introduction to Command Line Interfaces
 
-Windows had two different command line interfaces, MS-DOS (command.exe or cmd.exe) and PowerShell (powershell.exe). MS-DOS ships with all versions of Windows, but PowerShell may need to be installed. On Macintosh computers, you will use a UNIX shell. The default Apple shell is called the Terminal.
+Windows had two different command line interfaces, MS-DOS (command.exe or cmd.exe) and PowerShell (powershell.exe). MS-DOS ships with Windows, but PowerShell may need to be installed. On Macintosh computers, you will use a UNIX shell. The default Apple shell is called the Terminal.
 
 
 ## About Windows Command Line Tools
 
 Many PowerShell advantages over MS-DOS concern
 networking and system administration, which you
-are unlikely to need in this course, but two important advantages
+will not need in this course, but two important advantages
 of PowerShell are that it is more like UNIX command line
 and has an Administrator mode. On Windows 7 and later,
 MS-DOS may be denied access to system folders or commands.
@@ -25,6 +25,7 @@ may also work on MS-DOS, but some will require PowerShell.
    or Modules.
  
 ### Installing Windows PowerShell
+
 PowerShell is part of the "Windows Management Framework 3.0" (WMF).
  - If PowerShell is not already installed, you may install the
    WMF at [http://www.microsoft.com/en-us/download/details.aspx?id=34595](http://www.microsoft.com/en-us/download/details.aspx?id=34595).
@@ -36,6 +37,7 @@ PowerShell is part of the "Windows Management Framework 3.0" (WMF).
    and double-click the downloaded file to run the installation.
 
 ### Running PowerShell
+
  -  On the Start menu search box, type "Powershell" and right-click
     the "Windows PowerShell." 
  -  You may use the context menu to  pin it to the Start menu
@@ -46,11 +48,12 @@ PowerShell is part of the "Windows Management Framework 3.0" (WMF).
     Powershell and re-launch wih the "Run as Administrator" option 
     (right-click).
  -  Learn the PowerShell commands to manage files and folders,
-    including folders with spaces in the names (Tip: Quote folder names). 
+    including folders with spaces in the names (Tip: Quote folder names with spaces). 
     
 ### Learning how to use PowerShell.   
+
  -  A good starting place is at [http://technet.microsoft.com/en-us/scriptcenter/dd772285.aspx](http://technet.microsoft.com/en-us/scriptcenter/dd772285.aspx).
- -   Review the tutorials on "Files and Folders," which
+ -  Review the tutorials on "Files and Folders," which
     should be enough for this course. But if you want to
     be advanced, see tutorials on "Help and Information" and on "Saving and Importing."
  -  Note that the Windows folder "My Documents" may also be named plain "Documents"
@@ -70,6 +73,7 @@ and that you know UNIX commands also work in on Macintosh
 computers.  
 
 ### Running Macintosh Terminal
+
  1.  On the Spotlight (magnifying glass in upper right corner),
      search for "Terminal." Click the top entry to launch it.
  2.  To launch the terminal from the Dock (like other applications),
@@ -84,8 +88,9 @@ computers.
      is your Home location.
      
 ### Learning how to use the Terminal
+
   - A good place to start is the Apple Shell Scripting Primer at [https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/Introduction/Introduction.html#//apple\_ref/doc/uid/TP40004268](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/Introduction/Introduction.html#//apple\_ref/doc/uid/TP40004268 ).
   -  In the Shell Scripting Primer, see "Appendix A."
-  -  Tip: When practising with the Terminal, it is easiest at first to grasp
+  -  Tip: When practising with the Terminal, it may be easier at first to grasp
     what you are doing if you open the Finder and the Terminal side by
     side and follow along in the graphical user interface.
