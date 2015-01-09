@@ -64,84 +64,113 @@
 ### Readings (Feb. 2):
 
 -  Berman, Ruth. “'Spirituous Consolation': Alcott's Jokes on Drinking and Religion.” *Children's Literature in Education* 39:3 (2008): 169--185. &lt;[http://search.ebscohost.com/login.aspx?direct=true&db=aph&AN=32679769&site=eds-live](http://search.ebscohost.com/login.aspx?direct=true&db=aph&AN=32679769&site=eds-live )&gt;
--  Cohen, Daniel J. and Roy Rosenszwig, “How to Make Text Digital: Scanning, OCR, and Typing.” *Digital History* [http://chnm.gmu.edu/digitalhistory/digitizing/4.php](http://chnm.gmu.edu/digitalhistory/digitizing/4.php )
-    
+-  Cohen, Daniel J. and Roy Rosenszwig, “How to Make Text Digital: Scanning, OCR, and Typing.” *Digital History* &lt;[http://chnm.gmu.edu/digitalhistory/digitizing/4.php](http://chnm.gmu.edu/digitalhistory/digitizing/4.php )&gt;.
+
+ ### In-Class Activity (Feb. 2):
+ 
+  -  Introduce guidelines for acquiring primary sources.
+  -  Create Twitter account (class or personal) and designate hash tag
+
 ### Readings (Feb. 4):
 
-  -  Eileen Giffort Fenton and Hoyt N. Duggan, “Effective Methods of Producing Machine-Readable Text from Print and Manuscript Sources.'' *Electronic Textual Editing* 241-253.
-  -  Driscoll, M. J. “Levels of Transcription.” *Electronic Textual Editing.* 254-261.
-  -  Alcott, Louisa May. *Hospital Sketches. Boston Commonwealth* 22 May 1863, 29 May 1863, 12 June 1863, and 26 June 1863. (scans posted to Blackboard, a “browsing” would be more a more accurate description than a “reading” for this selectoin). 
+  -  Duggan, Hoyt N. and Eileen Gifford Fenton, “Effective methods of producing machine-readable text from manuscript and print sources.”  *Electronic Textual Editing* 241--253.
+  -  Alcott, *Hospital Sketches* (Boston: Redpath, 1863), [https://archive.org/details/hospitalsketches00alcorich](https://archive.org/details/hospitalsketches00alcorich )&gt;.
+  -  Alcott, *Hospital Sketches and Camp and Fireside Stories* (Boston: Roberts Brothers, 1868). &lt;[https://archive.org/details/hospitalsketche00alco](https://archive.org/details/hospitalsketche00alco )&gt; 
+  -  Alcott, Louisa May. *Hospital Sketches* In *Boston Commonwealth* 22 May 1863, 29 May 1863, 12 June 1863, and 26 June 1863. (scans posted to Blackboard, a “browsing” would be more a more accurate description than a “reading” for this activity). 
+    -  Turkel, William J. “Doing OCR Using Command Line in UNIX.” *William J. Turkel.* &lt; [http://williamjturkel.net/2013/07/06/doing-ocr-using-command-line-tools-in-linux/](http://williamjturkel.net/2013/07/06/doing-ocr-using-command-line-tools-in-linux/)&gt;. 
 
-### Assignment: 
+ ### In-Class Activity (Feb. 4):
+ 
+  -  Introduce open-source OCR tool Tesseract, and plan OCR of corresponding sections of *Hospital Sketches* in  *Hospital Sketches* in *Boston Commonwealth*.
+  -  Plan type transcription of corresponding section of *Hospital Sketches* in *Boston Commonwealth*.
+  
+### Assignment (Due Feb. 10)
 
-  -  Acquire text from Internet Archive or Project Gutenberg or University of Pennsylvania
-  -  Install Tesseract and OCR selection from *Boston Commonwealth* version of *Hospital Sketches*
-  -  Create Twitter account (class or personal) and designate hash tag
+  -  Post acquired texts for a section from two version of the *Hospital Sketches* (Redpath 1863 and Roberts Brothers 1868) to GitHub project.
+  -  Post OCR-acquired text from same section of newspaper (*Boston Commonwealth*) version of *Hospital Sketches* to GitHub project.
+  - Post transcribed version of same section of newspaper (*Boston Commonwealth*) version of *Hospital Sketches* to GitHub project.
 
 ## Week 5: To the Archive
 
 ### Readings (Feb. 9):  
 
-  -  Alcott, *Hospital Sketches* (Boston: Redpath, 1863), [https://archive.org/details/hospitalsketches00alcorich](https://archive.org/details/hospitalsketches00alcorich )&gt;
-  -  Alcott, *Hospital Sketches and Camp and Fireside Stories* (Boston: Roberts Brothers, 1868), &lt;[https://archive.org/details/hospitalsketche00alco](https://archive.org/details/hospitalsketche00alco )&gt;
-  -  Kline, Mary-Jo and Susan Holbrook Perdue, “[Section] A: Establishing the Editorial Texts” &lt;[http://gde.upress.virginia.edu/06-gde.html](http://gde.upress.virginia.edu/06-gde.html )&gt;.
- 
-### Readings (Feb. 11):
-
+  -  Daniel J. Cohen and Roy Rosenszweig, “Digital Images” *Digital History,* &lt;[http://chnm.gmu.edu/digitalhistory/digitizing/5.php](http://chnm.gmu.edu/digitalhistory/digitizing/5.php )&gt;
  - KSU Finding Aid for Alfred Chester Papers, &lt;[http://www.library.kent.edu/alfred-chester-papers](http://www.library.kent.edu/alfred-chester-papers )&gt;
  - KSU Finding Aid for Thornton Wilder Papers, &lt;[http://speccoll.library.kent.edu/theater/wilder.html](http://speccoll.library.kent.edu/theater/wilder.html )&gt;.
 
-### Assignment:
+ ### In-Class Activity (Feb. 9):
+ 
+  -  Visit library special collections to review Alfred Chester and Thornton Wilder Papers and to consider means to acquire images and transcribed texts. 
+  
+### Readings (Feb. 11):
 
-  -  Transcribe selection from *Hospital Sketches* (Group Project)
-  -  Visit library special collections 
-  -  Introduce Omeka, WordPress and Drupal 
+  -  Kline, Mary-Jo and Susan Holbrook Perdue, “[Section] A: Establishing the Editorial Texts.” &lt;[http://gde.upress.virginia.edu/06-gde.html](http://gde.upress.virginia.edu/06-gde.html )&gt;.
+  -  Knox, Doug. “Understanding Regular Expressions.” *Programming Historian.*  &lt;[http://programminghistorian.org/lessons/understanding-regular-expressions](http://programminghistorian.org/lessons/understanding-regular-expressions )&gt;.
+ -  Ramsay, Stephen, “Using Regular Expressions.” *Electronic Text Center: University of Virginia* (Blackboard). &lt;[http://solaris-8.tripod.com/regexp.pdf](http://solaris-8.tripod.com/regexp.pdf )&gt;.
+
+### In-Class Activity (Feb. 11):
+ 
+  -  Compare transcribed and OCR Text with multiple means (Juxta and file comparison), and identify patterns of differences for correction.
+  - Review regular expression capabilities in editors.
+  
+### Assignment (Due Feb. 11)
+
+  -  Paper 1 Proposal Due
+ 
+### Assignment (due Feb. 16):
+
+  -  Correct all three versions of the *Boston Commonwealth* text (or impose editorial consistency) using all four methods: silent proofreading with marking, file comparison, regular expressions, and oral proofreading.
 
 ## Week 7: 
 
 ### Readings (Feb. 16): 
 
-  -  Duggan, Hoyt N. and Eileen Gifford Fenton, “Effective methods of producing machine-readable text from manuscript and print sources”  *Electronic Textual Editing* 241--253.
-  -  Turkel, William J. “Doing OCR Using Command Line in UNIX” [http://williamjturkel.net/2013/07/06/doing-ocr-using-command-line-tools-in-linux/](http://williamjturkel.net/2013/07/06/doing-ocr-using-command-line-tools-in-linux/) 
+  -  Renear, Alan. “Text Encoding.” *A Companion to the Digital Humanities* 218--239.
+  -  Birnbaum, David J. “What is XML and why should humanists care? An even gentler introduction to XML” *Digital Humanities* [http://dh.obdurodon.org/what-is-xml.xhtml](http://dh.obdurodon.org/what-is-xml.xhtml).
+
+### In-Class Activity (Feb. 16): 
+
+
   
 ### Readings (Feb. 18): 
   
-  -  Daniel J. Cohen and Roy Rosenszweig, “Digital Images” *Digital History,* [http://chnm.gmu.edu/digitalhistory/digitizing/5.php](http://chnm.gmu.edu/digitalhistory/digitizing/5.php )
+
+  
+### In-Class Activity (Feb. 16): 
+
+  -  Learning Regular Expressions
 
 ### Assignment:
  
-  -  Compare Transcribed and OCR Text in JUXTA  
-  -  Orally proofread transcribed text against facsimile document 
+  -  Paper 1 Due
 
 ## Week 8: Text and Encoding
 
 ### Readings (Feb. 23): 
 
-  -   Birnbaum, David J. “What is XML and why should humanists care? An even gentler introduction to XML” *Digital Humanities* [http://dh.obdurodon.org/what-is-xml.xhtml](http://dh.obdurodon.org/what-is-xml.xhtml)
+
   
 ### Readings (Feb. 25): 
 
-  -   Ramsay, Stephen, “Using Regular Expressions,” *Electronic Text Center: University of Virginia* (Blackboard)
-  -   DeRose, S. J., Durand, D. G., Mylonas, E., and Renear A. H. (1990), “What is Text, Really?”  *\* Journal of Computing in Higher Education* 1.2: 3-26.
-  -   Renear, Alan. “Text Encoding.” *A Companion to the Digital Humanities* 
+  -   DeRose, S. J., Durand, D. G., Mylonas, E., and Renear A. H. (1990), “What is Text, Really?”  *\* Journal of Computing in Higher Education* 1.2: 3--26. Blackboard.
+
 
 
 ### Assignment: 
 
-  -  Introduce text encoding
-  -  Introduce REGEX
+
 
 ## Week 9: What is text, really?
 
 ### Readings (Mar. 2):
 
-  -  Minnesota Digital Library, “Quick Reference Guide: Digital Imaging Best Practices"[http://www.mndigital.org/digitizing/standards/guide.php](http://www.mndigital.org/digitizing/standards/guide.php)
+  -  Minnesota Digital Library, “Quick Reference Guide: Digital Imaging Best Practices.” &lt; [http://www.mndigital.org/digitizing/standards/guide.php](http://www.mndigital.org/digitizing/standards/guide.php)&gt;.
   -  University Library, University of Illinois, Urbana-Champagne “3.0 Best Practices for Creating Digital Images” (http://www.library.illinois.edu/dcc/bestpractices/chapter_03_creatingdigitalimages.html#textdoc)[http://www.library.illinois.edu/dcc/bestpractices/chapter_03_creatingdigitalimages.html#textdoc]
   
 ### Readings (Mar. 4):
 
-  -  Daniel J. Cohen and Roy Rosenzweig, “To Mark Up, Or Not To Mark Up” *Becoming Digital* (http://chnm.gmu.edu/digitalhistory/digitizing/3.php)[http://chnm.gmu.edu/digitalhistory/digitizing/3.php]
-  -  “Gentle Introduction to XML” (http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html)[http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html]
+  -  Daniel J. Cohen and Roy Rosenzweig, “To Mark Up, Or Not To Mark Up” *Becoming Digital* [http://chnm.gmu.edu/digitalhistory/digitizing/3.php](http://chnm.gmu.edu/digitalhistory/digitizing/3.php)
+  -  TEI Consortium. “A Gentle Introduction to XML.” [http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html)
 
 ### Assignment:
 
