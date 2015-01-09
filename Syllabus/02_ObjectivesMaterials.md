@@ -18,26 +18,6 @@ The goals for student learning in "ENG 39395, ST: Intro to Digital Humanities" a
     and John Unsworth. New York: MLA, 2006.
     &lt;[http://www.tei-c.org/About/Archive_new/ETE/Preview/](http://www.tei-c.org/About/Archive_new/ETE/Preview/ )&gt;.
 	
-	
-##  Recommended Resources
-
-### Citation Styles
-
-  -  MLA citation style, Purdue Online Writing Lab at &lt;[https://owl.english.purdue.edu/](https://owl.english.purdue.edu/ )&gt;.
-  -  Chicago citation style, *Chicago Manual of Style* (Kent State Library), &lt;[http://kentlink.kent.edu/record=b2902910](http://kentlink.kent.edu/record=b2902910 )&gt;.
-  
-### Scholarly Editing 
-
-  -  For guidelines on scholarly editing in discipline of literary study, &lt;[http://www.mla.org/resources/documents/rep_scholarly](http://www.mla.org/resources/documents/rep_scholarly )&gt;.
-  -  Reference bibliography for scholarly editing, &lt;[http://www.rarebookschool.org/tanselle/]( http://www.rarebookschool.org/tanselle/ )&gt;.
-  -  For documentary editing in discipline of history, Mary-Jo Kline and Susan Holbrook Perdue, *A Guide to Documentary Editing* &lt;[http://gde.upress.virginia.edu/](http://gde.upress.virginia.edu/ )&gt;.
-  - For publishing digital history, &lt;[http://chnm.gmu.edu/digitalhistory/](http://chnm.gmu.edu/digitalhistory/ )&gt;.
-  
-### Technologies for Digital Editing
-
-  -  Text Encoding Initiative at &lt;[http://www.tei-c.org/index.xml](http://www.tei-c.org/index.xml )&gt;.
-  -  TEI by Example, &lt;[http://www.teibyexample.org/](http://www.teibyexample.org/ )&gt;.
-  -  DH Answers, a very helpful message board, &lt;[http://digitalhumanities.org/answers/](http://digitalhumanities.org/answers/ )&gt;.
 
   
 

@@ -18,7 +18,6 @@ Is there such a thing as one ring to rule them all? Can students form a temporar
 
 I should announce that the my choice to require you to use open access tools instead of commercial software reflects multiple factors: ideological leanings, pedagogical usefulness, and, hopefully, practical benefit for your future employment. In the ideological sense, digital humanities encourages an ethic of public sharing and collaboration. By asking you to use public software and work together, I encourage you to explore how this can be beneficial to your work. For example, when frustrated with aspects of writing this assignment, my Twitter colleagues Caleb McDaniel &lt;[https://twitter.com/wcaleb](https://twitter.com/wcaleb)&gt; and Lincoln Mullen &lt;[https://twitter.com/lincolnmullen](https://twitter.com/lincolnmullen)&gt; provided useful guidance. You should turn to fellow members of your team, to me, and to online guides also when you encounter technical difficulties.  Now, for example, you could collaborate and put together most of same document formats with a combination of DropBox, Google Drive, Microsoft Word, and Scrivener. But it is more in keeping with the ethic of digital humanities to assume that the initial challenge of learning these open access tools will prove rewarding, that you will encounter alternate ways of thinking about what documents are. Instead of deciding that you need to pay a software vendor, decide to learn something new---an alternate way of working.  The open access tools tend to force you to put yourself into control of the documents and not rely on software vendor choices. And everything is cheap, usually free. Finally, I worked as a technical writer for over a decade, so I can with some confidence tell you that you that your ability to adapt to alternate corporate cultures and documentation methods has the potential to improve your employment opportunities. You already know either Microsoft Office or Google Docs, so this is the opportunity to expand your personal toolkit.  To know various methods of document management---and to be able to make recommendations or adapt either as a documentation manager or project manager---is a far more valuable skill than knowing the one software program that a company or organizations currently uses to produce documents. 
 
-
 ## Shared Processes, Week 3
 
 Each student's individual contribution to this assignment will consist of the following parts: 
@@ -35,15 +34,14 @@ Each student's individual contribution to this assignment will consist of the fo
 3.  By Monday of week 3, each student's original blog post, which shall be written using Markdown language, will be posted  on the class's Markdown-enabled blog AND shared on the class's GitHub repository.
 4.  By Wednesday of week 3, each student shall respond to two other students' blog posts. Each response must refer to a specific passage or idea in the student's post and compare or contrast with another idea from another student's post or from the assigned reading (i.e., quote from and cite source). The response posts should be posted on the Markdown-enabled blog.
 
-
 ## Splitting Up Labor, Week 4
 
-After initial posts are complete, the class shall collaborate to produce posts in multiple forms. Editorial work shall be collaborative, and one member of class will take responsibility for one of the following processes: 1) print document, 2) public blog post, and 3) ebook. You are encouraged to collaborate with other members of the class to manage or troubleshoot any  difficulties that you encounter. Whenever possible, please work together (in IBE, in reserved library room, at same computer, with online collaboration tool, or with professor) to achieve solutions to problems. 
+After initial posts are complete, the class shall be split into two 12-person teams, and each team shall be split into 4 3-person groups.  Each team shall have the following four groups: 1) editorial working group, 2) print working group, 3) public blog working group, and 4) ebook working group. For all of  the remainder of the work, you are encouraged to collaborate with other members of your team (inside your group and outside), and you are encouraged to collaborate with the corresponding group on the other team to manage or troubleshoot any  difficulties that you encounter. Whenever possible, please work together (in reserved library room, at same computer, with online collaboration tool) to achieve solutions to problems. 
 
-1.  During week 3, each student will contribute GitHub fork for team members' original blog posts. Based on commentary received on the blog, posts should be corrected and revised.. Furthermore, the editorial group by end of week shall organize the student contributions (section headings and introductions, shared bibliography), and shall provided editorial approve of the final project for  publication. When the other teams (print, public blog, ebook) do their work during week 4, the editorial group shall remain responsive and accommodate revisions to GitHub repository documents to better serve needs of print, blog, or ebook team.
-2.  During week 4, the person responsible for print document shall use Pandoc or Pandoc and LaTeX to convert blog posts from its team members to a printed LaTeX document (report or article in PDF format) that gathers all student contributions and has a shared bibliography for all citations. The final product should be based on the most current and updated GitHub fork.
-3.  During week 4, the person responsible for public blog shall develop an independent public blog of all group posts with keywords and citations. The final product should be based on the most current and updated GitHub fork.
-4.  During week 4, the person responsible for the ebook shall use Pandoc or Pandoc and Calibre to generate an ebook in ePub format and (optional) publish the book on Google Books. The final product should be based on the most current and updated GitHub fork.
+1.  During week 3, the both editorial working groups (one for each team) shall create a  GitHub fork for team members' original blog posts. They shall, based on commentary received on the blog an the editors' own close reading, recommend corrections and revisions to posts. Furthermore, the editorial group by end of week shall organize the student contributions (section headings and introductions, shared bibliography), and shall provided editorial approve of the final project for  publication. When the other teams (print, public blog, ebook) do their work during week 4, the editorial group shall remain responsive and accommodate revisions to GitHub repository documents to better serve needs of print, blog, or ebook team.
+2.  During week 4, each print working group (one for each team) shall use Pandoc or Pandoc and LaTeX to convert blog posts from its team members to a printed LaTeX document (report or article in PDF format) that gathers all student contributions (including those by editorial team) and has a shared bibliography for all citations. The final product should be based on the most current and updated GitHub fork.
+3.  During week 4, both public blog working groups shall develop an independent public blog of all group posts with keywords and citations. The final product should be based on the most current and updated GitHub fork.
+4.  During week 4, both ebook working groups shall use Pandoc or Pandoc and Calibre to generate an ebook in ePub format and publish the book on Google Books. The final product should be based on the most current and updated GitHub fork.
 
 At every stage, students are encouraged to raise the bar above minimal assignment requirements.  Ask yourself, for example, would post or printed document benefit from a table of contents or index? Should blog posts have keywords? Should contributor notes be published also? To earn full credit for excellence, you need to raise the bar.
 
@@ -59,7 +57,6 @@ I recommend marking up individual markdown documents with invisible comments. Bu
 You should install Zotero, the software on which you will create entries for all cited materials [https://www.zotero.org/]([https://www.zotero.org/). One of the features of Zotero is shared public library. And I have placed the initial references for  "What Is DH?" assignment at the following location:  [https://www.zotero.org/groups/274025](https://www.zotero.org/groups/274025 ).  If not accessible, send me a reminder. I will open group membership in Zotero library to all students. 
 
 The job of the editorial working group is to ensure that all are cited consistently and that no citations are duplicated. When the Zotero library is consistent, other working groups will need the .bib file from the Zotero library to create a bibliography. To export the bibliography, highlight all entries in  "WhatisDH" folder, right-click (PC) or control-click (Mac) to launch menu and click  "Export Items." When selecting format, choose  "BibLaTeX."  Place the bibliography (.bib) in the GitHub repository with markdown documents from blog. 
-
 
 ### Print Working Group
 
@@ -85,15 +82,14 @@ Below are some other recommendations recommendations to consider:
 
  - If you want to manually alter the LaTeX document, one dissatisfaction that new users often feel is with margins. For information on page layout, see [http://en.wikibooks.org/wiki/LaTeX/Page_Layout](http://en.wikibooks.org/wiki/LaTeX/Page_Layout ). 
  -  After Pandoc generates your LaTeX document, you may want to consider uploading the document to an shared LaTeX editor, on which you can collaborate for your LaTeX design. The two that I would recommend you consider are [http://www.authorea.com](http://www.authorea.com ) and [https://www.sharelatex.com/](https://www.sharelatex.com/). Do note that default for both these tools is to only allow one collaborator at a time for free accounts, though Authorea says it allows two. 
- 
- 
+
 ### Public Blog Working Group
 
 For the public blog working group, you must set up a WordPress installation with a Markdown plugin. I am using Reclaim Hosting, and we can use the shared class blog. The person who is managing the blog should contact me, and we will work together on the setup.
   
 1.  (Administrator): Install WordPress on the domain,        [http://portal.reclaimhosting.com/knowledgebase.php?action=displayarticle&id=2](http://portal.reclaimhosting.com/knowledgebase.php?action=displayarticle&id=2 ).
 2.  (Administrator): In consultation with fellow members of your working group, create a URL and title for blog that offers approximate representation of assignment question (that is, no  "adorablekittens.com").
-3.  (Administrator): Invite other students to your blog as administrators. On Users menu, click  "Add Users," and invite other class members via their official Kent State address. For Role, select  "Administrator." 
+3.  (Administrator): Invite other students to your blog as administrators. On Users menu, click  "Add Users,” and invite other class members via their official Kent State address. For Role, select  "Administrator." 
 
 Students who are invited in Step 3 are set up as administrators of the WordPress account. Subsequent steps may be performed by anyone in work group who has an Administrator account in WordPress, so all subsequent steps should be performed collaboratively. 
 
@@ -112,7 +108,7 @@ Below are some design recommendations to consider:
   -  Would tags or keywords offer a better means of sorting posts into groups?
   -  Would blog posts be better served with individual bibliographies for each post or a shared bibliography for entire blog.
 
-  
+   
 ### EBook Working Group
 
 As you will read on &lt;[http://chronicle.com/blogs/profhacker/make-your-own-e-books-with-pandoc/39067](http://chronicle.com/blogs/profhacker/make-your-own-e-books-with-pandoc/39067 )&gt; from Lincoln Mullen, creating an eBook is  "almost trivially easy." Mullen, I should note, does not include a bibliography in his example. Therefore, as the ebook working group, you have the special responsibility of improving the quality of the final product beyond the source documents. 
@@ -140,6 +136,9 @@ Below are some design recommendations to consider:
   -  Should your book have a cover page and a TOC?
   -  Is the default style acceptable, or should you consider a .css file to make the format more pleasing?
   
-A series of more technical methods for creating ebooks is available from IBM on its developer network at &lt;[http://www.ibm.com/developerworks/xml/tutorials/x-epubtut/index.html?ca=drs-](http://www.ibm.com/developerworks/xml/tutorials/x-epubtut/index.html?ca=drs- )&gt;. Though I recommend that you use Pandoc, the IBM documentation may help you to understand other customization options.
+A series of more technical methods for creating ebooks is available from IBM on its developer network at [http://www.ibm.com/developerworks/xml/tutorials/x-epubtut/index.html?ca=drs-](http://www.ibm.com/developerworks/xml/tutorials/x-epubtut/index.html?ca=drs- ). Though I recommend that you use Pandoc, the IBM documentation may help you to understand other customization options.
 
 # Bibliography
+
+	
+	

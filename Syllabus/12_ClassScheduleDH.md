@@ -9,15 +9,15 @@
 
 ### Readings (Jan. 14):
 
-  -  Marche, Stephen, “Literature is not Data: Against Digital Humanities.” *Los Angeles Review of Books* &lt;[http://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities](http://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities )&gt;
+  -  Marche, Stephen, “Literature is not Data: Against Digital Humanities.” *Los Angeles Review of Books* &lt;[http://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities](http://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities )&gt;.
   -  Kirsch, Adam, “Technology Is Taking Over English Departments.” *The New Republic* &lt;[http://www.newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch](http://www.newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch )&gt;
   -  Susan Hockey, “The History of Humanities Computing.” *A Companion to Digital Humanities.* 3--19. 
   
 ### In-Class Activities (Jan. 14)
      
   -  OS Administration and File Extensions
-  -  Introduce Command Line and Plain Text Editors
-  -  Introduce Assignment (Due Jan. 28) “A Student Discussion: What is Digital Humanities?” Build a signle-source Blog, Print Document, and eBook
+  -  Introduce Command Line and Plain Text Editors. Multi-Purpose: NotePad++ (Win), TextWrangler (Mac), SublimeText (Mac and Win). MarkDown Only:  Mou (Mac) and WriteMonkey (Win). Robust: Vim (Mac or Win) or emacs (Mac or Win).
+  -  Introduce Assignment (Due Jan. 28) “A Student Project: What is Digital Humanities?”
  
 ## Week 2: What do digital humanists do?
 
@@ -42,22 +42,23 @@
   
 ### In-Class Activities:
 
-  -  Install GitHub and create shared repository for Markdown-format Blog Post
-  -  Install Zotero, add references, and export BibLaTeX (*.bib) files to GitHub repository
-  -  Install (as necessary) LaTeX (for print documents) or Calibre (for ebooks)
+  -  Install GitHub and create shared repository for Markdown-format Blog Post. See Konrad M. Lawson, “Getting Started with a GitHub Repository.” *Profhacker---Chronicle of Higher Education* (15 Mar. 2013). &lt;[http://chronicle.com/blogs/profhacker/getting-started-with-a-github-repository/47393](http://chronicle.com/blogs/profhacker/getting-started-with-a-github-repository/47393)&gt;
+  -  Install Zotero &lt;[]()&gt;, add references, and export BibLaTeX (*.bib) files to GitHub repository
+  -  Install (as necessary, that is, if you will take responsibility) LaTeX for print documents---&lt;[https://www.tug.org/texlive/acquire-netinstall.html](https://www.tug.org/texlive/acquire-netinstall.html )&gt; or &lt;[https://tug.org/mactex/](https://tug.org/mactex/)&gt;---or Calibre &lt;[http://calibre-ebook.com/](http://calibre-ebook.com/)&gt; for ebooks.
   
 ### Readings (Jan. 28)
 
   - Laue, Andrea. “How the Computer Works.” *A Companion to Digital Humanities.* 145-160. 
   - Sperberg-McQueen, C. M. “Classification and its Structures” *A Companion to Digital Humanities.* 161-176.
   - Borges, Jorge Luis. “Funes, the Memorious.” Blackboard.
- 				
+  - Reference Reading for Assignment: Dennis Tenen and Grant Wythoff, “Sustainable Authorship in Plain Text using Pandoc and Markdown.” *Programming Historian.* &lt;[http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown )&gt;.
+	
 ### Assignment Submission
  
   -  By Monday (Jan. 26), post draft Markdown source to GitHub
   -  By Wednesday (Jan. 28), review edits and update
-  -  By Friday (Jan. 30), submit LaTeX-generated PDF to Team GitHub Repository; submit MarkDown source to class blog; Upload eBook with all posts and submit link to eBook on Team GitHub Repository
-  -  By Monday (Feb. 2) Submit blog reflection to class blog, 500 words
+  -  By Friday (Jan. 30), submit LaTeX-generated PDF to GitHub Repository; post MarkDown source to class blog; Upload eBook with all posts and submit link to eBook on GitHub Repository
+  -  By Monday (Feb. 2) Submit blog reflection to class blog, 500--750 words
 
 ## Week 4: Acquiring Texts
 
@@ -68,7 +69,7 @@
 
 ### In-Class Activity (Feb. 2):
  
-  -  Introduce guidelines for acquiring primary sources.
+  -  Introduce guidelines for acquiring text from primary sources.
   -  Create Twitter account (class or personal) and designate hash tag
 
 ### Readings (Feb. 4):
@@ -87,8 +88,7 @@
 ### Assignment (Due Feb. 10)
 
   -  Post acquired texts for a section from two version of the *Hospital Sketches* (Redpath 1863 and Roberts Brothers 1868) to GitHub project.
-  -  Post OCR-acquired text from same section of newspaper (*Boston Commonwealth*) version of *Hospital Sketches* to GitHub project.
-  - Post transcribed version of same section of newspaper (*Boston Commonwealth*) version of *Hospital Sketches* to GitHub project.
+  -  Post OCR-acquired text and transcribed text from same section of newspaper (*Boston Commonwealth*) version of *Hospital Sketches* to GitHub project.
 
 ## Week 5: To the Archive
 
@@ -101,6 +101,7 @@
 ### In-Class Activity (Feb. 9):
  
   -  Visit library special collections to review Alfred Chester and Thornton Wilder Papers and to consider means to acquire images and transcribed texts. 
+    -  Paper 1 Proposal Due
   
 ### Readings (Feb. 11):
 
@@ -114,14 +115,14 @@
   - Review regular expression capabilities in editors.
   
 ### Assignment (Due Feb. 11)
-
-  -  Paper 1 Proposal Due
+  
+  -  Blog Post (500--750 words) on challenges of acquiring and correcting texts
  
 ### Assignment (due Feb. 16):
 
   -  Correct all three versions of the *Boston Commonwealth* text (or impose editorial consistency) using all four methods: silent proofreading with marking, file comparison, regular expressions, and oral proofreading.
 
-## Week 7: 
+## Week 7: Text and Encoding
 
 ### Readings (Feb. 16): 
 
@@ -130,93 +131,107 @@
 
 ### In-Class Activity (Feb. 16): 
 
-
+ - Introduce oXygen
   
 ### Readings (Feb. 18): 
   
+  -  TEI Consortium. “A Gentle Introduction to XML.” &lt;[http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html)&gt;. 
+  -  “Introduction” *TEI by Example* &lt;[http://teibyexample.org/examples/TBED00v00.htm](http://teibyexample.org/examples/TBED00v00.htm)&gt;.
+  -  “Common Structure and Elements” *TEI by Example* &lt;[http://teibyexample.org/modules/TBED01v00.htm](http://teibyexample.org/modules/TBED01v00.htm)&gt;.
 
   
 ### In-Class Activity (Feb. 16): 
 
-  -  Learning Regular Expressions
+ - Encode poem and prose work to conform to TEI in oXygen
 
 ### Assignment:
  
   -  Paper 1 Due
 
-## Week 8: Text and Encoding
+## Week 8: What is Text, Really?
 
 ### Readings (Feb. 23): 
 
+  -  DeRose, S. J., Durand, D. G., Mylonas, E., and Renear A. H. (1990), “What is Text, Really?”  *\* Journal of Computing in Higher Education* 1.2: 3--26. Blackboard.
+  -  Pitti, Daniel V. “Designing Sustainable Projects and Publications,” *Companion to Digital Humanities* &lt;[http://nora.lis.uiuc.edu:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml](http://nora.lis.uiuc.edu:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml)&gt;
 
+### Assignment:
+ 
+  -  Blog Post (500--750 words) on encoding documents with TEI
   
 ### Readings (Feb. 25): 
 
-  -   DeRose, S. J., Durand, D. G., Mylonas, E., and Renear A. H. (1990), “What is Text, Really?”  *\* Journal of Computing in Higher Education* 1.2: 3--26. Blackboard.
-
-
+  -  “Guidelines for Editors of Scholarly Editions.” *Electronic Textual Editing.* 23--46.
 
 ### Assignment: 
 
 
-
-## Week 9: What is text, really?
+## Week 9: Acquiring Images
 
 ### Readings (Mar. 2):
 
-  -  Minnesota Digital Library, “Quick Reference Guide: Digital Imaging Best Practices.” &lt; [http://www.mndigital.org/digitizing/standards/guide.php](http://www.mndigital.org/digitizing/standards/guide.php)&gt;.
-  -  University Library, University of Illinois, Urbana-Champagne “3.0 Best Practices for Creating Digital Images” (http://www.library.illinois.edu/dcc/bestpractices/chapter_03_creatingdigitalimages.html#textdoc)[http://www.library.illinois.edu/dcc/bestpractices/chapter_03_creatingdigitalimages.html#textdoc]
+  -  Minnesota Digital Library, “Quick Reference Guide: Digital Imaging Best Practices.” &lt;[http://www.mndigital.org/digitizing/standards/guide.php](http://www.mndigital.org/digitizing/standards/guide.php)&gt;.
+  -  University Library, University of Illinois, Urbana-Champagne “3.0 Best Practices for Creating Digital Images.” &lt;[http://www.library.illinois.edu/dcc/bestpractices/chapter_03_creatingdigitalimages.html#textdoc](http://www.library.illinois.edu/dcc/bestpractices/chapter_03_creatingdigitalimages.html#textdoc)&gt;.
+  
+### In-Class Activity:
+  
+  -  Introduce Scanner
   
 ### Readings (Mar. 4):
 
-  -  Daniel J. Cohen and Roy Rosenzweig, “To Mark Up, Or Not To Mark Up” *Becoming Digital* [http://chnm.gmu.edu/digitalhistory/digitizing/3.php](http://chnm.gmu.edu/digitalhistory/digitizing/3.php)
-  -  TEI Consortium. “A Gentle Introduction to XML.” [http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html)
+  -  Deegan, Marilyn and Simon Tanner. “Conversion of Primary Sources.”  *Companion to Digital Humanities.* &lt;[http://nora.lis.uiuc.edu:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml](http://nora.lis.uiuc.edu:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml)&gt;.
 
 ### Assignment:
 
-  -  Propose Project Plan
+  -  Propose Final Project Plan
 
- 
-## Week 10: 
+## Week 10: Encoding Text, or Not
 
 ### Readings (Mar. 9):
- 
-  -  Pitti, Daniel V. “Designing Sustainable Projects and Publications,” *Companion to Digital Humanities* [http://nora.lis.uiuc.edu:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml](http://nora.lis.uiuc.edu:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml)
-  -  “Conversion of Primary Sources,”  *Companion to Digital Humanities* [http://nora.lis.uiuc.edu:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml](http://nora.lis.uiuc.edu:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml)
-  
+
+  -  Cohen, Daniel J. and Roy Rosenzweig, “To Mark Up, Or Not To Mark Up” *Becoming Digital* &lt;[http://chnm.gmu.edu/digitalhistory/digitizing/3.php](http://chnm.gmu.edu/digitalhistory/digitizing/3.php)&gt;.
+  -  McGann, Jerome.  “Marking Texts of Many Dimensions.” *Companion to Digital Humanities* 198--217.
+
 ### Readings (Mar. 11):
 
+  -  Lavagnino, John.  “When Not to Use TEI” *Electronic Textual Editing.* 334--338.
+  -  Durusau, Patrick.  “Why and How to Document Your Markup Choices” *Electronic Textual Editing* 299--309.
   
 ### Assignment:
-  
-  -  Encode prose and poetry
-  -  Introduce Scanner
 
 ## Week 11: Digital Publication Options
 
 ### Readings (Mar. 16):
 
-  -  Pape, Sebastian, Christof Schöch, and Lutz Wegner, “TEICHI and the Tools Paradox” [http://jtei.revues.org/432](http://jtei.revues.org/432 )
-  -  “Documentation” and “Downloads,” TEICHI [http://www.teichi.org/](http://www.teichi.org/ )
-  -  “Documentation: What Is Omeka” [http://omeka.org/](http://omeka.org/ )
+ -  Pape, Sebastian, Christof Schöch, and Lutz Wegner, “TEICHI and the Tools Paradox” &lt;[http://jtei.revues.org/432](http://jtei.revues.org/432 )&gt;
+ -  “Documentation” and “Downloads,” TEICHI &lt;[http://www.teichi.org/](http://www.teichi.org/ )&gt;
+ -  “Documentation: What Is Omeka” &lt;[http://omeka.org/](http://omeka.org/ )&gt;.
 
-### Assignment:
-  
+### In-Class Activities:
+
   -  Drupal on Reclaim Hosting, and TEICHI on Drupal
   -  Omeka on Reclaim Hosting
+  
+### Readings (Mar. 18):
+
+  -  “TEILite.” &lt;[http://www.tei-c.org/Guidelines/Customization/Lite/](http://www.tei-c.org/Guidelines/Customization/Lite/)&gt;.
+
+### Assignment:
+
+  -  Blog Post (500--750 words) on project status
   -  Introduce Saxon and XSLT
   
 ## Week 12
 
 ### Readings (Mar. 30):
+ 
+  -  “TEI Header.” *TEI by Example.* &lt;[http://teibyexample.org/examples/TBED02v00.htm](http://teibyexample.org/examples/TBED02v00.htm)&gt;.
+  -  “Prose.” *TEI by Example.* &lt;[http://teibyexample.org/examples/TBED03v00.htm](http://teibyexample.org/examples/TBED03v00.htm)&gt;. 
 
-  -  Johnson, Peter K. “Installing and Using Saxon for your XSLT Development” [http://www.youtube.com/watch?v=FsDq2-VV0Uo](http://www.youtube.com/watch?v=FsDq2-VV0Uo)
-  -  Installing Saxon and Running from Command Line [http://www.saxonica.com/documentation/using-xsl/commandline.html](http://www.saxonica.com/documentation/using-xsl/commandline.html)
-  
 ### Readings (Apr. 1):
   
-  -  “Introduction” *TEI by Example* [http://teibyexample.org/examples/TBED00v00.htm](http://teibyexample.org/examples/TBED00v00.htm)
-  -  “Common Structure and Elements” *TEI by Example* [http://teibyexample.org/modules/TBED01v00.htm](http://teibyexample.org/modules/TBED01v00.htm)
+  -  Johnson, Peter K. “Installing and Using Saxon for your XSLT Development.” [http://www.youtube.com/watch?v=FsDq2-VV0Uo](http://www.youtube.com/watch?v=FsDq2-VV0Uo)
+  -  “Installing Saxon and Running from Command Line.” &lt;[http://www.saxonica.com/documentation/using-xsl/commandline.html](http://www.saxonica.com/documentation/using-xsl/commandline.html)&gt;.
   
 ### Assignment:
   
@@ -226,31 +241,24 @@
 ## Week 13: Who is our audience?
 
 ### Readings (Apr. 6):
- 
-  -  “TEI Header” *TEI by Example* [http://teibyexample.org/examples/TBED02v00.htm](http://teibyexample.org/examples/TBED02v00.htm)
-  -  “Prose” *TEI by Example* [http://teibyexample.org/examples/TBED03v00.htm](http://teibyexample.org/examples/TBED03v00.htm)  -  
-  
+
+  -  “Primary Sources.” *TEI by Example.* &lt;[http://teibyexample.org/examples/TBED06v00.htm](http://teibyexample.org/examples/TBED06v00.htm)
+ &gt;.
+   
 ### Assignment:
   
   -  Project Work
 
-## Week 14:
-
-### Readings:
- 
-  -  TEILite [http://www.tei-c.org/Guidelines/Customization/Lite/](http://www.tei-c.org/Guidelines/Customization/Lite/)
-  -  “Primary Sources” *TEI by Example* [http://teibyexample.org/examples/TBED06v00.htm](http://teibyexample.org/examples/TBED06v00.htm)
- 
-### Assignment:
+## Week 14 and Week 15 (Apr. 20--Apr. Apr. 27)
   
   -  Project Work
 
-## Week 15: Sharing our wares
+## Week 15: 
   
-### Assignment:
+### Assignment (Apr. 29):
   
-  -  Project Presentation
+  -  Present Project in Class
 
 ## Finals Week
 
-  -  Submit Project ASsignment
+  -  Submit Project Assignment Source Files and Documentation

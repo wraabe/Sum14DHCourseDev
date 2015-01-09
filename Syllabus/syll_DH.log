@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.12.2)  8 JAN 2015 22:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/W32TeX) (preloaded format=pdflatex 2014.12.2)  9 JAN 2015 15:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -717,34 +717,34 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 39.
 (./syll_DH.aux)
 \openout1 = `syll_DH.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 47.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 55.
  (c:/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 47.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 55.
 
 (c:/texlive/2014/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Info: Redefining \microtypecontext on input line 47.
+LaTeX Info: Redefining \microtypecontext on input line 55.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -787,7 +787,7 @@ File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 \makeMPintoPDFobject=\count126
 \everyMPtoPDFconversion=\toks26
 )))
-Package hyperref Info: Link coloring ON on input line 47.
+Package hyperref Info: Link coloring ON on input line 55.
  (c:/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -796,60 +796,53 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count127
 )
-LaTeX Info: Redefining \ref on input line 47.
-LaTeX Info: Redefining \pageref on input line 47.
-LaTeX Info: Redefining \nameref on input line 47.
+LaTeX Info: Redefining \ref on input line 55.
+LaTeX Info: Redefining \pageref on input line 55.
+LaTeX Info: Redefining \nameref on input line 55.
 
 (./syll_DH.out) (./syll_DH.out)
 \@outlinefile=\write3
 \openout3 = `syll_DH.out'.
 
 
-Overfull \hbox (53.69402pt too wide) in alignment at lines 52--72
- [] [] 
+Underfull \vbox (badness 10000) detected at line 80
  []
 
-
-Underfull \vbox (badness 10000) detected at line 72
- []
-
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 79.
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 87.
 (c:/texlive/2014/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [1
-
-{c:/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 132.
+)
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 140.
 
 
 (c:/texlive/2014/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 132.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 140.
 
 
 (c:/texlive/2014/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 132
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 140
 .
 
 (c:/texlive/2014/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 132
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 140
 .
 
 (c:/texlive/2014/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 132.
+(Font)              <10> on input line 140.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 132.
+(Font)              <7> on input line 140.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 132.
-LaTeX Font Info:    Try loading font information for U+msa on input line 132.
+(Font)              <5> on input line 140.
+LaTeX Font Info:    Try loading font information for U+msa on input line 140.
 
 (c:/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -857,7 +850,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (c:/texlive/2014/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 132.
+LaTeX Font Info:    Try loading font information for U+msb on input line 140.
 
 (c:/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -865,129 +858,49 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (c:/texlive/2014/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-Underfull \hbox (badness 1953) in paragraph at lines 130--134
-[]\T1/lmr/m/it/10 (+20) A Com-pan-ion to Dig-i-tal Hu-man-i-ties. \T1/lmr/m/n/1
-0 (+20) Ed. Su-san Schreib-man,
+Underfull \vbox (badness 10000) detected at line 160
  []
 
-[2]
-Underfull \vbox (badness 10000) detected at line 202
- []
+[1
 
-[3] [4] [5] [6] [7] [8] [9]
-Underfull \hbox (badness 10000) in paragraph at lines 582--586
-\T1/lmr/m/it/10 (+20) The New Re-pub-lic \T1/lmr/m/n/10 (+20) <[][]$http : / / 
-www . newrepublic . com / article / 117428 /
- []
+{c:/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+[4] [5] [6]
 
+Package hyperref Warning: Suppressing empty link on input line 630.
 
-Underfull \hbox (badness 2221) in paragraph at lines 621--624
-[]\T1/lmr/m/n/10 (+20) Ramsay, Stephen. ``On Build-ing.'' \T1/lmr/m/it/10 (+20)
- Stephen Ram-say. \T1/lmr/m/n/10 (+20) <[][]$http :
- []
-
-[10]
-Underfull \hbox (badness 1137) in paragraph at lines 651--654
-[]\T1/lmr/m/n/10 (+20) Sullivan, Ian. ``In-no-va-tion in prac-tice.'' Soft-ware
- Free-dom Law
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 651--654
-\T1/lmr/m/n/10 (+20) Cen-ter. <[][]$https : / / www . softwarefreedom . org / b
-log / 2014 / apr / 11 /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 708--713
-\T1/lmr/m/n/10 (+20) <[][]$http : / / search . ebscohost . com / login . aspx ?
- direct = true & db = aph & AN =
- []
-
-[11]
-Overfull \hbox (92.81322pt too wide) in paragraph at lines 750--753
-\T1/lmr/m/it/10 (-20) Turkel. \T1/lmr/m/n/10 (-20) < [][]$http : / / williamjtu
-rkel . net / 2013 / 07 / 06 / doing-[]ocr-[]using-[]command-[]line-[]tools-[]in
--[]linux/$[][]>. 
- []
-
-[12]
-Overfull \hbox (47.33311pt too wide) in paragraph at lines 823--827
-\T1/lmr/m/it/10 (-20) rian. \T1/lmr/m/n/10 (-20) <[][]$http : / / programminghi
-storian . org / lessons / understanding-[]regular-[]expressions$[][]>. 
- []
-
-[13] [14]
-Overfull \hbox (705.44537pt too wide) in paragraph at lines 928--931
-\T1/lmr/m/n/10 (-20) Prac-tices for Cre-at-ing Dig-i-tal Im-ages'' (http://www.
-library.illinois.edu/dcc/bestpractices/chapter_03_creatingdigitalimages.html#te
-xtdoc)[http://www.library.illinois.edu/dcc/bestpractices/chapter_03_creatingdig
-italimages.html#textdoc] 
- []
-
-
-Underfull \hbox (badness 1490) in paragraph at lines 965--968
-[]\T1/lmr/m/n/10 (+20) ``Conversion of Pri-mary Sources,'' \T1/lmr/m/it/10 (+20
-) Com-pan-ion to Dig-i-tal Hu-man-i-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 965--968
-\T1/lmr/m/it/10 (+20) ties [][]$\T1/lmr/m/n/10 (+20) http : / / nora . lis . ui
-uc . edu : 3030 / companion / view ? docId = blackwell /
- []
-
-[15]
-Underfull \hbox (badness 2269) in paragraph at lines 1030--1033
-[]\T1/lmr/m/n/10 (+20) ``Introduction'' \T1/lmr/m/it/10 (+20) TEI by Ex-am-ple 
-[][]$\T1/lmr/m/n/10 (+20) http : / / teibyexample . org / examples /
- []
-
-
-Underfull \hbox (badness 1803) in paragraph at lines 1055--1058
-[]\T1/lmr/m/n/10 (+20) ``TEI Header'' \T1/lmr/m/it/10 (+20) TEI by Ex-am-ple []
-[]$\T1/lmr/m/n/10 (+20) http : / / teibyexample . org / examples /
- []
-
-[16]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1109.
- [17]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1109.
+[7] [8] [9] [10] [11]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1139.
+ [12]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1139.
  (./syll_DH.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1109.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1109.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1139.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1139.
 
+Package rerunfilecheck Info: File `syll_DH.out' has not changed.
+(rerunfilecheck)             Checksum: B822A0DED9A18BF04BA9AD2850C12D1C;12957.
 
-
-Package rerunfilecheck Warning: File `syll_DH.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `syll_DH.out':
-(rerunfilecheck)             Before: 10B3C102EDFE6BD49A57985110F7A13D;12597
-(rerunfilecheck)             After:  4B77A0A02D2D6387F31B1E084335C94D;12876.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1109.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1139.
  ) 
 Here is how much of TeX's memory you used:
- 11797 strings out of 493109
- 168831 string characters out of 6138581
- 268670 words of memory out of 5000000
- 14915 multiletter control sequences out of 15000+600000
- 44670 words of font info for 96 fonts, out of 8000000 for 9000
+ 11782 strings out of 493109
+ 168711 string characters out of 6138581
+ 268713 words of memory out of 5000000
+ 14911 multiletter control sequences out of 15000+600000
+ 44457 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,5n,35p,567b,418s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,5n,35p,567b,436s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2014/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{c:/texlive/2014/tex
 mf-dist/fonts/enc/dvips/lm/lm-ts1.enc}<c:/texlive/2014/texmf-dist/fonts/type1/p
 ublic/lm/lmbx10.pfb><c:/texlive/2014/texmf-dist/fonts/type1/public/lm/lmbx12.pf
 b><c:/texlive/2014/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2014/
 texmf-dist/fonts/type1/public/lm/lmri10.pfb>
-Output written on syll_DH.pdf (17 pages, 171432 bytes).
+Output written on syll_DH.pdf (12 pages, 167034 bytes).
 PDF statistics:
- 521 PDF objects out of 1000 (max. 8388607)
- 493 compressed objects within 5 object streams
- 103 named destinations out of 1000 (max. 500000)
- 12385 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 478 PDF objects out of 1000 (max. 8388607)
+ 455 compressed objects within 5 object streams
+ 96 named destinations out of 1000 (max. 500000)
+ 12377 words of extra memory for PDF output out of 14400 (max. 10000000)
 
