@@ -102,7 +102,10 @@
 ### In-Class Activity (Feb. 9):
  
   -  Visit library special collections to review Alfred Chester and Thornton Wilder Papers and to consider means to acquire images and transcribed texts. 
-    -  Paper 1 Proposal Due
+  
+### Assignment (Due Feb. 9)
+
+ -  Paper 1 Proposal Due
   
 ### Readings (Feb. 11):
 
@@ -128,8 +131,8 @@
 ### Readings (Feb. 16): 
 
   -  Renear, Alan. “Text Encoding.” *A Companion to the Digital Humanities* 218--239.
-  -  Birnbaum, David J. “What is XML and why should humanists care? An even gentler introduction to XML.” *Digital Humanities* [http://dh.obdurodon.org/what-is-xml.xhtml](http://dh.obdurodon.org/what-is-xml.xhtml).
-    -  TEI Consortium. “A Gentle Introduction to XML.” &lt;[http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html)&gt;. 
+  -  Birnbaum, David J. “What is XML and why should humanists care? An even gentler introduction to XML.” *Digital Humanities.* &lt;[http://dh.obdurodon.org/what-is-xml.xhtml](http://dh.obdurodon.org/what-is-xml.xhtml)&gt;. 
+  -  TEI Consortium. “A Gentle Introduction to XML.” &lt;[http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html)&gt;. 
 
 ### In-Class Activity (Feb. 16): 
 
@@ -143,7 +146,7 @@
   
 ### In-Class Activity (Feb. 18): 
 
- - Encode a poem and a prose work to conform to TEI in oXygen
+ - Model encoding a poem and a prose work to conform to TEI in oXygen
 
 ### Assignment:
  
@@ -158,7 +161,7 @@
 
 ### Assignment (Feb. 23):
  
-  -  Blog Post (500--750 words) on encoding documents with TEI
+  -  Blog Post (500--750 words) on encoding documents with TEI and two sample XML documents, prose and poetry.
   
 ### Readings (Feb. 25): 
 
@@ -200,6 +203,8 @@
   
 ### Assignment:
 
+ - Project Meeting with Professor
+
 ## Week 11: TeiLite and TEI by Example
 
 ### Readings (Mar. 16):
@@ -212,9 +217,9 @@
   -  “Primary Sources.” *TEI by Example.* &lt;[http://teibyexample.org/examples/TBED06v00.htm](http://teibyexample.org/examples/TBED06v00.htm)&gt;.
     -  “TEILite.” &lt;[http://www.tei-c.org/Guidelines/Customization/Lite/](http://www.tei-c.org/Guidelines/Customization/Lite/)&gt;.
   
-### Assignment:
+### Assignment (Due Mar. 30):
   
-  -  XML and TEILite
+  -  Submit project letter that validates to TEILite Schema
 
 ## Week 12: Digital Publication Options
 
@@ -227,8 +232,8 @@
 
 ### In-Class Activities:
 
-  -  Drupal on Reclaim Hosting, and TEICHI on Drupal
-  -  Omeka on Reclaim Hosting
+  -  Introduce Reclaim Hosting with TEICHI on Drupal
+  -  Introduce Omeka on Reclaim Hosting
   
 ### Readings (Apr. 1):
 
@@ -237,8 +242,7 @@
 ### Assignment:
 
   -  Blog Post (500--750 words) on project status
-  -  Introduce Saxon and XSLT
-
+  -  Submit project letter to Drupal Instance
 
 ## Week 13: Who is our audience?
 
