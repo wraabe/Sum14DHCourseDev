@@ -10,7 +10,7 @@
 ### Readings (Jan. 14):
 
   -  Marche, Stephen, “Literature is not Data: Against Digital Humanities.” *Los Angeles Review of Books* &lt;[http://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities](http://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities )&gt;.
-  -  Kirsch, Adam, “Technology Is Taking Over English Departments.” *The New Republic* &lt;[http://www.newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch](http://www.newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch )&gt;
+  -  Kirsch, Adam, “Technology Is Taking Over English Departments.” *The New Republic* &lt;[http://www.newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch](http://www.newrepublic.com/article/117428/limits-digital-humanities-adam-kirsch )&gt;.
   -  Susan Hockey, “The History of Humanities Computing.” *A Companion to Digital Humanities.* 3--19. 
   
 ### In-Class Activities (Jan. 14)
@@ -33,7 +33,7 @@
   -  Install Pandoc and convert sample Markdown File with a bibliography to Word RTF and to HTML
   -  Write blog post with bibliographical reference on what DH is
 
-## Week 3: Form and content: Publishing Class Single-Source Discussion of “What is DH"?
+## Week 3: Form and content: Publishing Single-Source Discussion of “What is DH"?
 
 ### Readings (Jan. 26):
 
@@ -43,13 +43,13 @@
 ### In-Class Activities:
 
   -  Install GitHub and create shared repository for Markdown-format Blog Post. See Konrad M. Lawson, “Getting Started with a GitHub Repository.” *Profhacker---Chronicle of Higher Education* (15 Mar. 2013). &lt;[http://chronicle.com/blogs/profhacker/getting-started-with-a-github-repository/47393](http://chronicle.com/blogs/profhacker/getting-started-with-a-github-repository/47393)&gt;
-  -  Install Zotero &lt;[]()&gt;, add references, and export BibLaTeX (*.bib) files to GitHub repository
+  -  Install Zotero &lt;[https://www.zotero.org/](https://www.zotero.org/)&gt; and a “connector” (if you prefer standalone and browser), add references, and export BibLaTeX (*.bib) files to GitHub repository.
   -  Install (as necessary, that is, if you will take responsibility) LaTeX for print documents---&lt;[https://www.tug.org/texlive/acquire-netinstall.html](https://www.tug.org/texlive/acquire-netinstall.html )&gt; or &lt;[https://tug.org/mactex/](https://tug.org/mactex/)&gt;---or Calibre &lt;[http://calibre-ebook.com/](http://calibre-ebook.com/)&gt; for ebooks.
   
 ### Readings (Jan. 28)
 
-  - Laue, Andrea. “How the Computer Works.” *A Companion to Digital Humanities.* 145-160. 
-  - Sperberg-McQueen, C. M. “Classification and its Structures” *A Companion to Digital Humanities.* 161-176.
+  - Laue, Andrea. “How the Computer Works.” *A Companion to Digital Humanities.* 145--160. 
+  - Sperberg-McQueen, C. M. “Classification and its Structures” *A Companion to Digital Humanities.* 161--176.
   - Borges, Jorge Luis. “Funes, the Memorious.” Blackboard.
   - Reference Reading for Assignment: Dennis Tenen and Grant Wythoff, “Sustainable Authorship in Plain Text using Pandoc and Markdown.” *Programming Historian.* &lt;[http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown )&gt;.
 	
@@ -75,10 +75,11 @@
 ### Readings (Feb. 4):
 
   -  Duggan, Hoyt N. and Eileen Gifford Fenton, “Effective methods of producing machine-readable text from manuscript and print sources.”  *Electronic Textual Editing* 241--253.
-  -  Alcott, *Hospital Sketches* (Boston: Redpath, 1863), [https://archive.org/details/hospitalsketches00alcorich](https://archive.org/details/hospitalsketches00alcorich )&gt;.
+    -  Turkel, William J. “Doing OCR Using Command Line in UNIX.” *William J. Turkel.* &lt; [http://williamjturkel.net/2013/07/06/doing-ocr-using-command-line-tools-in-linux/](http://williamjturkel.net/2013/07/06/doing-ocr-using-command-line-tools-in-linux/)&gt;.
+  -  Alcott, *Hospital Sketches* (Boston: Redpath, 1863), [https://archive.org/details/hospitalsketches00alcorich](https://archive.org/details/hospitalsketches00alcorich )&gt;. (scans posted to Blackboard, a “browsing” would be more a more accurate description than a “reading” for this and next three texts.)
   -  Alcott, *Hospital Sketches and Camp and Fireside Stories* (Boston: Roberts Brothers, 1868). &lt;[https://archive.org/details/hospitalsketche00alco](https://archive.org/details/hospitalsketche00alco )&gt; 
-  -  Alcott, Louisa May. *Hospital Sketches* In *Boston Commonwealth* 22 May 1863, 29 May 1863, 12 June 1863, and 26 June 1863. (scans posted to Blackboard, a “browsing” would be more a more accurate description than a “reading” for this activity). 
-  -  Turkel, William J. “Doing OCR Using Command Line in UNIX.” *William J. Turkel.* &lt; [http://williamjturkel.net/2013/07/06/doing-ocr-using-command-line-tools-in-linux/](http://williamjturkel.net/2013/07/06/doing-ocr-using-command-line-tools-in-linux/)&gt;. 
+  -  Alcott, Louisa May. *Hospital Sketches* In *Boston Commonwealth* 22 May 1863, 29 May 1863, 12 June 1863, and 26 June 1863.  
+ 
 
 ### In-Class Activity (Feb. 4):
  
@@ -127,7 +128,8 @@
 ### Readings (Feb. 16): 
 
   -  Renear, Alan. “Text Encoding.” *A Companion to the Digital Humanities* 218--239.
-  -  Birnbaum, David J. “What is XML and why should humanists care? An even gentler introduction to XML” *Digital Humanities* [http://dh.obdurodon.org/what-is-xml.xhtml](http://dh.obdurodon.org/what-is-xml.xhtml).
+  -  Birnbaum, David J. “What is XML and why should humanists care? An even gentler introduction to XML.” *Digital Humanities* [http://dh.obdurodon.org/what-is-xml.xhtml](http://dh.obdurodon.org/what-is-xml.xhtml).
+    -  TEI Consortium. “A Gentle Introduction to XML.” &lt;[http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html)&gt;. 
 
 ### In-Class Activity (Feb. 16): 
 
@@ -135,14 +137,13 @@
   
 ### Readings (Feb. 18): 
   
-  -  TEI Consortium. “A Gentle Introduction to XML.” &lt;[http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html)&gt;. 
-  -  “Introduction” *TEI by Example* &lt;[http://teibyexample.org/examples/TBED00v00.htm](http://teibyexample.org/examples/TBED00v00.htm)&gt;.
-  -  “Common Structure and Elements” *TEI by Example* &lt;[http://teibyexample.org/modules/TBED01v00.htm](http://teibyexample.org/modules/TBED01v00.htm)&gt;.
+  -  “Introduction.” *TEI by Example.* &lt;[http://teibyexample.org/examples/TBED00v00.htm](http://teibyexample.org/examples/TBED00v00.htm)&gt;.
+  -  “Common Structure and Elements.” *TEI by Example.* &lt;[http://teibyexample.org/modules/TBED01v00.htm](http://teibyexample.org/modules/TBED01v00.htm)&gt;.
 
   
-### In-Class Activity (Feb. 16): 
+### In-Class Activity (Feb. 18): 
 
- - Encode poem and prose work to conform to TEI in oXygen
+ - Encode a poem and a prose work to conform to TEI in oXygen
 
 ### Assignment:
  
@@ -153,35 +154,35 @@
 ### Readings (Feb. 23): 
 
   -  DeRose, S. J., Durand, D. G., Mylonas, E., and Renear A. H. (1990), “What is Text, Really?”  *\* Journal of Computing in Higher Education* 1.2: 3--26. Blackboard.
-  -  Pitti, Daniel V. “Designing Sustainable Projects and Publications,” *Companion to Digital Humanities* &lt;[http://nora.lis.uiuc.edu:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml](http://nora.lis.uiuc.edu:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml)&gt;
+  -  Pitti, Daniel V. “Designing Sustainable Projects and Publications.” *Companion to Digital Humanities.* 471--487.
 
-### Assignment:
+### Assignment (Feb. 23):
  
   -  Blog Post (500--750 words) on encoding documents with TEI
   
 ### Readings (Feb. 25): 
 
-  -  “Guidelines for Editors of Scholarly Editions.” *Electronic Textual Editing.* 23--46.
-
-### Assignment: 
+  -  Committee on Scholarly Editions. “Guidelines for Editors of Scholarly Editions.” *Electronic Textual Editing.* 23--46.
+  -  Smith, Martha Nell. “Scholarly Editing.” *Companion to Digital Humanities.* 306--322.
 
 
 ## Week 9: Acquiring Images
 
 ### Readings (Mar. 2):
 
-  -  Minnesota Digital Library, “Quick Reference Guide: Digital Imaging Best Practices.” &lt;[http://www.mndigital.org/digitizing/standards/guide.php](http://www.mndigital.org/digitizing/standards/guide.php)&gt;.
-  -  University Library, University of Illinois, Urbana-Champagne “3.0 Best Practices for Creating Digital Images.” &lt;[http://www.library.illinois.edu/dcc/bestpractices/chapter_03_creatingdigitalimages.html#textdoc](http://www.library.illinois.edu/dcc/bestpractices/chapter_03_creatingdigitalimages.html#textdoc)&gt;.
+  -  Minnesota Digital Library. “Quick Reference Guide: Digital Imaging Best Practices.” &lt;[http://www.mndigital.org/digitizing/standards/guide.php](http://www.mndigital.org/digitizing/standards/guide.php)&gt;.
+  -  University Library, University of Illinois, Urbana-Champagne. “3.0 Best Practices for Creating Digital Images.” &lt;[http://www.library.illinois.edu/dcc/bestpractices/chapter_03_creatingdigitalimages.html#textdoc](http://www.library.illinois.edu/dcc/bestpractices/chapter_03_creatingdigitalimages.html#textdoc)&gt;.
   
 ### In-Class Activity:
   
-  -  Introduce Scanner
+  -  Introduce Scanning
   
 ### Readings (Mar. 4):
 
-  -  Deegan, Marilyn and Simon Tanner. “Conversion of Primary Sources.”  *Companion to Digital Humanities.* &lt;[http://nora.lis.uiuc.edu:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml](http://nora.lis.uiuc.edu:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml)&gt;.
+  -  Deegan, Marilyn and Simon Tanner. “Conversion of Primary Sources.”  *Companion to Digital Humanities.* 488--504.
+  -  Rosenberg, Bob.  “Documentary Editing.”  *Electronic Textual Editing.* 92--104.
 
-### Assignment:
+### Assignment (Mar. 4):
 
   -  Propose Final Project Plan
 
@@ -189,67 +190,70 @@
 
 ### Readings (Mar. 9):
 
-  -  Cohen, Daniel J. and Roy Rosenzweig, “To Mark Up, Or Not To Mark Up” *Becoming Digital* &lt;[http://chnm.gmu.edu/digitalhistory/digitizing/3.php](http://chnm.gmu.edu/digitalhistory/digitizing/3.php)&gt;.
+  -  Cohen, Daniel J. and Roy Rosenzweig, “To Mark Up, Or Not To Mark Up.” *Becoming Digital* &lt;[http://chnm.gmu.edu/digitalhistory/digitizing/3.php](http://chnm.gmu.edu/digitalhistory/digitizing/3.php)&gt;.
   -  McGann, Jerome.  “Marking Texts of Many Dimensions.” *Companion to Digital Humanities* 198--217.
 
 ### Readings (Mar. 11):
 
-  -  Lavagnino, John.  “When Not to Use TEI” *Electronic Textual Editing.* 334--338.
-  -  Durusau, Patrick.  “Why and How to Document Your Markup Choices” *Electronic Textual Editing* 299--309.
+  -  Lavagnino, John.  “When Not to Use TEI.” *Electronic Textual Editing.* 334--338.
+  -  Durusau, Patrick.  “Why and How to Document Your Markup Choices.” *Electronic Textual Editing* 299--309.
   
 ### Assignment:
 
-## Week 11: Digital Publication Options
+## Week 11: TeiLite and TEI by Example
 
 ### Readings (Mar. 16):
+ 
+  -  “TEI Header.” *TEI by Example.* &lt;[http://teibyexample.org/examples/TBED02v00.htm](http://teibyexample.org/examples/TBED02v00.htm)&gt;.
+  -  “Prose.” *TEI by Example.* &lt;[http://teibyexample.org/examples/TBED03v00.htm](http://teibyexample.org/examples/TBED03v00.htm)&gt;. 
 
- -  Pape, Sebastian, Christof Schöch, and Lutz Wegner, “TEICHI and the Tools Paradox” &lt;[http://jtei.revues.org/432](http://jtei.revues.org/432 )&gt;
- -  “Documentation” and “Downloads,” TEICHI &lt;[http://www.teichi.org/](http://www.teichi.org/ )&gt;
- -  “Documentation: What Is Omeka” &lt;[http://omeka.org/](http://omeka.org/ )&gt;.
+### Readings (Mar. 18):
+
+  -  “Primary Sources.” *TEI by Example.* &lt;[http://teibyexample.org/examples/TBED06v00.htm](http://teibyexample.org/examples/TBED06v00.htm)&gt;.
+    -  “TEILite.” &lt;[http://www.tei-c.org/Guidelines/Customization/Lite/](http://www.tei-c.org/Guidelines/Customization/Lite/)&gt;.
+  
+### Assignment:
+  
+  -  XML and TEILite
+
+## Week 12: Digital Publication Options
+
+### Readings (Mar. 30):
+
+ -  Pape, Sebastian, Christof Schöch, and Lutz Wegner, “TEICHI and the Tools Paradox.” &lt;[http://jtei.revues.org/432](http://jtei.revues.org/432 )&gt;
+ -  “Documentation” and “Downloads.” TEICHI. &lt;[http://www.teichi.org/](http://www.teichi.org/ )&gt;
+ -  “Documentation: What Is Omeka?” &lt;[http://omeka.org/](http://omeka.org/ )&gt;.
+ -  Kirschenbaum, Matthew. “'So the Colors Cover the Wires?': Interface, Aesthetics, and Usability.”
 
 ### In-Class Activities:
 
   -  Drupal on Reclaim Hosting, and TEICHI on Drupal
   -  Omeka on Reclaim Hosting
   
-### Readings (Mar. 18):
+### Readings (Apr. 1):
 
-  -  “TEILite.” &lt;[http://www.tei-c.org/Guidelines/Customization/Lite/](http://www.tei-c.org/Guidelines/Customization/Lite/)&gt;.
-
+  -  Wittern, Christian. “Writing Systems and Character Representation.” *Electronic Textual Editing.* 291--298.
+  
 ### Assignment:
 
   -  Blog Post (500--750 words) on project status
   -  Introduce Saxon and XSLT
-  
-## Week 12
 
-### Readings (Mar. 30):
- 
-  -  “TEI Header.” *TEI by Example.* &lt;[http://teibyexample.org/examples/TBED02v00.htm](http://teibyexample.org/examples/TBED02v00.htm)&gt;.
-  -  “Prose.” *TEI by Example.* &lt;[http://teibyexample.org/examples/TBED03v00.htm](http://teibyexample.org/examples/TBED03v00.htm)&gt;. 
-
-### Readings (Apr. 1):
-  
-  -  Johnson, Peter K. “Installing and Using Saxon for your XSLT Development.” [http://www.youtube.com/watch?v=FsDq2-VV0Uo](http://www.youtube.com/watch?v=FsDq2-VV0Uo)
-  -  “Installing Saxon and Running from Command Line.” &lt;[http://www.saxonica.com/documentation/using-xsl/commandline.html](http://www.saxonica.com/documentation/using-xsl/commandline.html)&gt;.
-  
-### Assignment:
-  
-  -  XML and TEILite
-  -  Saxon and XSLT
 
 ## Week 13: Who is our audience?
 
 ### Readings (Apr. 6):
 
-  -  “Primary Sources.” *TEI by Example.* &lt;[http://teibyexample.org/examples/TBED06v00.htm](http://teibyexample.org/examples/TBED06v00.htm)
- &gt;.
+  -  Deegan, Marilyn. “Collection and Preservation of an Electronic Edition.” *Electronic Textual Editing.* 358--370.
+  -  Smith, Abby. “Preservation.” *Companion to Digital Humanities.* 576--591.
    
 ### Assignment:
   
   -  Project Work
 
 ## Week 14 and Week 15 (Apr. 20--Apr. Apr. 27)
+
+### Assignment:
   
   -  Project Work
 
