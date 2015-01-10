@@ -1,0 +1,30 @@
+﻿<a href="http://www.youtube.com/watch?v=tNXpnufLVkc">Tim Burton, Alice in Wonderland, Rabbit Holes</a>
+
+I have been drafting a digital humanities course for undergraduate students for several weeks. And because its aim is to consider representation of texts, I have been thinking about how to teach text acquisition and transformation, including transcription, OCR, and transformation from one format to another. Therefore, I have been considering how to set up discrete exercises in which to show means to do this work.
+
+Because I wish to invite as many students as possible, I have not considered requiring Windows or UNIX (I ought to be able to support both) and have assumed that free and open-source tools should be preferred. So I have been getting an education in installing open source software, and my life just seems to me like an endless series of <em>Alice in Wonderland</em> rabbit holes, with steps that go something like this:
+
+ 1. For Tesseract OCR to work with Macintosh, you must first install MacPorts.
+ 2. For MacPorts to run Tesseract, you must install UNIX command line tools.
+ 3. To have access to command line tools, you must install Apple Xcode.
+ 4. To install Xcode, you must have an Apple ID.
+ 5. Because your old iTunes ID does not seem to work like actual Apple ID (or maybe password changed, you must set up another one.
+ 6. Start downloading Xcode and wait.
+ 7. Xcode does not install command line tools by default, so you must install them from preferences after Xcode installation is complete. 
+ 8. Now that Xcode and UNIX command line tools are set up, give it a whirl.
+ 9. OK, that works on one JPEG. 
+
+So these are the dependencies for that on Mac:
+ 1. Be an administrator.
+ 2. Set up Apple ID.
+ 3. Introduce UNIX Terminal.
+ 4. Download Xcode
+ 5. Download Xcode command line tools. 
+ 6. Download Macports
+ 7. Download Tesseract eng with command line tools.
+
+To figure it out took me six hours. To download and install these things even knowing what to do takes hours. 
+
+Now, to set it up on Windows PC, do the following:
+ 1. Be an administrator.
+ 2. Download GUI with Tesseract,  

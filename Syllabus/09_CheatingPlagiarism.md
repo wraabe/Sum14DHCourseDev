@@ -2,26 +2,10 @@
 
 By second week of class, I will post a Blackboard assignment in which you affirm your familiarity with the university’s cheating and plagiarism policy and in which sanctions for cheating and plagiarism are described. You must complete the assignment before you can earn credit for class submissions.
 
-**How Not to Plagiarize: ** The scholar Amanda French has offered helpful advice on impermissible copying, especially actions that constitute plagiarism and copyright violation. &lt;[http://digitalpast002.onmason.com/syllabus/](http://digitalpast002.onmason.com/syllabus/)&gt;:
+**How Not to Plagiarize:** The scholar Amanda French has offered helpful advice on impermissible copying, especially actions that constitute plagiarism and copyright violation, at &lt;[http://digitalpast002.onmason.com/syllabus/](http://digitalpast002.onmason.com/syllabus/)&gt;:
 
- > If you are copying and pasting text that someone else wrote,
- > you might be plagiarizing. Pasted or manually retyped text is not plagiarized only
- > when all of the following three conditions are true: 1) the pasted text is
- > surrounded by quotation marks or set off as a block quote, and 2) the
- > pasted text is attributed in your text to its author and its source
- > (e.g., “As Jane Smith writes on her blog . . . ”), and 3) the pasted text is
- > cited in a footnote, endnote, and/or a bibliography (e.g., “Smith, Jane. Smith
- > Stuff. Blog. Available &lt;[http://dummyaddress.wordpress.com](http://dummyaddress.wordpress.com)&gt;
- > Accessed August 1, 2012.”). Conventions for copying and pasting computer code
- > are less strict, but even when you copy and paste code, if you can identify the
- > actual individual who wrote the code, you should give the coder's name and
- > the source of the code in a code comment. If you find and use images, audio,
- > or video on the web, you should also cite the creator (if known) and the 
- > source (at the very least) of that media file, usually in a caption as well
- > as in a footnote, endnote, or bibliography. Note that reproducing someone 
- > else's text, image, audio, or video file in full on your own public website
- > may constitute copyright infringement, even with proper attribution. 
+ > If you are copying and pasting text that someone else wrote, you might be plagiarizing. Pasted or manually retyped text is not plagiarized only when all of the following three conditions are true: 1) the pasted text is surrounded by quotation marks or set off as a block quote, and 2) the pasted text is attributed in your text to its author and its source (e.g., “As Jane Smith writes on her blog . . . ”), and 3) the pasted text is cited in a footnote, endnote, and/or a bibliography (e.g., “Smith, Jane. Smith Stuff. Blog. Available &lt;[http://dummyaddress.wordpress.com](http://dummyaddress.wordpress.com)&gt; Accessed August 1, 2012.”). Conventions for copying and pasting computer code are less strict, but even when you copy and paste code, if you can identify the actual individual who wrote the code, you should give the coder's name and the source of the code in a code comment. If you find and use images, audio, or video on the web, you should also cite the creator (if known) and the source (at the very least) of that media file, usually in a caption as well as in a footnote, endnote, or bibliography. Note that reproducing someone  else's text, image, audio, or video file in full on your own public website may constitute copyright infringement, even with proper attribution. 
 
-That everyone steals code and violates formal copyright now or that tech-evangelists or corporate shills on Twitter or YouTube---or Facebook or Instagram or Pandora or Google, etc.---endorse a culture of free sharing of copyrighted content, is not sufficient for you to escape the consequences of plagiarism within this class. Times and laws change, but my demand that you hold yourself to a high standard for ethical behavior is fully within the realm of course policy. I am not qualified to give legal advice on copyright, but I can advise sensible self-protection. When you post material on a public web site, due diligence will help you defend yourself against claims of copyright infringement. To exercise due diligence, see Cornell University's “Copyright Term and the Public Domain in the United States” &lt;[http://copyright.cornell.edu/resources/publicdomain.cfm](http://copyright.cornell.edu/resources/publicdomain.cfm)&gt;. Henry David Thoreau, who called for civil disobedience, spent the night in jail.  If your violation of copyright is principled, indicate your devotion to the principle by accepting without complaint the failing grade that I will assign.
+That everyone steals code and violates formal copyright now or that tech-evangelists or corporate shills on Twitter or YouTube---or Facebook or Instagram or Pandora or Google, etc.---endorse a culture of free sharing of copyrighted content, is not sufficient for you to escape the consequences of plagiarism within this class. Times and laws change, but my demand that you hold yourself to a high standard for ethical behavior is part of course policy. I am not qualified to give legal advice on copyright, but I can advise sensible self-protection. When you post material on a public web site, due diligence will help you defend yourself against claims of copyright infringement. To exercise due diligence, see Cornell University's “Copyright Term and the Public Domain in the United States” &lt;[http://copyright.cornell.edu/resources/publicdomain.cfm](http://copyright.cornell.edu/resources/publicdomain.cfm)&gt;. Henry David Thoreau, who called for civil disobedience, spent the night in jail.  If your violation of copyright is principled, indicate your devotion to the principle by accepting without complaint the failing grade that I will assign.
 
 

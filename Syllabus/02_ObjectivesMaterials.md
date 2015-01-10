@@ -11,11 +11,9 @@ The goals for student learning in "ENG 39395, ST: Intro to Digital Humanities" a
 
 ##  Course Materials
 
- -  *A Companion to Digital Humanities.* Ed. Susan Schreibman, Ray Siemens,
-    and John Unsworth. New York: Blackwell, 2004. 
+ -  *A Companion to Digital Humanities.* Ed. Susan Schreibman, Ray Siemens, and John Unsworth. New York: Blackwell, 2004. 
     &lt;[http://www.digitalhumanities.org/companion/](http://www.digitalhumanities.org/companion/ )&gt;.
- -  *Electronic Textual Editing.* Ed. Lou Burnard, Katherine O'Brien O'Keefe,
-    and John Unsworth. New York: MLA, 2006.
+ -  *Electronic Textual Editing.* Ed. Lou Burnard, Katherine O'Brien O'Keefe, and John Unsworth. New York: MLA, 2006.
     &lt;[http://www.tei-c.org/About/Archive_new/ETE/Preview/](http://www.tei-c.org/About/Archive_new/ETE/Preview/ )&gt;.
 	
 
