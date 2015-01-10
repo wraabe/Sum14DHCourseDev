@@ -1,6 +1,6 @@
-C:\Users\wraabe\My Documents\GitHub\Sum14DHCourseDev\Syllabus>
+\\Documents\GitHub\Sum14DHCourseDev\Syllabus>
 
-cd "My Documents\GitHub\Sum14DHCourseDev\Syllabus"
+cd "Documents\GitHub\Sum14DHCourseDev\Syllabus
 
 DH Syllabus
 pandoc -s 01_headertable.md 02_ObjectivesMaterials.md 03_Grades_DH.md 04_Accessibility.md 05_BlogDH.md 06_Abscence_Class.md 07_Papers.md 08_DHProjects.md 09_CheatingPlagiarism.md 10_Copyright.md 12_ClassScheduleDH.md -o syll_DH.tex
