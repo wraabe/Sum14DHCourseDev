@@ -174,7 +174,7 @@
 ### Readings (Mar. 2):
 
   -  Minnesota Digital Library. “Quick Reference Guide: Digital Imaging Best Practices.” &lt;[http://www.mndigital.org/digitizing/standards/guide.php](http://www.mndigital.org/digitizing/standards/guide.php)&gt;.
-  -  University Library, University of Illinois, Urbana-Champagne. “3.0 Best Practices for Creating Digital Images.” &lt;[http://www.library.illinois.edu/dcc/bestpractices/chapter_03_creatingdigitalimages.html#textdoc](http://www.library.illinois.edu/dcc/bestpractices/chapter_03_creatingdigitalimages.html#textdoc)&gt;.
+  -  University Library, University of Illinois, Urbana-Champaign. “3.0 Best Practices for Creating Digital Images.” &lt;[http://www.library.illinois.edu/dcc/bestpractices/chapter_03_creatingdigitalimages.html#textdoc](http://www.library.illinois.edu/dcc/bestpractices/chapter_03_creatingdigitalimages.html#textdoc)&gt;.
   
 ### In-Class Activity:
   
