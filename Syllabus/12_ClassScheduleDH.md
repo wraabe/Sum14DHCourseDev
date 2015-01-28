@@ -55,10 +55,10 @@
 	
 ### Assignment Submission
  
-  -  By Monday (Jan. 26), post draft Markdown source to GitHub
-  -  By Wednesday (Jan. 28), review edits and update
-  -  By Friday (Jan. 30), submit LaTeX-generated PDF to GitHub Repository; post MarkDown source to class blog; Upload eBook with all posts and submit link to eBook on GitHub Repository
-  -  By Monday (Feb. 2) Submit blog reflection to class blog, 500--750 words
+  -  By Thursday (Jan. 29), post draft Markdown source to GitHub
+  -  By Saturday (Jan. 31), review edits and update
+  -  By Monday (Feb. 2), submit LaTeX-generated PDF to GitHub Repository; post MarkDown source to class blog; Upload eBook with all posts and submit link to eBook on GitHub Repository
+  -  By Wednesday (Feb. 4) Submit blog reflection to class blog, 500--750 words
 
 ## Week 4: Acquiring Texts
 
