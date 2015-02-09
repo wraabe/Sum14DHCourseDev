@@ -101,6 +101,7 @@
   
 ### Assignment (Due Feb. 9)
 
+  -  By Monday (Feb. 9), submit LaTeX-generated PDF to GitHub Repository; post MarkDown source to class blog; Upload eBook with all posts and submit link to eBook on GitHub Repository
 
   
 ### Readings (Feb. 11):
@@ -128,7 +129,7 @@
 
 ### Readings (Feb. 16): 
 
-  -  Renear, Alan. “Text Encoding.” *A Companion to the Digital Humanities* 218--239.
+  -  Renear, Alan. “Text Encoding.” *A Companion to the Digital Humanities.* 218--239.
   -  Birnbaum, David J. “What is XML and why should humanists care? An even gentler introduction to XML.” *Digital Humanities.* &lt;[http://dh.obdurodon.org/what-is-xml.xhtml](http://dh.obdurodon.org/what-is-xml.xhtml)&gt;. 
   -  TEI Consortium. “A Gentle Introduction to XML.” &lt;[http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html)&gt;. 
 
