@@ -1,4 +1,4 @@
-﻿
+
 # Course Schedule
 
 ## Week 1: Digital humanities in popular culture
@@ -161,12 +161,9 @@
   
 ### Readings (Feb. 25): 
 
-  -  Committee on Scholarly Editions. “Guidelines for Editors of Scholarly Editions.” *Electronic Textual Editing.* 23--46.
-  -  Smith, Martha Nell. “Scholarly Editing.” *Companion to Digital Humanities.* 306--322.
+  -  Committee on Scholarly Editions. “Guidelines for Editors of Scholarly Editions.” *Electronic Textual Editing.* 23--46.  &lt;[http://www.tei-c.org/About/Archive_new/ETE/Preview/](http://www.tei-c.org/About/Archive_new/ETE/Preview/ )&gt;.
+  -  Smith, Martha Nell. “Scholarly Editing.” *Companion to Digital Humanities.* 306--322. &lt;[http://www.digitalhumanities.org/companion/](http://www.digitalhumanities.org/companion/ )&gt;.
 
-### Assignment (Feb. 25):
-
-  -  Paper 1 Due
 
 ## Week 9: Acquiring Images
 
@@ -181,24 +178,30 @@
   
 ### Readings (Mar. 4):
 
-  -  Deegan, Marilyn and Simon Tanner. “Conversion of Primary Sources.”  *Companion to Digital Humanities.* 488--504.
-  -  Rosenberg, Bob.  “Documentary Editing.”  *Electronic Textual Editing.* 92--104.
+  -  Deegan, Marilyn and Simon Tanner. “Conversion of Primary Sources.”  *Companion to Digital Humanities.* 488--504. &lt;[http://www.digitalhumanities.org/companion/](http://www.digitalhumanities.org/companion/ )&gt;.
+  -  Rosenberg, Bob.  “Documentary Editing.”  *Electronic Textual Editing.* 92--104. &lt;[http://www.tei-c.org/About/Archive_new/ETE/Preview/](http://www.tei-c.org/About/Archive_new/ETE/Preview/ )&gt;.
 
 ### Assignment (Mar. 4):
 
-  -  Propose Final Project Plan
+ -  Paper 1 Due
+ -  In-Class Draft Project Plan [https://docs.google.com/document/d/10e0_MpBDfU9e1XEhal9VVF_DadQztIm_7eZ_nIiz1CU/edit?usp=sharing](https://docs.google.com/document/d/10e0_MpBDfU9e1XEhal9VVF_DadQztIm_7eZ_nIiz1CU/edit?usp=sharing). Shareable Link. Must log in as class member to edit.
 
 ## Week 10: Encoding Text, or Not
 
 ### Readings (Mar. 9):
 
   -  Cohen, Daniel J. and Roy Rosenzweig, “To Mark Up, Or Not To Mark Up.” *Becoming Digital* &lt;[http://chnm.gmu.edu/digitalhistory/digitizing/3.php](http://chnm.gmu.edu/digitalhistory/digitizing/3.php)&gt;.
-  -  McGann, Jerome.  “Marking Texts of Many Dimensions.” *Companion to Digital Humanities* 198--217.
+  -  McGann, Jerome.  “Marking Texts of Many Dimensions.” *Companion to Digital Humanities* 198--217. &lt;[http://www.digitalhumanities.org/companion/](http://www.digitalhumanities.org/companion/ )&gt;.
+  
+### Assignment (Mar. 9): 
+
+ -  Propose Final Project Plan
+  
 
 ### Readings (Mar. 11):
 
-  -  Lavagnino, John.  “When Not to Use TEI.” *Electronic Textual Editing.* 334--338.
-  -  Durusau, Patrick.  “Why and How to Document Your Markup Choices.” *Electronic Textual Editing* 299--309.
+  -  Lavagnino, John.  “When Not to Use TEI.” *Electronic Textual Editing.* 334--338. &lt;[http://www.tei-c.org/About/Archive_new/ETE/Preview/](http://www.tei-c.org/About/Archive_new/ETE/Preview/ )&gt;.
+  -  Durusau, Patrick.  “Why and How to Document Your Markup Choices.” *Electronic Textual Editing* 299--309. &lt;[http://www.tei-c.org/About/Archive_new/ETE/Preview/](http://www.tei-c.org/About/Archive_new/ETE/Preview/ )&gt;.
   
 ### Assignment:
 
@@ -214,7 +217,7 @@
 ### Readings (Mar. 18):
 
   -  “Primary Sources.” *TEI by Example.* &lt;[http://teibyexample.org/examples/TBED06v00.htm](http://teibyexample.org/examples/TBED06v00.htm)&gt;.
-    -  “TEILite.” &lt;[http://www.tei-c.org/Guidelines/Customization/Lite/](http://www.tei-c.org/Guidelines/Customization/Lite/)&gt;.
+  -  “TEILite.” &lt;[http://www.tei-c.org/Guidelines/Customization/Lite/](http://www.tei-c.org/Guidelines/Customization/Lite/)&gt;.
   
 ### Assignment (Due Mar. 30):
   
@@ -226,7 +229,7 @@
 
  -  Pape, Sebastian, Christof Schöch, and Lutz Wegner, “TEICHI and the Tools Paradox.” &lt;[http://jtei.revues.org/432](http://jtei.revues.org/432 )&gt;
  -  “Documentation” and “Downloads.” TEICHI. &lt;[http://www.teichi.org/](http://www.teichi.org/ )&gt;
- -  Kirschenbaum, Matthew. “'So the Colors Cover the Wires?': Interface, Aesthetics, and Usability.” *Companion to Digital Humanities.* 523--542.
+ -  Kirschenbaum, Matthew. “'So the Colors Cover the Wires?': Interface, Aesthetics, and Usability.” *Companion to Digital Humanities.* 523--542.     &lt;[http://www.digitalhumanities.org/companion/](http://www.digitalhumanities.org/companion/ )&gt;.
 
 ### In-Class Activities:
 
@@ -234,19 +237,19 @@
   
 ### Readings (Apr. 1):
 
-  -  Wittern, Christian. “Writing Systems and Character Representation.” *Electronic Textual Editing.* 291--298.
+  -  Wittern, Christian. “Writing Systems and Character Representation.” *Electronic Textual Editing.* 291--298. &lt;[http://www.tei-c.org/About/Archive_new/ETE/Preview/](http://www.tei-c.org/About/Archive_new/ETE/Preview/ )&gt;.
   
 ### Assignment:
 
   -  Blog Post (500--750 words) on project status
-  -  Submit project letter to Drupal Instance
+  -  By start of class, submit TEI-encoded XML project letter to class Drupal Instance
 
 ## Week 13: Who is our audience?
 
 ### Readings (Apr. 6):
 
-  -  Deegan, Marilyn. “Collection and Preservation of an Electronic Edition.” *Electronic Textual Editing.* 358--370.
-  -  Smith, Abby. “Preservation.” *Companion to Digital Humanities.* 576--591.
+  -  Deegan, Marilyn. “Collection and Preservation of an Electronic Edition.” *Electronic Textual Editing.* 358--370. &lt;[http://www.tei-c.org/About/Archive_new/ETE/Preview/](http://www.tei-c.org/About/Archive_new/ETE/Preview/ )&gt;.
+  -  Smith, Abby. “Preservation.” *Companion to Digital Humanities.* 576--591.   &lt;[http://www.digitalhumanities.org/companion/](http://www.digitalhumanities.org/companion/ )&gt;.
 
 ### In-Class
 
@@ -254,7 +257,7 @@
    
 ### Assignment (Apr. 8):
 
-  -  By start of class on April 8, submit project letter to Drupal Instance
+  -  By start of class on April 8, submit project letter to Drupal TEICHI Instance
 
 
 ## Week 14
@@ -270,7 +273,7 @@
 
 ### Assignment:
   
-  -  Blog Post (500--750 words) on project status
+  -  Blog Post (500--750 words) on project status.
 
 ## Week 14 (cont'd) and Week 15 (Apr. 22--Apr. Apr. 27)
 

@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  8 FEB 2015 21:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  4 MAR 2015 08:50
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **syll_DH.tex
 (./syll_DH.tex
@@ -864,40 +865,46 @@ Underfull \vbox (badness 10000) detected at line 161
 [1
 
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] [3] [4] [5] [6] [7] [8] [9] [10] [11]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1186.
- [12]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1186.
+[2] [3] [4] [5] [6] [7] [8] [9] [10]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1199.
+ [11]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1199.
  (./syll_DH.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1186.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1186.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1199.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1199.
 
-Package rerunfilecheck Info: File `syll_DH.out' has not changed.
-(rerunfilecheck)             Checksum: EB47FA570F79E4679C58BD321DF03A55;14008.
 
+
+Package rerunfilecheck Warning: File `syll_DH.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `syll_DH.out':
+(rerunfilecheck)             Before: EB47FA570F79E4679C58BD321DF03A55;14008
+(rerunfilecheck)             After:  712E29E56E1A22CB1AE7736A506B241D;14003.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1186.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1199.
  ) 
 Here is how much of TeX's memory you used:
- 11802 strings out of 493117
- 170060 string characters out of 6135433
- 268882 words of memory out of 5000000
- 14920 multiletter control sequences out of 15000+600000
- 44717 words of font info for 96 fonts, out of 8000000 for 9000
+ 11810 strings out of 493117
+ 170166 string characters out of 6135433
+ 270884 words of memory out of 5000000
+ 14921 multiletter control sequences out of 15000+600000
+ 45237 words of font info for 100 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,6n,35p,534b,436s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,5n,35p,534b,403s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
 texlive/2014/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2014/
 texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2014/texmf-dist
 /fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2014/texmf-dist/fonts/typ
 e1/public/lm/lmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/l
 m/lmri10.pfb>
-Output written on syll_DH.pdf (12 pages, 168467 bytes).
+Output written on syll_DH.pdf (11 pages, 168829 bytes).
 PDF statistics:
- 493 PDF objects out of 1000 (max. 8388607)
- 470 compressed objects within 5 object streams
- 101 named destinations out of 1000 (max. 500000)
+ 509 PDF objects out of 1000 (max. 8388607)
+ 487 compressed objects within 5 object streams
+ 100 named destinations out of 1000 (max. 500000)
  12417 words of extra memory for PDF output out of 14400 (max. 10000000)
 
